@@ -1,6 +1,6 @@
 # Complete Class List
 
-[ Back to Home](../README.md) | [Documentation Home](../README.md) | [Classes](Classes.md)
+[[Home|Back to Home]] | [[Home|Documentation Home]] | [[Classes]]
 
 Alphabetical listing of all classes in the AlibreScript API.
 
@@ -184,4 +184,4 @@ Namespace: `AlibreScript.API`
 Type of Windows input
 
 ---
-**[⬆ Back to Top](#class-list)**
+**[[Class List#class-list|⬆ Back to Top]]**

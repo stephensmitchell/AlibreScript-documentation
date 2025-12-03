@@ -1,14 +1,14 @@
 # Class List
 
-**[Home](Home) | [Classes](Classes) | [Methods](Methods-Index) | [Properties](Properties-Index) | [Members](Members-Index)**
+**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
 *Complete alphabetical listing of all classes in the AlibreScript API with descriptions*
 
 ## Quick Navigation
-- [ Categorized Classes](Classes) - Browse classes by functionality
-- [ Search Methods](Methods-Index) - Find specific methods
-- [ Property Reference](Properties-Index) - Browse properties
-- [ Core Interfaces](Interfaces) - Interface definitions
+- [[Classes|Categorized Classes]] - Browse classes by functionality
+- [[Methods-Index|Search Methods]] - Find specific methods
+- [[Properties-Index|Property Reference]] - Browse properties
+- [[Interfaces|Core Interfaces]] - Interface definitions
 
 ## Complete Class Reference
 
@@ -192,4 +192,4 @@ Namespace: `AlibreScript.API`
 Type of Windows input
 
 ---
-**[⬆ Back to Top](#class-list)**
+**[[Class-List#class-list|⬆ Back to Top]]**

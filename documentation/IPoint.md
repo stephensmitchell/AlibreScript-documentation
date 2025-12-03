@@ -1,22 +1,22 @@
 # IPoint
 
-**[Home](Home) | [Classes](Classes) | [Interfaces](Interfaces) | [Methods](Methods-Index) | [Properties](Properties-Index)**
+**[[Home]] | [[Classes]] | [[Interfaces]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-** Location:**[Interfaces](Interfaces) IPoint
+** Location:**[[Interfaces]] IPoint
 
 **Namespace:** `AlibreScript.API` | **Kind:** Interface
 
 The IPoint interface defines the contract for point operations and properties, providing a fundamental interface for all point-based geometry operations throughout the API.
 
 ## Related Classes
-- [Point](Point) - Concrete point implementation
-- [SketchPoint](SketchPoint) - 2D sketch points
-- [SketchPoint3D](SketchPoint3D) - 3D sketch points
-- [PolylinePoint](PolylinePoint) - Polyline points
-- [IAxis](IAxis), [IPlane](IPlane) - Related interfaces
+- [[Point]] - Concrete point implementation
+- [[SketchPoint]] - 2D sketch points
+- [[SketchPoint3D]] - 3D sketch points
+- [[PolylinePoint]] - Polyline points
+- [[IAxis]], [[IPlane]] - Related interfaces
 
 ## Quick Navigation
-- [Methods](#methods) - Interface operations
+- [[IPoint#methods|Methods]] - Interface operations
 
 ## Methods
 
@@ -35,4 +35,4 @@ Object PointObject()
 ```
 
 ---
-**[⬆ Back to Top](#ipoint)**
+**[[IPoint#ipoint|⬆ Back to Top]]**

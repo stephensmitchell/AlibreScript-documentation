@@ -1,8 +1,8 @@
 # Part
 
-**[Home](Home) | [Classes](Classes) | [Methods](Methods-Index) | [Properties](Properties-Index)**
+**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-** Location:**[Assembly & Parts](Classes#assembly-and-parts) Part
+** Location:**[[Classes#assembly-and-parts|Assembly & Parts]] Part
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
@@ -49,18 +49,18 @@ part.Save("Part creation complete")
 ```
 
 ## Related Classes
-- [Assembly](Assembly) - Contains parts as components
-- [AssembledPart](AssembledPart) - Part within an assembly context
-- [Feature](Feature) - Part features and operations
-- [Configuration](Configuration) - Part configurations
-- [GlobalParameters](GlobalParameters) - Part parameters
+- [[Assembly]] - Contains parts as components
+- [[AssembledPart]] - Part within an assembly context
+- [[Feature]] - Part features and operations
+- [[Configuration]] - Part configurations
+- [[GlobalParameters]] - Part parameters
 
 ## Quick Navigation
-- [Properties](#properties) - Part properties and metadata
-- [Methods](#methods) - Available operations
-- [Sketching Methods](#sketching-methods) - Drawing and sketching
-- [Feature Methods](#feature-methods) - Feature operations
-- [File Operations](#file-operations) - Save, export, import
+- [[Part#properties|Properties]] - Part properties and metadata
+- [[Part#methods|Methods]] - Available operations
+- [[Part#sketching-methods|Sketching Methods]] - Drawing and sketching
+- [[Part#feature-methods|Feature Methods]] - Feature operations
+- [[Part#file-operations|File Operations]] - Save, export, import
 
 ## Properties
 
@@ -2385,5 +2385,5 @@ feature (Feature): Feature to unsuppress
 ```
 
 ---
-**[⬆ Back to Top](#part)**
+**[[Part#part|⬆ Back to Top]]**
 

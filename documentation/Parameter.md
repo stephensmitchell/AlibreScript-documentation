@@ -1,23 +1,23 @@
 # Parameter
 
-**[Home](Home) | [Classes](Classes) | [Methods](Methods-Index) | [Properties](Properties-Index) | [Members](Members-Index)**
+**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-** Location:**[Configuration & Parameters](Classes#configuration) Parameter
+** Location:**[[Classes#configuration|Configuration & Parameters]] Parameter
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The Parameter class provides functionality for managing individual parameters including equations, units, Excel linkages, and parameter relationships.
 
 ## Related Classes
-- [GlobalParameters](GlobalParameters) - Parameter collections
-- [ParameterTypes](ParameterTypes) - Parameter type definitions
-- [ParameterUnits](ParameterUnits) - Unit definitions
-- [Configuration](Configuration) - Parameter configurations
-- [Part](Part), [Assembly](Assembly) - Use parameters
+- [[GlobalParameters]] - Parameter collections
+- [[ParameterTypes]] - Parameter type definitions
+- [[ParameterUnits]] - Unit definitions
+- [[Configuration]] - Parameter configurations
+- [[Part]], [[Assembly]] - Use parameters
 
 ## Quick Navigation
-- [Properties](#properties) - Parameter attributes and linkages
-- [Methods](#methods) - Parameter operations
+- [[Parameter#properties|Properties]] - Parameter attributes and linkages
+- [[Parameter#methods|Methods]] - Parameter operations
 
 ## Properties
 
@@ -83,4 +83,4 @@ units (UnitTypes): Units used in the cell
 ```
 
 ---
-**[⬆ Back to Top](#parameter)**
+**[[Parameter#parameter|⬆ Back to Top]]**

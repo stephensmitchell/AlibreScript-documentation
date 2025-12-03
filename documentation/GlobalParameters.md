@@ -1,25 +1,25 @@
 # GlobalParameters
 
-**[Home](Home) | [Classes](Classes) | [Methods](Methods-Index) | [Properties](Properties-Index) | [Members](Members-Index)**
+**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-** Location:**[Configuration & Parameters](Classes#configuration) GlobalParameters
+** Location:**[[Classes#configuration|Configuration & Parameters]] GlobalParameters
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The GlobalParameters class provides comprehensive functionality for managing global parameters, configurations, and parameter relationships across parts and assemblies.
 
 ## Related Classes
-- [Parameter](Parameter) - Individual parameter management
-- [Configuration](Configuration) - Configuration operations
-- [ParameterTypes](ParameterTypes) - Parameter type definitions
-- [ParameterUnits](ParameterUnits) - Parameter unit definitions
-- [Part](Part), [Assembly](Assembly) - Use global parameters
+- [[Parameter]] - Individual parameter management
+- [[Configuration]] - Configuration operations
+- [[ParameterTypes]] - Parameter type definitions
+- [[ParameterUnits]] - Parameter unit definitions
+- [[Part]], [[Assembly]] - Use global parameters
 
 ## Quick Navigation
-- [Properties](#properties) - Parameter collections and identity
-- [Methods](#methods) - Parameter operations
-- [Configuration Methods](#configuration-methods) - Configuration management
-- [File Operations](#file-operations) - Save and load operations
+- [[GlobalParameters#properties|Properties]] - Parameter collections and identity
+- [[GlobalParameters#methods|Methods]] - Parameter operations
+- [[GlobalParameters#configuration-methods|Configuration Methods]] - Configuration management
+- [[GlobalParameters#file-operations|File Operations]] - Save and load operations
 
 ## Properties
 
@@ -234,4 +234,4 @@ new_name (str): New name for global parameters set
 ```
 
 ---
-**[⬆ Back to Top](#globalparameters)**
+**[[GlobalParameters#globalparameters|⬆ Back to Top]]**

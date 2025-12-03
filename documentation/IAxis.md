@@ -1,22 +1,22 @@
 # IAxis
 
-**[Home](Home) | [Classes](Classes) | [Interfaces](Interfaces) | [Methods](Methods-Index) | [Properties](Properties-Index)**
+**[[Home]] | [[Classes]] | [[Interfaces]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-** Location:**[Interfaces](Interfaces) IAxis
+** Location:**[[Interfaces]] IAxis
 
 **Namespace:** `AlibreScript.API` | **Kind:** Interface
 
 The IAxis interface defines the contract for axis operations and properties, providing a consistent interface for geometric axis definitions and transformations.
 
 ## Related Classes
-- [Axis](Axis) - Concrete axis implementation
-- [IPlane](IPlane) - Related plane interface
-- [IPoint](IPoint) - Related point interface
-- [Part](Part) - Contains axis elements
-- [Assembly](Assembly) - Assembly axis operations
+- [[Axis]] - Concrete axis implementation
+- [[IPlane]] - Related plane interface
+- [[IPoint]] - Related point interface
+- [[Part]] - Contains axis elements
+- [[Assembly]] - Assembly axis operations
 
 ## Quick Navigation
-- [Methods](#methods) - Interface operations
+- [[IAxis#methods|Methods]] - Interface operations
 
 ## Methods
 
@@ -28,4 +28,4 @@ Object GetOccurrence()
 ```
 
 ---
-**[⬆ Back to Top](#iaxis)**
+**[[IAxis#iaxis|⬆ Back to Top]]**

@@ -1,6 +1,6 @@
 # AssembledSubAssembly
 
-[ Back to Classes](Classes) | [Documentation Home](../README.md) | [All Classes](Classes)
+[[Classes|Back to Classes]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
 
 - Namespace: `AlibreScript.API`
 - Kind: `Class`
@@ -59,4 +59,4 @@ Mapped occurrence or null if not found
 ```
 
 ---
-**[⬆ Back to Top](#assembledsubassembly)**
+**[[AssembledSubAssembly#assembledsubassembly|⬆ Back to Top]]**

@@ -1,6 +1,6 @@
 # ThreeD
 
-[ Back to Classes](Classes) | [Documentation Home](../README.md) | [Methods Index](Methods-Index) | [Properties Index](Properties-Index)
+[[Classes|Back to Classes]] | [[Home|Documentation Home]] | [[Methods-Index|Methods Index]] | [[Properties-Index|Properties Index]]
 
 - Namespace: `AlibreScript.API`
 - Kind: `Class`
@@ -48,4 +48,4 @@ Transformed point [X, Y, Z]
 ```
 
 ---
-**[⬆ Back to Top](#threed)**
+**[[ThreeD#threed|⬆ Back to Top]]**

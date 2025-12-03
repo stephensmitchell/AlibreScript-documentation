@@ -1,6 +1,6 @@
 # Line3D
 
-[ Back to Classes](Classes) | [Documentation Home](../README.md) | [Methods Index](Methods-Index) | [Properties Index](Properties-Index)
+[[Classes|Back to Classes]] | [[Home|Documentation Home]] | [[Methods-Index|Methods Index]] | [[Properties-Index|Properties Index]]
 
 - Namespace: `AlibreScript.API`
 - Kind: `Class`
@@ -52,4 +52,4 @@ is_reference (bool): True if a reference line
 ```
 
 ---
-**[⬆ Back to Top](#line3d)**
+**[[Line3D#line3d|⬆ Back to Top]]**

@@ -1,6 +1,6 @@
 # CircularArc3D
 
-[ Back to Classes](Classes) | [Documentation Home](../README.md) | [Methods Index](Methods-Index) | [Properties Index](Properties-Index)
+[[Classes|Back to Classes]] | [[Home|Documentation Home]] | [[Methods-Index|Methods Index]] | [[Properties-Index|Properties Index]]
 
 - Namespace: `AlibreScript.API`
 - Kind: `Class`
@@ -75,4 +75,4 @@ is_reference (bool): True if a reference arc, false if a regular arc
 ```
 
 ---
-**[⬆ Back to Top](#circulararc3d)**
+**[[CircularArc3D#circulararc3d|⬆ Back to Top]]**

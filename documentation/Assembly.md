@@ -1,8 +1,8 @@
 # Assembly
 
-**[Home](Home) | [Classes](Classes) | [Methods](Methods-Index) | [Properties](Properties-Index)**
+[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
 
-** Location:**[Assembly & Parts](Classes#assembly-and-parts) Assembly
+**Location:** [[Classes#assembly-and-parts|Assembly & Parts]] Assembly
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
@@ -43,18 +43,18 @@ assembly.Save("Final assembly saved")
 ```
 
 ## Related Classes
-- [AssembledPart](AssembledPart) - Individual parts within assembly
-- [AssembledSubAssembly](AssembledSubAssembly) - Sub-assemblies within assembly
-- [Part](Part) - Base part functionality
-- [Assembly.ConstraintBoundsType](Assembly.ConstraintBoundsType) - Constraint definitions
-- [Configuration](Configuration) - Assembly configurations
+- [[AssembledPart]] - Individual parts within assembly
+- [[AssembledSubAssembly]] - Sub-assemblies within assembly
+- [[Part]] - Base part functionality
+- [[Assembly.ConstraintBoundsType]] - Constraint definitions
+- [[Configuration]] - Assembly configurations
 
 ## Quick Navigation
-- [Properties](#properties) - Assembly properties and metadata
-- [Methods](#methods) - Available operations
-- [Constraint Methods](#constraint-methods) - Assembly constraints
-- [Component Methods](#component-methods) - Managing parts and sub-assemblies
-- [File Operations](#file-operations) - Save, export, import
+- [[Assembly#properties|Properties]] - Assembly properties and metadata
+- [[Assembly#methods|Methods]] - Available operations
+- [[Assembly#constraint-methods|Constraint Methods]] - Assembly constraints
+- [[Assembly#component-methods|Component Methods]] - Managing parts and sub-assemblies
+- [[Assembly#file-operations|File Operations]] - Save, export, import
 
 ## Properties
 
@@ -2748,5 +2748,5 @@ bounds_type (Assembly.ConstraintBoundsType): Bounds type for constraint
 ```
 
 ---
-**[⬆ Back to Top](#assembly)**
+**[[Assembly#assembly|⬆ Back to Top]]**
 

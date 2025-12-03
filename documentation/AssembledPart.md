@@ -1,6 +1,6 @@
 # AssembledPart
 
-[ Back to Classes](Classes) | [Documentation Home](../README.md) | [All Classes](Classes)
+[[Classes|Back to Classes]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
 
 - Namespace: `AlibreScript.API`
 - Kind: `Class`
@@ -314,4 +314,4 @@ Point [X, Y, Z] in the assembly coordinate system
 ```
 
 ---
-**[⬆ Back to Top](#assembledpart)**
+**[[AssembledPart#assembledpart|⬆ Back to Top]]**

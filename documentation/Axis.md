@@ -1,6 +1,6 @@
 # Axis
 
-[ Back to Classes](Classes) | [Documentation Home](../README.md) | [All Classes](Classes)
+[[Classes|Back to Classes]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
 
 - Namespace: `AlibreScript.API`
 - Kind: `Class`
@@ -43,4 +43,4 @@ Object Show()
 ```
 
 ---
-**[⬆ Back to Top](#axis)**
+**[[Axis#axis|⬆ Back to Top]]**

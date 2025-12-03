@@ -1,27 +1,27 @@
 # Sketch
 
-**[Home](Home) | [Classes](Classes) | [Methods](Methods-Index) | [Properties](Properties-Index)**
+**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-** Location:**[Sketching & Drawing](Classes#sketching) Sketch
+** Location:**[[Classes#sketching|Sketching & Drawing]] Sketch
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The Sketch class provides functionality for 2D sketching operations including creating geometric figures, applying constraints, and managing sketch elements.
 
 ## Related Classes
-- [Sketch3D](Sketch3D) - 3D sketching operations
-- [Sketch.Constraints](Sketch.Constraints) - Sketch constraint management
-- [SketchPoint](SketchPoint) - 2D sketch points
-- [Line](Line), [Circle](Circle), [CircularArc](CircularArc) - Sketch geometry
-- [Part](Part) - Contains sketches
+- [[Sketch3D]] - 3D sketching operations
+- [[Sketch.Constraints]] - Sketch constraint management
+- [[SketchPoint]] - 2D sketch points
+- [[Line]], [[Circle]], [[CircularArc]] - Sketch geometry
+- [[Part]] - Contains sketches
 
 ## Quick Navigation
-- [Properties](#properties) - Sketch properties
-- [Methods](#methods) - All available operations
-- [Arc Methods](#arc-methods) - Circular arc operations
-- [Line Methods](#line-methods) - Line creation and manipulation
-- [Circle Methods](#circle-methods) - Circle operations
-- [Constraint Methods](#constraint-methods) - Apply sketch constraints
+- [[Sketch#properties|Properties]] - Sketch properties
+- [[Sketch#methods|Methods]] - All available operations
+- [[Sketch#arc-methods|Arc Methods]] - Circular arc operations
+- [[Sketch#line-methods|Line Methods]] - Line creation and manipulation
+- [[Sketch#circle-methods|Circle Methods]] - Circle operations
+- [[Sketch#constraint-methods|Constraint Methods]] - Apply sketch constraints
 
 ## Properties
 
@@ -905,5 +905,5 @@ point_above_axis (list): Point to be located above the X-axis
 ```
 
 ---
-**[⬆ Back to Top](#sketch)**
+**[[Sketch#sketch|⬆ Back to Top]]**
 

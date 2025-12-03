@@ -1,11 +1,11 @@
 # Members Index - W
 
-[ Back to Members Index](Members-Index) | [Documentation Home](../README.md) | [All Classes](Classes)
+[[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
 
-- **Property**[WebLink](Assembly#weblink) in [Assembly](Assembly)
-- **Property**[WebLink](Part#weblink) in [Part](Part)
-- **Property**[Weights](Bspline#weights) in [Bspline](Bspline)
-- **Property**[Weights](Bspline3D#weights) in [Bspline3D](Bspline3D)
+- **Property**[[Assembly#weblink|WebLink]] in [[Assembly]]
+- **Property**[[Part#weblink|WebLink]] in [[Part]]
+- **Property**[[Bspline#weights|Weights]] in [[Bspline]]
+- **Property**[[Bspline3D#weights|Weights]] in [[Bspline3D]]
 
 ---
-**[⬆ Back to Top](#members-index-w)**
+**[[members-w#members-index-w|⬆ Back to Top]]**

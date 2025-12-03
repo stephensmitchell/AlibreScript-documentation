@@ -1,6 +1,6 @@
 # Bspline3D
 
-[ Back to Classes](Classes) | [Documentation Home](../README.md) | [All Classes](Classes)
+[[Classes|Back to Classes]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
 
 - Namespace: `AlibreScript.API`
 - Kind: `Class`
@@ -187,4 +187,4 @@ List of points between segments and normals [X1, Y1, Z1, A1, B1, C1, X2, Y2, Z2,
 ```
 
 ---
-**[⬆ Back to Top](#bspline3d)**
+**[[Bspline3D#bspline3d|⬆ Back to Top]]**

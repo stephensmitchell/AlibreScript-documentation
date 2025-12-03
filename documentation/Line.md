@@ -1,23 +1,23 @@
 # Line
 
-**[Home](Home) | [Classes](Classes) | [Methods](Methods-Index) | [Properties](Properties-Index) | [Members](Members-Index)**
+[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]
 
-** Location:**[Geometry & Shapes](Classes#geometry) Line
+**Location:** [[Classes#geometry|Geometry & Shapes]] Line
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The Line class provides functionality for creating and manipulating linear geometry within 2D sketches.
 
 ## Related Classes
-- [Line3D](Line3D) - 3D line operations
-- [Sketch](Sketch) - Contains line geometry
-- [SketchPoint](SketchPoint) - Line endpoints
-- [Polyline](Polyline) - Multi-segment lines
-- [Circle](Circle), [CircularArc](CircularArc) - Curved geometry
+- [[Line3D]] - 3D line operations
+- [[Sketch]] - Contains line geometry
+- [[SketchPoint]] - Line endpoints
+- [[Polyline]] - Multi-segment lines
+- [[Circle]], [[CircularArc]] - Curved geometry
 
 ## Quick Navigation
-- [Properties](#properties) - Line properties and dimensions
-- [Methods](#methods) - Available operations
+- [[Line#properties|Properties]] - Line properties and dimensions
+- [[Line#methods|Methods]] - Available operations
 
 ## Properties
 
@@ -66,4 +66,4 @@ is_reference (bool): True if a reference line
 ```
 
 ---
-**[⬆ Back to Top](#line)**
+[[Line#line|⬆ Back to Top]]

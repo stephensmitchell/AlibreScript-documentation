@@ -1,20 +1,20 @@
 # Members Index - L
 
-[ Back to Members Index](Members-Index) | [Documentation Home](../README.md) | [All Classes](Classes)
+[[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
 
-- **Property**[LastAuthor](Assembly#lastauthor) in [Assembly](Assembly)
-- **Property**[LastAuthor](Part#lastauthor) in [Part](Part)
-- **Property**[LastUpdateDate](Assembly#lastupdatedate) in [Assembly](Assembly)
-- **Property**[LastUpdateDate](Part#lastupdatedate) in [Part](Part)
-- **Property**[Length](Bspline#length) in [Bspline](Bspline)
-- **Property**[Length](Bspline3D#length) in [Bspline3D](Bspline3D)
-- **Property**[Length](Circle#length) in [Circle](Circle)
-- **Property**[Length](Edge#length) in [Edge](Edge)
-- **Property**[Length](Line#length) in [Line](Line)
-- **Property**[Length](Line3D#length) in [Line3D](Line3D)
-- **Method**[LoadXml](Sketch#loadxml) in [Sketch](Sketch)
-- **Method**[LoadXml](Sketch3D#loadxml) in [Sketch3D](Sketch3D)
-- **Method**[LockAll](Configuration#lockall) in [Configuration](Configuration)
+- **Property**[[Assembly#lastauthor|LastAuthor]] in [[Assembly]]
+- **Property**[[Part#lastauthor|LastAuthor]] in [[Part]]
+- **Property**[[Assembly#lastupdatedate|LastUpdateDate]] in [[Assembly]]
+- **Property**[[Part#lastupdatedate|LastUpdateDate]] in [[Part]]
+- **Property**[[Bspline#length|Length]] in [[Bspline]]
+- **Property**[[Bspline3D#length|Length]] in [[Bspline3D]]
+- **Property**[[Circle#length|Length]] in [[Circle]]
+- **Property**[[Edge#length|Length]] in [[Edge]]
+- **Property**[[Line#length|Length]] in [[Line]]
+- **Property**[[Line3D#length|Length]] in [[Line3D]]
+- **Method**[[Sketch#loadxml|LoadXml]] in [[Sketch]]
+- **Method**[[Sketch3D#loadxml|LoadXml]] in [[Sketch3D]]
+- **Method**[[Configuration#lockall|LockAll]] in [[Configuration]]
 
 ---
-**[⬆ Back to Top](#members-index-l)**
+**[[members-l#members-index-l|⬆ Back to Top]]**

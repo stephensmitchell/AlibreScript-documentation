@@ -1,15 +1,15 @@
 ## Navigation
-- **[Home](Home)** - Documentation hub
-- **[README](../README.md)** - Project overview
-- **[Classes](Classes)** - All classes by category
-- **[Methods](Methods-Index)** - Method reference
-- **[Properties](Properties-Index)** - Property reference
-- **[Members](Members-Index)** - Member index A-Z
-- **[Namespaces](Namespaces)** - Namespace organization
-- **[Interfaces](Interfaces)** - Interface definitions
+- **[[Home]]** - Documentation hub
+- **[[Home|README]]** - Project overview
+- **[[Classes]]** - All classes by category
+- **[[Methods-Index|Methods]]** - Method reference
+- **[[Properties-Index|Properties]]** - Property reference
+- **[[Members-Index|Members]]** - Member index A-Z
+- **[[Namespaces]]** - Namespace organization
+- **[[Interfaces]]** - Interface definitions
 
 ## Quick Access
-- **[Assembly & Parts](Classes#assembly-and-parts)**
-- **[Sketching](Classes#sketching)**
-- **[Geometry](Classes#geometry)**
-- **[Configuration](Classes#configuration)**
+- **[[Classes#assembly-and-parts|Assembly & Parts]]**
+- **[[Classes#sketching|Sketching]]**
+- **[[Classes#geometry|Geometry]]**
+- **[[Classes#configuration|Configuration]]**

@@ -1,6 +1,6 @@
 # Assembly.ConstraintBoundsType
 
-[ Back to Classes](Classes) | [Documentation Home](../README.md) | [All Classes](Classes)
+[[Classes|Back to Classes]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
 
 - Namespace: `AlibreScript.API.Assembly`
 - Kind: `Class`
@@ -8,4 +8,4 @@
 Assembly constraint bounds types
 
 ---
-**[⬆ Back to Top](#assemblyconstraintboundstype)**
+**[[Assembly.ConstraintBoundsType#assemblyconstraintboundstype|⬆ Back to Top]]**

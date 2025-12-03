@@ -1,22 +1,22 @@
 # IPlane
 
-**[Home](Home) | [Classes](Classes) | [Interfaces](Interfaces) | [Methods](Methods-Index) | [Properties](Properties-Index)**
+**[[Home]] | [[Classes]] | [[Interfaces]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-** Location:**[Interfaces](Interfaces) IPlane
+** Location:**[[Interfaces]] IPlane
 
 **Namespace:** `AlibreScript.API` | **Kind:** Interface
 
 The IPlane interface defines the contract for plane operations and properties, essential for 3D geometry operations and coordinate system definitions.
 
 ## Related Classes
-- [Plane](Plane) - Concrete plane implementation
-- [IAxis](IAxis) - Related axis interface
-- [IPoint](IPoint) - Related point interface
-- [Sketch](Sketch) - Sketch planes
-- [Part](Part) - Contains plane elements
+- [[Plane]] - Concrete plane implementation
+- [[IAxis]] - Related axis interface
+- [[IPoint]] - Related point interface
+- [[Sketch]] - Sketch planes
+- [[Part]] - Contains plane elements
 
 ## Quick Navigation
-- [Methods](#methods) - Interface operations
+- [[IPlane#methods|Methods]] - Interface operations
 
 ## Methods
 
@@ -28,4 +28,4 @@ Object GetOccurrence()
 ```
 
 ---
-**[⬆ Back to Top](#iplane)**
+**[[IPlane#iplane|⬆ Back to Top]]**

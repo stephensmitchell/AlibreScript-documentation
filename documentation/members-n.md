@@ -1,27 +1,27 @@
 # Members Index - N
 
-[ Back to Members Index](Members-Index) | [Documentation Home](../README.md) | [All Classes](Classes)
+[[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
 
-- **Property**[Name](AssembledPart#name) in [AssembledPart](AssembledPart)
-- **Property**[Name](AssembledSubAssembly#name) in [AssembledSubAssembly](AssembledSubAssembly)
-- **Property**[Name](Assembly#name) in [Assembly](Assembly)
-- **Property**[Name](Axis#name) in [Axis](Axis)
-- **Property**[Name](Configuration#name) in [Configuration](Configuration)
-- **Property**[Name](Edge#name) in [Edge](Edge)
-- **Property**[Name](Face#name) in [Face](Face)
-- **Property**[Name](Feature#name) in [Feature](Feature)
-- **Property**[Name](GlobalParameters#name) in [GlobalParameters](GlobalParameters)
-- **Property**[Name](Parameter#name) in [Parameter](Parameter)
-- **Property**[Name](Part#name) in [Part](Part)
-- **Property**[Name](Plane#name) in [Plane](Plane)
-- **Property**[Name](Point#name) in [Point](Point)
-- **Property**[Name](Sketch#name) in [Sketch](Sketch)
-- **Property**[Name](Sketch3D#name) in [Sketch3D](Sketch3D)
-- **Property**[Name](Vertex#name) in [Vertex](Vertex)
-- **Method**[NonUniformScale](Part#nonuniformscale) in [Part](Part)
-- **Method**[NormalizeVector](TwoD#normalizevector) in [TwoD](TwoD)
-- **Property**[Number](Assembly#number) in [Assembly](Assembly)
-- **Property**[Number](Part#number) in [Part](Part)
+- **Property**[[AssembledPart#name|Name]] in [[AssembledPart]]
+- **Property**[[AssembledSubAssembly#name|Name]] in [[AssembledSubAssembly]]
+- **Property**[[Assembly#name|Name]] in [[Assembly]]
+- **Property**[[Axis#name|Name]] in [[Axis]]
+- **Property**[[Configuration#name|Name]] in [[Configuration]]
+- **Property**[[Edge#name|Name]] in [[Edge]]
+- **Property**[[Face#name|Name]] in [[Face]]
+- **Property**[[Feature#name|Name]] in [[Feature]]
+- **Property**[[GlobalParameters#name|Name]] in [[GlobalParameters]]
+- **Property**[[Parameter#name|Name]] in [[Parameter]]
+- **Property**[[Part#name|Name]] in [[Part]]
+- **Property**[[Plane#name|Name]] in [[Plane]]
+- **Property**[[Point#name|Name]] in [[Point]]
+- **Property**[[Sketch#name|Name]] in [[Sketch]]
+- **Property**[[Sketch3D#name|Name]] in [[Sketch3D]]
+- **Property**[[Vertex#name|Name]] in [[Vertex]]
+- **Method**[[Part#nonuniformscale|NonUniformScale]] in [[Part]]
+- **Method**[[TwoD#normalizevector|NormalizeVector]] in [[TwoD]]
+- **Property**[[Assembly#number|Number]] in [[Assembly]]
+- **Property**[[Part#number|Number]] in [[Part]]
 
 ---
-**[⬆ Back to Top](#members-index-n)**
+**[[members-n#members-index-n|⬆ Back to Top]]**

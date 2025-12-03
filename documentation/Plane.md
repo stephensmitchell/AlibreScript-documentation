@@ -1,6 +1,6 @@
 # Plane
 
-[ Back to Classes](Classes) | [Documentation Home](../README.md) | [Methods Index](Methods-Index) | [Properties Index](Properties-Index)
+[[Classes|Back to Classes]] | [[Home|Documentation Home]] | [[Methods-Index|Methods Index]] | [[Properties-Index|Properties Index]]
 
 - Namespace: `AlibreScript.API`
 - Kind: `Class`
@@ -33,4 +33,4 @@ true if the planes are parallel
 ```
 
 ---
-**[⬆ Back to Top](#plane)**
+**[[Plane#plane|⬆ Back to Top]]**

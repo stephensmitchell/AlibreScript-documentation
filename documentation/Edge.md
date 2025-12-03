@@ -1,6 +1,6 @@
 # Edge
 
-[ Back to Classes](Classes) | [Documentation Home](../README.md) | [Methods Index](Methods-Index) | [Properties Index](Properties-Index)
+[[Classes|Back to Classes]] | [[Home|Documentation Home]] | [[Methods-Index|Methods Index]] | [[Properties-Index|Properties Index]]
 
 - Namespace: `AlibreScript.API`
 - Kind: `Class`
@@ -44,4 +44,4 @@ Object GetVertices()
 ```
 
 ---
-**[⬆ Back to Top](#edge)**
+**[[Edge#edge|⬆ Back to Top]]**

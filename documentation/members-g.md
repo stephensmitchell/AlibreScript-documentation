@@ -1,119 +1,119 @@
 # Members Index - G
 
-**[Home](Home) | [Classes](Classes) | [Members](Members-Index) | [Methods](Methods-Index) | [Properties](Properties-Index)**
+**[[Home]] | [[Classes]] | [[Members-Index|Members]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-** Navigation:** **[F](members-f)** | **[H](members-h) ** | **[ Members Index](Members-Index)**
+** Navigation:** **[[members-f|F]]** | **[[members-h|H]] ** | **[[Members-Index|Members Index]]**
 
 *All members starting with the letter "G" - 86 items*
 
 ## Key Categories in "G"
 
 ### Configuration Methods
-- [GetActiveConfiguration](Assembly#getactiveconfiguration) - Get active configuration
-- [GetConfiguration](Assembly#getconfiguration) - Retrieve specific configurations
+- [[Assembly#getactiveconfiguration|GetActiveConfiguration]] - Get active configuration
+- [[Assembly#getconfiguration|GetConfiguration]] - Retrieve specific configurations
 
 ### Geometry & Measurement
-- [GetArea](Face#getarea) - Calculate face areas
-- [GetBoundingBox](Part#getboundingbox) - Get object boundaries
-- [GetCoordinates](Point#getcoordinates) - Point coordinate retrieval
+- [[Face#getarea|GetArea]] - Calculate face areas
+- [[Part#getboundingbox|GetBoundingBox]] - Get object boundaries
+- [[Point#getcoordinates|GetCoordinates]] - Point coordinate retrieval
 
 ### Assembly & Part Methods
-- [GetAssembly](AssembledPart#getassembly) - Assembly retrieval
-- [GetAxis](Assembly#getaxis) - Axis element access
-- [Get3DSketch](Part#get3dsketch) - 3D sketch retrieval
+- [[AssembledPart#getassembly|GetAssembly]] - Assembly retrieval
+- [[Assembly#getaxis|GetAxis]] - Axis element access
+- [[Part#get3dsketch|Get3DSketch]] - 3D sketch retrieval
 
 ### System & Utility Methods
-- [GetCustomProperty](Assembly#getcustomproperty) - Custom property access
-- [GetDisplayedForm](Windows#getdisplayedform) - Window management
+- [[Assembly#getcustomproperty|GetCustomProperty]] - Custom property access
+- [[Windows#getdisplayedform|GetDisplayedForm]] - Window management
 
 ## Complete List
 
-- **Method**[Get3DSketch](Part#get3dsketch) in [Part](Part)
-- **Method**[GetActiveConfiguration](Assembly#getactiveconfiguration) in [Assembly](Assembly)
-- **Method**[GetActiveConfiguration](GlobalParameters#getactiveconfiguration) in [GlobalParameters](GlobalParameters)
-- **Method**[GetActiveConfiguration](Part#getactiveconfiguration) in [Part](Part)
-- **Method**[GetAdjoiningFaces](Face#getadjoiningfaces) in [Face](Face)
-- **Method**[GetArea](Face#getarea) in [Face](Face)
-- **Method**[GetAssembly](AssembledPart#getassembly) in [AssembledPart](AssembledPart)
-- **Method**[GetAssemblyBoundingBox](AssembledPart#getassemblyboundingbox) in [AssembledPart](AssembledPart)
-- **Method**[GetAssemblyVertices](AssembledPart#getassemblyvertices) in [AssembledPart](AssembledPart)
-- **Method**[GetAxis](Assembly#getaxis) in [Assembly](Assembly)
-- **Method**[GetAxis](Part#getaxis) in [Part](Part)
-- **Method**[GetBoundingBox](Part#getboundingbox) in [Part](Part)
-- **Method**[GetConfiguration](AssembledPart#getconfiguration) in [AssembledPart](AssembledPart)
-- **Method**[GetConfiguration](AssembledSubAssembly#getconfiguration) in [AssembledSubAssembly](AssembledSubAssembly)
-- **Method**[GetConfiguration](Assembly#getconfiguration) in [Assembly](Assembly)
-- **Method**[GetConfiguration](GlobalParameters#getconfiguration) in [GlobalParameters](GlobalParameters)
-- **Method**[GetConfiguration](Part#getconfiguration) in [Part](Part)
-- **Method**[GetCoordinates](Point#getcoordinates) in [Point](Point)
-- **Method**[GetCustomProperty](Assembly#getcustomproperty) in [Assembly](Assembly)
-- **Method**[GetCustomProperty](Part#getcustomproperty) in [Part](Part)
-- **Method**[GetDisplayedForm](Windows#getdisplayedform) in [Windows](Windows)
-- **Method**[GetEdge](AssembledPart#getedge) in [AssembledPart](AssembledPart)
-- **Method**[GetEdge](Part#getedge) in [Part](Part)
-- **Method**[GetEdges](AssembledPart#getedges) in [AssembledPart](AssembledPart)
-- **Method**[GetEdges](Face#getedges) in [Face](Face)
-- **Method**[GetEdges](Part#getedges) in [Part](Part)
-- **Method**[GetFace](AssembledPart#getface) in [AssembledPart](AssembledPart)
-- **Method**[GetFace](Part#getface) in [Part](Part)
-- **Method**[GetFaces](AssembledPart#getfaces) in [AssembledPart](AssembledPart)
-- **Method**[GetFaces](Part#getfaces) in [Part](Part)
-- **Method**[GetFeature](Part#getfeature) in [Part](Part)
-- **Method**[GetInputValue](Windows#getinputvalue) in [Windows](Windows)
-- **Method**[GetMappedOccurrence](AssembledPart#getmappedoccurrence) in [AssembledPart](AssembledPart)
-- **Method**[GetMappedOccurrence](AssembledSubAssembly#getmappedoccurrence) in [AssembledSubAssembly](AssembledSubAssembly)
-- **Method**[GetNormalAt](Bspline#getnormalat) in [Bspline](Bspline)
-- **Method**[GetNormalAt](Bspline3D#getnormalat) in [Bspline3D](Bspline3D)
-- **Method**[GetOccurrence](IAxis#getoccurrence) in [IAxis](IAxis)
-- **Method**[GetOccurrence](IPlane#getoccurrence) in [IPlane](IPlane)
-- **Method**[GetOccurrence](IPoint#getoccurrence) in [IPoint](IPoint)
-- **Method**[GetParameter](Assembly#getparameter) in [Assembly](Assembly)
-- **Method**[GetParameter](GlobalParameters#getparameter) in [GlobalParameters](GlobalParameters)
-- **Method**[GetParameter](Part#getparameter) in [Part](Part)
-- **Method**[GetPart](Assembly#getpart) in [Assembly](Assembly)
-- **Method**[GetPart](Axis#getpart) in [Axis](Axis)
-- **Method**[GetPart](Edge#getpart) in [Edge](Edge)
-- **Method**[GetPart](Face#getpart) in [Face](Face)
-- **Method**[GetPart](Plane#getpart) in [Plane](Plane)
-- **Method**[GetPart](Point#getpart) in [Point](Point)
-- **Method**[GetPart](Sketch#getpart) in [Sketch](Sketch)
-- **Method**[GetPart](Sketch3D#getpart) in [Sketch3D](Sketch3D)
-- **Method**[GetPart](Vertex#getpart) in [Vertex](Vertex)
-- **Method**[GetPartOrientation](Assembly#getpartorientation) in [Assembly](Assembly)
-- **Method**[GetPartOrientation](Assembly#getpartorientation) in [Assembly](Assembly)
-- **Method**[GetPerpendicularVector](ThreeD#getperpendicularvector) in [ThreeD](ThreeD)
-- **Method**[GetPerpendicularVector](TwoD#getperpendicularvector) in [TwoD](TwoD)
-- **Method**[GetPlane](Assembly#getplane) in [Assembly](Assembly)
-- **Method**[GetPlane](Part#getplane) in [Part](Part)
-- **Method**[GetPoint](Assembly#getpoint) in [Assembly](Assembly)
-- **Method**[GetPoint](Part#getpoint) in [Part](Part)
-- **Method**[GetPointAt](Bspline#getpointat) in [Bspline](Bspline)
-- **Method**[GetPointAt](Bspline3D#getpointat) in [Bspline3D](Bspline3D)
-- **Method**[GetSelectionAssembly](AssembledSubAssembly#getselectionassembly) in [AssembledSubAssembly](AssembledSubAssembly)
-- **Method**[GetSelectionAssembly](Axis#getselectionassembly) in [Axis](Axis)
-- **Method**[GetSelectionAssembly](Edge#getselectionassembly) in [Edge](Edge)
-- **Method**[GetSelectionAssembly](Face#getselectionassembly) in [Face](Face)
-- **Method**[GetSelectionAssembly](Part#getselectionassembly) in [Part](Part)
-- **Method**[GetSelectionAssembly](Plane#getselectionassembly) in [Plane](Plane)
-- **Method**[GetSelectionAssembly](Point#getselectionassembly) in [Point](Point)
-- **Method**[GetSelectionAssembly](Sketch#getselectionassembly) in [Sketch](Sketch)
-- **Method**[GetSelectionAssembly](Sketch3D#getselectionassembly) in [Sketch3D](Sketch3D)
-- **Method**[GetSelectionAssembly](Vertex#getselectionassembly) in [Vertex](Vertex)
-- **Method**[GetSketch](Part#getsketch) in [Part](Part)
-- **Method**[GetSubAssembly](Assembly#getsubassembly) in [Assembly](Assembly)
-- **Method**[GetSurface](Sketch#getsurface) in [Sketch](Sketch)
-- **Method**[GetUserData](Assembly#getuserdata) in [Assembly](Assembly)
-- **Method**[GetUserData](Part#getuserdata) in [Part](Part)
-- **Method**[GetVertex](Part#getvertex) in [Part](Part)
-- **Method**[GetVertices](Edge#getvertices) in [Edge](Edge)
-- **Method**[GetVertices](Face#getvertices) in [Face](Face)
-- **Method**[GetVertices](Part#getvertices) in [Part](Part)
-- **Method**[GetX](Bspline#getx) in [Bspline](Bspline)
-- **Method**[GetX](Bspline3D#getx) in [Bspline3D](Bspline3D)
-- **Method**[GetY](Bspline#gety) in [Bspline](Bspline)
-- **Method**[GetY](Bspline3D#gety) in [Bspline3D](Bspline3D)
-- **Method**[GetZ](Bspline3D#getz) in [Bspline3D](Bspline3D)
-- **Method**[GlobaltoPoint](Sketch#globaltopoint) in [Sketch](Sketch)
+- **Method**[[Part#get3dsketch|Get3DSketch]] in [[Part]]
+- **Method**[[Assembly#getactiveconfiguration|GetActiveConfiguration]] in [[Assembly]]
+- **Method**[[GlobalParameters#getactiveconfiguration|GetActiveConfiguration]] in [[GlobalParameters]]
+- **Method**[[Part#getactiveconfiguration|GetActiveConfiguration]] in [[Part]]
+- **Method**[[Face#getadjoiningfaces|GetAdjoiningFaces]] in [[Face]]
+- **Method**[[Face#getarea|GetArea]] in [[Face]]
+- **Method**[[AssembledPart#getassembly|GetAssembly]] in [[AssembledPart]]
+- **Method**[[AssembledPart#getassemblyboundingbox|GetAssemblyBoundingBox]] in [[AssembledPart]]
+- **Method**[[AssembledPart#getassemblyvertices|GetAssemblyVertices]] in [[AssembledPart]]
+- **Method**[[Assembly#getaxis|GetAxis]] in [[Assembly]]
+- **Method**[[Part#getaxis|GetAxis]] in [[Part]]
+- **Method**[[Part#getboundingbox|GetBoundingBox]] in [[Part]]
+- **Method**[[AssembledPart#getconfiguration|GetConfiguration]] in [[AssembledPart]]
+- **Method**[[AssembledSubAssembly#getconfiguration|GetConfiguration]] in [[AssembledSubAssembly]]
+- **Method**[[Assembly#getconfiguration|GetConfiguration]] in [[Assembly]]
+- **Method**[[GlobalParameters#getconfiguration|GetConfiguration]] in [[GlobalParameters]]
+- **Method**[[Part#getconfiguration|GetConfiguration]] in [[Part]]
+- **Method**[[Point#getcoordinates|GetCoordinates]] in [[Point]]
+- **Method**[[Assembly#getcustomproperty|GetCustomProperty]] in [[Assembly]]
+- **Method**[[Part#getcustomproperty|GetCustomProperty]] in [[Part]]
+- **Method**[[Windows#getdisplayedform|GetDisplayedForm]] in [[Windows]]
+- **Method**[[AssembledPart#getedge|GetEdge]] in [[AssembledPart]]
+- **Method**[[Part#getedge|GetEdge]] in [[Part]]
+- **Method**[[AssembledPart#getedges|GetEdges]] in [[AssembledPart]]
+- **Method**[[Face#getedges|GetEdges]] in [[Face]]
+- **Method**[[Part#getedges|GetEdges]] in [[Part]]
+- **Method**[[AssembledPart#getface|GetFace]] in [[AssembledPart]]
+- **Method**[[Part#getface|GetFace]] in [[Part]]
+- **Method**[[AssembledPart#getfaces|GetFaces]] in [[AssembledPart]]
+- **Method**[[Part#getfaces|GetFaces]] in [[Part]]
+- **Method**[[Part#getfeature|GetFeature]] in [[Part]]
+- **Method**[[Windows#getinputvalue|GetInputValue]] in [[Windows]]
+- **Method**[[AssembledPart#getmappedoccurrence|GetMappedOccurrence]] in [[AssembledPart]]
+- **Method**[[AssembledSubAssembly#getmappedoccurrence|GetMappedOccurrence]] in [[AssembledSubAssembly]]
+- **Method**[[Bspline#getnormalat|GetNormalAt]] in [[Bspline]]
+- **Method**[[Bspline3D#getnormalat|GetNormalAt]] in [[Bspline3D]]
+- **Method**[[IAxis#getoccurrence|GetOccurrence]] in [[IAxis]]
+- **Method**[[IPlane#getoccurrence|GetOccurrence]] in [[IPlane]]
+- **Method**[[IPoint#getoccurrence|GetOccurrence]] in [[IPoint]]
+- **Method**[[Assembly#getparameter|GetParameter]] in [[Assembly]]
+- **Method**[[GlobalParameters#getparameter|GetParameter]] in [[GlobalParameters]]
+- **Method**[[Part#getparameter|GetParameter]] in [[Part]]
+- **Method**[[Assembly#getpart|GetPart]] in [[Assembly]]
+- **Method**[[Axis#getpart|GetPart]] in [[Axis]]
+- **Method**[[Edge#getpart|GetPart]] in [[Edge]]
+- **Method**[[Face#getpart|GetPart]] in [[Face]]
+- **Method**[[Plane#getpart|GetPart]] in [[Plane]]
+- **Method**[[Point#getpart|GetPart]] in [[Point]]
+- **Method**[[Sketch#getpart|GetPart]] in [[Sketch]]
+- **Method**[[Sketch3D#getpart|GetPart]] in [[Sketch3D]]
+- **Method**[[Vertex#getpart|GetPart]] in [[Vertex]]
+- **Method**[[Assembly#getpartorientation|GetPartOrientation]] in [[Assembly]]
+- **Method**[[Assembly#getpartorientation|GetPartOrientation]] in [[Assembly]]
+- **Method**[[ThreeD#getperpendicularvector|GetPerpendicularVector]] in [[ThreeD]]
+- **Method**[[TwoD#getperpendicularvector|GetPerpendicularVector]] in [[TwoD]]
+- **Method**[[Assembly#getplane|GetPlane]] in [[Assembly]]
+- **Method**[[Part#getplane|GetPlane]] in [[Part]]
+- **Method**[[Assembly#getpoint|GetPoint]] in [[Assembly]]
+- **Method**[[Part#getpoint|GetPoint]] in [[Part]]
+- **Method**[[Bspline#getpointat|GetPointAt]] in [[Bspline]]
+- **Method**[[Bspline3D#getpointat|GetPointAt]] in [[Bspline3D]]
+- **Method**[[AssembledSubAssembly#getselectionassembly|GetSelectionAssembly]] in [[AssembledSubAssembly]]
+- **Method**[[Axis#getselectionassembly|GetSelectionAssembly]] in [[Axis]]
+- **Method**[[Edge#getselectionassembly|GetSelectionAssembly]] in [[Edge]]
+- **Method**[[Face#getselectionassembly|GetSelectionAssembly]] in [[Face]]
+- **Method**[[Part#getselectionassembly|GetSelectionAssembly]] in [[Part]]
+- **Method**[[Plane#getselectionassembly|GetSelectionAssembly]] in [[Plane]]
+- **Method**[[Point#getselectionassembly|GetSelectionAssembly]] in [[Point]]
+- **Method**[[Sketch#getselectionassembly|GetSelectionAssembly]] in [[Sketch]]
+- **Method**[[Sketch3D#getselectionassembly|GetSelectionAssembly]] in [[Sketch3D]]
+- **Method**[[Vertex#getselectionassembly|GetSelectionAssembly]] in [[Vertex]]
+- **Method**[[Part#getsketch|GetSketch]] in [[Part]]
+- **Method**[[Assembly#getsubassembly|GetSubAssembly]] in [[Assembly]]
+- **Method**[[Sketch#getsurface|GetSurface]] in [[Sketch]]
+- **Method**[[Assembly#getuserdata|GetUserData]] in [[Assembly]]
+- **Method**[[Part#getuserdata|GetUserData]] in [[Part]]
+- **Method**[[Part#getvertex|GetVertex]] in [[Part]]
+- **Method**[[Edge#getvertices|GetVertices]] in [[Edge]]
+- **Method**[[Face#getvertices|GetVertices]] in [[Face]]
+- **Method**[[Part#getvertices|GetVertices]] in [[Part]]
+- **Method**[[Bspline#getx|GetX]] in [[Bspline]]
+- **Method**[[Bspline3D#getx|GetX]] in [[Bspline3D]]
+- **Method**[[Bspline#gety|GetY]] in [[Bspline]]
+- **Method**[[Bspline3D#gety|GetY]] in [[Bspline3D]]
+- **Method**[[Bspline3D#getz|GetZ]] in [[Bspline3D]]
+- **Method**[[Sketch#globaltopoint|GlobaltoPoint]] in [[Sketch]]
 
 ---
-**[⬆ Back to Top](#members-index-g)**
+**[[members-g#members-index-g|⬆ Back to Top]]**

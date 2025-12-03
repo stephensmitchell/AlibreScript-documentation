@@ -1,6 +1,6 @@
 # Ellipse
 
-[ Back to Classes](Classes) | [Documentation Home](../README.md) | [Methods Index](Methods-Index) | [Properties Index](Properties-Index)
+[[Classes|Back to Classes]] | [[Home|Documentation Home]] | [[Methods-Index|Methods Index]] | [[Properties-Index|Properties Index]]
 
 - Namespace: `AlibreScript.API`
 - Kind: `Class`
@@ -54,4 +54,4 @@ is_reference (bool): True to create a reference arc, false to create a regular a
 ```
 
 ---
-**[⬆ Back to Top](#ellipse)**
+**[[Ellipse#ellipse|⬆ Back to Top]]**

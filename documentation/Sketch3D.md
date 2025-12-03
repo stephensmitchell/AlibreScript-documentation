@@ -1,26 +1,26 @@
 # Sketch3D
 
-**[Home](Home) | [Classes](Classes) | [Methods](Methods-Index) | [Properties](Properties-Index) | [Members](Members-Index)**
+**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-** Location:**[Sketching & Drawing](Classes#sketching) Sketch3D
+** Location:**[[Classes#sketching|Sketching & Drawing]] Sketch3D
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The Sketch3D class provides functionality for 3D sketching operations including creating spatial geometric figures and managing 3D sketch elements.
 
 ## Related Classes
-- [Sketch](Sketch) - 2D sketching operations
-- [SketchPoint3D](SketchPoint3D) - 3D sketch points
-- [Line3D](Line3D), [CircularArc3D](CircularArc3D) - 3D sketch geometry
-- [Bspline3D](Bspline3D) - 3D spline curves
-- [Part](Part) - Contains 3D sketches
+- [[Sketch]] - 2D sketching operations
+- [[SketchPoint3D]] - 3D sketch points
+- [[Line3D]], [[CircularArc3D]] - 3D sketch geometry
+- [[Bspline3D]] - 3D spline curves
+- [[Part]] - Contains 3D sketches
 
 ## Quick Navigation
-- [Properties](#properties) - Sketch properties
-- [Methods](#methods) - All available operations
-- [Arc Methods](#arc-methods) - 3D arc operations
-- [Line Methods](#line-methods) - 3D line creation
-- [Spline Methods](#spline-methods) - 3D curve operations
+- [[Sketch3D#properties|Properties]] - Sketch properties
+- [[Sketch3D#methods|Methods]] - All available operations
+- [[Sketch3D#arc-methods|Arc Methods]] - 3D arc operations
+- [[Sketch3D#line-methods|Line Methods]] - 3D line creation
+- [[Sketch3D#spline-methods|Spline Methods]] - 3D curve operations
 
 ## Properties
 
@@ -273,4 +273,4 @@ file_name (str): Path and name of file to save to
 ```
 
 ---
-**[⬆ Back to Top](#sketch3d)**
+**[[Sketch3D#sketch3d|⬆ Back to Top]]**

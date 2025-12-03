@@ -1,6 +1,6 @@
 # Properties Index
 
-**[Home](Home) | [Classes](Classes) | [Methods](Methods-Index) | Properties Index | [Members](Members-Index)**
+**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | Properties Index | [[Members-Index|Members]]**
 
 *Alphabetical index of all properties in the AlibreScript API*
 
@@ -13,273 +13,273 @@
 - **File Info**: FileName, CreatedBy, CreatedDate, LastUpdateDate
 
 ### Geometry Properties
-- **Points & Centers**: [Center](Circle#center), [CenterPoint](Circle#centerpoint), [Origin](Sketch#origin)
-- **Dimensions**: [Radius](Circle#radius), [Angle](CircularArc#angle), [Length](Line#length)
-- **Complex Geometry**: [ControlPoints](Bspline#controlpoints), [Figures](Sketch#figures)
+- **Points & Centers**: [[Circle#center|Center]], [[Circle#centerpoint|CenterPoint]], [[Sketch#origin|Origin]]
+- **Dimensions**: [[Circle#radius|Radius]], [[CircularArc#angle|Angle]], [[Line#length|Length]]
+- **Complex Geometry**: [[Bspline#controlpoints|ControlPoints]], [[Sketch#figures|Figures]]
 
 ### Part & Assembly Properties
-- **Identity**: [Name](Part#name), [Description](Part#description), [Comment](Part#comment)
-- **Material**: [Material](Part#material), [Density](Part#density), [Mass](Part#mass)
-- **Management**: [Configurations](Part#configurations), [Features](Part#features)
+- **Identity**: [[Part#name|Name]], [[Part#description|Description]], [[Part#comment|Comment]]
+- **Material**: [[Part#material|Material]], [[Part#density|Density]], [[Part#mass|Mass]]
+- **Management**: [[Part#configurations|Configurations]], [[Part#features|Features]]
 
 ## Alphabetical Property List
 
-**Quick Jump:**[A](#a) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)
+**Quick Jump:**[[Properties-Index#a|A]] | [[Properties-Index#c|C]] | [[Properties-Index#d|D]] | [[Properties-Index#e|E]] | [[Properties-Index#f|F]] | [[Properties-Index#g|G]] | [[Properties-Index#h|H]] | [[Properties-Index#i|I]] | [[Properties-Index#k|K]] | [[Properties-Index#l|L]] | [[Properties-Index#m|M]] | [[Properties-Index#n|N]] | [[Properties-Index#o|O]] | [[Properties-Index#p|P]] | [[Properties-Index#r|R]] | [[Properties-Index#s|S]] | [[Properties-Index#t|T]] | [[Properties-Index#u|U]] | [[Properties-Index#v|V]] | [[Properties-Index#w|W]] | [[Properties-Index#x|X]] | [[Properties-Index#y|Y]] | [[Properties-Index#z|Z]]
 
 ## A
 
-- [Angle](CircularArc#angle) — in [CircularArc](CircularArc)
-- [Angle](CircularArc3D#angle) — in [CircularArc3D](CircularArc3D)
+- [[CircularArc#angle|Angle]] — in [[CircularArc]]
+- [[CircularArc3D#angle|Angle]] — in [[CircularArc3D]]
 
 ## C
 
-- [Center](Circle#center) — in [Circle](Circle)
-- [Center](CircularArc#center) — in [CircularArc](CircularArc)
-- [Center](CircularArc3D#center) — in [CircularArc3D](CircularArc3D)
-- [Center](Ellipse#center) — in [Ellipse](Ellipse)
-- [Center](EllipticalArc#center) — in [EllipticalArc](EllipticalArc)
-- [CenterPoint](Circle#centerpoint) — in [Circle](Circle)
-- [CenterPoint](CircularArc#centerpoint) — in [CircularArc](CircularArc)
-- [CenterPoint](Ellipse#centerpoint) — in [Ellipse](Ellipse)
-- [CenterPoint](EllipticalArc#centerpoint) — in [EllipticalArc](EllipticalArc)
-- [Comment](Assembly#comment) — in [Assembly](Assembly)
-- [Comment](Parameter#comment) — in [Parameter](Parameter)
-- [Comment](Part#comment) — in [Part](Part)
-- [Configurations](AssembledPart#configurations) — in [AssembledPart](AssembledPart)
-- [Configurations](AssembledSubAssembly#configurations) — in [AssembledSubAssembly](AssembledSubAssembly)
-- [Configurations](Assembly#configurations) — in [Assembly](Assembly)
-- [Configurations](GlobalParameters#configurations) — in [GlobalParameters](GlobalParameters)
-- [Configurations](Part#configurations) — in [Part](Part)
-- [ControlPoints](Bspline#controlpoints) — in [Bspline](Bspline)
-- [ControlPoints](Bspline3D#controlpoints) — in [Bspline3D](Bspline3D)
-- [CostCenter](Assembly#costcenter) — in [Assembly](Assembly)
-- [CostCenter](Part#costcenter) — in [Part](Part)
-- [CreatedBy](Assembly#createdby) — in [Assembly](Assembly)
-- [CreatedBy](Part#createdby) — in [Part](Part)
-- [CreatedDate](Assembly#createddate) — in [Assembly](Assembly)
-- [CreatedDate](Part#createddate) — in [Part](Part)
-- [CreatingApplication](Assembly#creatingapplication) — in [Assembly](Assembly)
-- [CreatingApplication](Part#creatingapplication) — in [Part](Part)
+- [[Circle#center|Center]] — in [[Circle]]
+- [[CircularArc#center|Center]] — in [[CircularArc]]
+- [[CircularArc3D#center|Center]] — in [[CircularArc3D]]
+- [[Ellipse#center|Center]] — in [[Ellipse]]
+- [[EllipticalArc#center|Center]] — in [[EllipticalArc]]
+- [[Circle#centerpoint|CenterPoint]] — in [[Circle]]
+- [[CircularArc#centerpoint|CenterPoint]] — in [[CircularArc]]
+- [[Ellipse#centerpoint|CenterPoint]] — in [[Ellipse]]
+- [[EllipticalArc#centerpoint|CenterPoint]] — in [[EllipticalArc]]
+- [[Assembly#comment|Comment]] — in [[Assembly]]
+- [[Parameter#comment|Comment]] — in [[Parameter]]
+- [[Part#comment|Comment]] — in [[Part]]
+- [[AssembledPart#configurations|Configurations]] — in [[AssembledPart]]
+- [[AssembledSubAssembly#configurations|Configurations]] — in [[AssembledSubAssembly]]
+- [[Assembly#configurations|Configurations]] — in [[Assembly]]
+- [[GlobalParameters#configurations|Configurations]] — in [[GlobalParameters]]
+- [[Part#configurations|Configurations]] — in [[Part]]
+- [[Bspline#controlpoints|ControlPoints]] — in [[Bspline]]
+- [[Bspline3D#controlpoints|ControlPoints]] — in [[Bspline3D]]
+- [[Assembly#costcenter|CostCenter]] — in [[Assembly]]
+- [[Part#costcenter|CostCenter]] — in [[Part]]
+- [[Assembly#createdby|CreatedBy]] — in [[Assembly]]
+- [[Part#createdby|CreatedBy]] — in [[Part]]
+- [[Assembly#createddate|CreatedDate]] — in [[Assembly]]
+- [[Part#createddate|CreatedDate]] — in [[Part]]
+- [[Assembly#creatingapplication|CreatingApplication]] — in [[Assembly]]
+- [[Part#creatingapplication|CreatingApplication]] — in [[Part]]
 
 ## D
 
-- [Density](Assembly#density) — in [Assembly](Assembly)
-- [Density](Part#density) — in [Part](Part)
-- [Description](Assembly#description) — in [Assembly](Assembly)
-- [Description](Part#description) — in [Part](Part)
-- [Diameter](Edge#diameter) — in [Edge](Edge)
-- [DocumentNumber](Assembly#documentnumber) — in [Assembly](Assembly)
-- [DocumentNumber](Part#documentnumber) — in [Part](Part)
+- [[Assembly#density|Density]] — in [[Assembly]]
+- [[Part#density|Density]] — in [[Part]]
+- [[Assembly#description|Description]] — in [[Assembly]]
+- [[Part#description|Description]] — in [[Part]]
+- [[Edge#diameter|Diameter]] — in [[Edge]]
+- [[Assembly#documentnumber|DocumentNumber]] — in [[Assembly]]
+- [[Part#documentnumber|DocumentNumber]] — in [[Part]]
 
 ## E
 
-- [End](CircularArc#end) — in [CircularArc](CircularArc)
-- [End](EllipticalArc#end) — in [EllipticalArc](EllipticalArc)
-- [End](Line#end) — in [Line](Line)
-- [End](Line3D#end) — in [Line3D](Line3D)
-- [EndPoint](CircularArc#endpoint) — in [CircularArc](CircularArc)
-- [EndPoint](CircularArc3D#endpoint) — in [CircularArc3D](CircularArc3D)
-- [EndPoint](EllipticalArc#endpoint) — in [EllipticalArc](EllipticalArc)
-- [EndPoint](Line#endpoint) — in [Line](Line)
-- [EndPoint](Line3D#endpoint) — in [Line3D](Line3D)
-- [EngineeringApprovalDate](Assembly#engineeringapprovaldate) — in [Assembly](Assembly)
-- [EngineeringApprovalDate](Part#engineeringapprovaldate) — in [Part](Part)
-- [EngineeringApprovedBy](Assembly#engineeringapprovedby) — in [Assembly](Assembly)
-- [EngineeringApprovedBy](Part#engineeringapprovedby) — in [Part](Part)
-- [Equation](Parameter#equation) — in [Parameter](Parameter)
-- [EstimatedCost](Assembly#estimatedcost) — in [Assembly](Assembly)
-- [EstimatedCost](Part#estimatedcost) — in [Part](Part)
-- [ExcelCell](Parameter#excelcell) — in [Parameter](Parameter)
-- [ExcelSheet](Parameter#excelsheet) — in [Parameter](Parameter)
-- [ExcelWorkbook](Parameter#excelworkbook) — in [Parameter](Parameter)
-- [ExtendedMaterialInformation](Assembly#extendedmaterialinformation) — in [Assembly](Assembly)
-- [ExtendedMaterialInformation](Part#extendedmaterialinformation) — in [Part](Part)
+- [[CircularArc#end|End]] — in [[CircularArc]]
+- [[EllipticalArc#end|End]] — in [[EllipticalArc]]
+- [[Line#end|End]] — in [[Line]]
+- [[Line3D#end|End]] — in [[Line3D]]
+- [[CircularArc#endpoint|EndPoint]] — in [[CircularArc]]
+- [[CircularArc3D#endpoint|EndPoint]] — in [[CircularArc3D]]
+- [[EllipticalArc#endpoint|EndPoint]] — in [[EllipticalArc]]
+- [[Line#endpoint|EndPoint]] — in [[Line]]
+- [[Line3D#endpoint|EndPoint]] — in [[Line3D]]
+- [[Assembly#engineeringapprovaldate|EngineeringApprovalDate]] — in [[Assembly]]
+- [[Part#engineeringapprovaldate|EngineeringApprovalDate]] — in [[Part]]
+- [[Assembly#engineeringapprovedby|EngineeringApprovedBy]] — in [[Assembly]]
+- [[Part#engineeringapprovedby|EngineeringApprovedBy]] — in [[Part]]
+- [[Parameter#equation|Equation]] — in [[Parameter]]
+- [[Assembly#estimatedcost|EstimatedCost]] — in [[Assembly]]
+- [[Part#estimatedcost|EstimatedCost]] — in [[Part]]
+- [[Parameter#excelcell|ExcelCell]] — in [[Parameter]]
+- [[Parameter#excelsheet|ExcelSheet]] — in [[Parameter]]
+- [[Parameter#excelworkbook|ExcelWorkbook]] — in [[Parameter]]
+- [[Assembly#extendedmaterialinformation|ExtendedMaterialInformation]] — in [[Assembly]]
+- [[Part#extendedmaterialinformation|ExtendedMaterialInformation]] — in [[Part]]
 
 ## F
 
-- [Figures](Sketch#figures) — in [Sketch](Sketch)
-- [Figures](Sketch3D#figures) — in [Sketch3D](Sketch3D)
-- [FileName](Assembly#filename) — in [Assembly](Assembly)
-- [FileName](Part#filename) — in [Part](Part)
+- [[Sketch#figures|Figures]] — in [[Sketch]]
+- [[Sketch3D#figures|Figures]] — in [[Sketch3D]]
+- [[Assembly#filename|FileName]] — in [[Assembly]]
+- [[Part#filename|FileName]] — in [[Part]]
 
 ## I
 
-- [IsActive](Configuration#isactive) — in [Configuration](Configuration)
-- [IsReference](Bspline#isreference) — in [Bspline](Bspline)
-- [IsReference](Bspline3D#isreference) — in [Bspline3D](Bspline3D)
-- [IsReference](Circle#isreference) — in [Circle](Circle)
-- [IsReference](CircularArc#isreference) — in [CircularArc](CircularArc)
-- [IsReference](CircularArc3D#isreference) — in [CircularArc3D](CircularArc3D)
-- [IsReference](Ellipse#isreference) — in [Ellipse](Ellipse)
-- [IsReference](EllipticalArc#isreference) — in [EllipticalArc](EllipticalArc)
-- [IsReference](Line#isreference) — in [Line](Line)
-- [IsReference](Line3D#isreference) — in [Line3D](Line3D)
-- [IsReference](SketchPoint#isreference) — in [SketchPoint](SketchPoint)
-- [IsReference](SketchPoint3D#isreference) — in [SketchPoint3D](SketchPoint3D)
+- [[Configuration#isactive|IsActive]] — in [[Configuration]]
+- [[Bspline#isreference|IsReference]] — in [[Bspline]]
+- [[Bspline3D#isreference|IsReference]] — in [[Bspline3D]]
+- [[Circle#isreference|IsReference]] — in [[Circle]]
+- [[CircularArc#isreference|IsReference]] — in [[CircularArc]]
+- [[CircularArc3D#isreference|IsReference]] — in [[CircularArc3D]]
+- [[Ellipse#isreference|IsReference]] — in [[Ellipse]]
+- [[EllipticalArc#isreference|IsReference]] — in [[EllipticalArc]]
+- [[Line#isreference|IsReference]] — in [[Line]]
+- [[Line3D#isreference|IsReference]] — in [[Line3D]]
+- [[SketchPoint#isreference|IsReference]] — in [[SketchPoint]]
+- [[SketchPoint3D#isreference|IsReference]] — in [[SketchPoint3D]]
 
 ## K
 
-- [Keywords](Assembly#keywords) — in [Assembly](Assembly)
-- [Keywords](Part#keywords) — in [Part](Part)
-- [KnotVectors](Bspline#knotvectors) — in [Bspline](Bspline)
-- [KnotVectors](Bspline3D#knotvectors) — in [Bspline3D](Bspline3D)
+- [[Assembly#keywords|Keywords]] — in [[Assembly]]
+- [[Part#keywords|Keywords]] — in [[Part]]
+- [[Bspline#knotvectors|KnotVectors]] — in [[Bspline]]
+- [[Bspline3D#knotvectors|KnotVectors]] — in [[Bspline3D]]
 
 ## L
 
-- [LastAuthor](Assembly#lastauthor) — in [Assembly](Assembly)
-- [LastAuthor](Part#lastauthor) — in [Part](Part)
-- [LastUpdateDate](Assembly#lastupdatedate) — in [Assembly](Assembly)
-- [LastUpdateDate](Part#lastupdatedate) — in [Part](Part)
-- [Length](Bspline#length) — in [Bspline](Bspline)
-- [Length](Bspline3D#length) — in [Bspline3D](Bspline3D)
-- [Length](Circle#length) — in [Circle](Circle)
-- [Length](Edge#length) — in [Edge](Edge)
-- [Length](Line#length) — in [Line](Line)
-- [Length](Line3D#length) — in [Line3D](Line3D)
+- [[Assembly#lastauthor|LastAuthor]] — in [[Assembly]]
+- [[Part#lastauthor|LastAuthor]] — in [[Part]]
+- [[Assembly#lastupdatedate|LastUpdateDate]] — in [[Assembly]]
+- [[Part#lastupdatedate|LastUpdateDate]] — in [[Part]]
+- [[Bspline#length|Length]] — in [[Bspline]]
+- [[Bspline3D#length|Length]] — in [[Bspline3D]]
+- [[Circle#length|Length]] — in [[Circle]]
+- [[Edge#length|Length]] — in [[Edge]]
+- [[Line#length|Length]] — in [[Line]]
+- [[Line3D#length|Length]] — in [[Line3D]]
 
 ## M
 
-- [MajorAxisAngle](Ellipse#majoraxisangle) — in [Ellipse](Ellipse)
-- [MajorAxisAngle](EllipticalArc#majoraxisangle) — in [EllipticalArc](EllipticalArc)
-- [ManufacturingApprovedBy](Assembly#manufacturingapprovedby) — in [Assembly](Assembly)
-- [ManufacturingApprovedBy](Part#manufacturingapprovedby) — in [Part](Part)
-- [ManufacturingApprovedDate](Assembly#manufacturingapproveddate) — in [Assembly](Assembly)
-- [ManufacturingApprovedDate](Part#manufacturingapproveddate) — in [Part](Part)
-- [Mass](Part#mass) — in [Part](Part)
-- [Material](Assembly#material) — in [Assembly](Assembly)
-- [Material](Part#material) — in [Part](Part)
-- [MinorMajorRatio](Ellipse#minormajorratio) — in [Ellipse](Ellipse)
-- [MinorMajorRatio](EllipticalArc#minormajorratio) — in [EllipticalArc](EllipticalArc)
-- [ModifiedInformation](Assembly#modifiedinformation) — in [Assembly](Assembly)
-- [ModifiedInformation](Part#modifiedinformation) — in [Part](Part)
+- [[Ellipse#majoraxisangle|MajorAxisAngle]] — in [[Ellipse]]
+- [[EllipticalArc#majoraxisangle|MajorAxisAngle]] — in [[EllipticalArc]]
+- [[Assembly#manufacturingapprovedby|ManufacturingApprovedBy]] — in [[Assembly]]
+- [[Part#manufacturingapprovedby|ManufacturingApprovedBy]] — in [[Part]]
+- [[Assembly#manufacturingapproveddate|ManufacturingApprovedDate]] — in [[Assembly]]
+- [[Part#manufacturingapproveddate|ManufacturingApprovedDate]] — in [[Part]]
+- [[Part#mass|Mass]] — in [[Part]]
+- [[Assembly#material|Material]] — in [[Assembly]]
+- [[Part#material|Material]] — in [[Part]]
+- [[Ellipse#minormajorratio|MinorMajorRatio]] — in [[Ellipse]]
+- [[EllipticalArc#minormajorratio|MinorMajorRatio]] — in [[EllipticalArc]]
+- [[Assembly#modifiedinformation|ModifiedInformation]] — in [[Assembly]]
+- [[Part#modifiedinformation|ModifiedInformation]] — in [[Part]]
 
 ## N
 
-- [Name](AssembledPart#name) — in [AssembledPart](AssembledPart)
-- [Name](AssembledSubAssembly#name) — in [AssembledSubAssembly](AssembledSubAssembly)
-- [Name](Assembly#name) — in [Assembly](Assembly)
-- [Name](Axis#name) — in [Axis](Axis)
-- [Name](Configuration#name) — in [Configuration](Configuration)
-- [Name](Edge#name) — in [Edge](Edge)
-- [Name](Face#name) — in [Face](Face)
-- [Name](Feature#name) — in [Feature](Feature)
-- [Name](GlobalParameters#name) — in [GlobalParameters](GlobalParameters)
-- [Name](Parameter#name) — in [Parameter](Parameter)
-- [Name](Part#name) — in [Part](Part)
-- [Name](Plane#name) — in [Plane](Plane)
-- [Name](Point#name) — in [Point](Point)
-- [Name](Sketch#name) — in [Sketch](Sketch)
-- [Name](Sketch3D#name) — in [Sketch3D](Sketch3D)
-- [Name](Vertex#name) — in [Vertex](Vertex)
-- [Number](Assembly#number) — in [Assembly](Assembly)
-- [Number](Part#number) — in [Part](Part)
+- [[AssembledPart#name|Name]] — in [[AssembledPart]]
+- [[AssembledSubAssembly#name|Name]] — in [[AssembledSubAssembly]]
+- [[Assembly#name|Name]] — in [[Assembly]]
+- [[Axis#name|Name]] — in [[Axis]]
+- [[Configuration#name|Name]] — in [[Configuration]]
+- [[Edge#name|Name]] — in [[Edge]]
+- [[Face#name|Name]] — in [[Face]]
+- [[Feature#name|Name]] — in [[Feature]]
+- [[GlobalParameters#name|Name]] — in [[GlobalParameters]]
+- [[Parameter#name|Name]] — in [[Parameter]]
+- [[Part#name|Name]] — in [[Part]]
+- [[Plane#name|Name]] — in [[Plane]]
+- [[Point#name|Name]] — in [[Point]]
+- [[Sketch#name|Name]] — in [[Sketch]]
+- [[Sketch3D#name|Name]] — in [[Sketch3D]]
+- [[Vertex#name|Name]] — in [[Vertex]]
+- [[Assembly#number|Number]] — in [[Assembly]]
+- [[Part#number|Number]] — in [[Part]]
 
 ## O
 
-- [Order](Bspline#order) — in [Bspline](Bspline)
-- [Order](Bspline3D#order) — in [Bspline3D](Bspline3D)
-- [Origin](Assembly#origin) — in [Assembly](Assembly)
-- [Origin](Part#origin) — in [Part](Part)
-- [Origin](Sketch#origin) — in [Sketch](Sketch)
+- [[Bspline#order|Order]] — in [[Bspline]]
+- [[Bspline3D#order|Order]] — in [[Bspline3D]]
+- [[Assembly#origin|Origin]] — in [[Assembly]]
+- [[Part#origin|Origin]] — in [[Part]]
+- [[Sketch#origin|Origin]] — in [[Sketch]]
 
 ## P
 
-- [Parameters](Assembly#parameters) — in [Assembly](Assembly)
-- [Parameters](GlobalParameters#parameters) — in [GlobalParameters](GlobalParameters)
-- [Parameters](Part#parameters) — in [Part](Part)
-- [Parts](Assembly#parts) — in [Assembly](Assembly)
-- [Product](Assembly#product) — in [Assembly](Assembly)
-- [Product](Part#product) — in [Part](Part)
+- [[Assembly#parameters|Parameters]] — in [[Assembly]]
+- [[GlobalParameters#parameters|Parameters]] — in [[GlobalParameters]]
+- [[Part#parameters|Parameters]] — in [[Part]]
+- [[Assembly#parts|Parts]] — in [[Assembly]]
+- [[Assembly#product|Product]] — in [[Assembly]]
+- [[Part#product|Product]] — in [[Part]]
 
 ## R
 
-- [Radius](Circle#radius) — in [Circle](Circle)
-- [Radius](CircularArc#radius) — in [CircularArc](CircularArc)
-- [Radius](CircularArc3D#radius) — in [CircularArc3D](CircularArc3D)
-- [Radius](Ellipse#radius) — in [Ellipse](Ellipse)
-- [Radius](EllipticalArc#radius) — in [EllipticalArc](EllipticalArc)
-- [RawValue](Parameter#rawvalue) — in [Parameter](Parameter)
-- [ReceivedFrom](Assembly#receivedfrom) — in [Assembly](Assembly)
-- [ReceivedFrom](Part#receivedfrom) — in [Part](Part)
-- [Revision](Assembly#revision) — in [Assembly](Assembly)
-- [Revision](Part#revision) — in [Part](Part)
+- [[Circle#radius|Radius]] — in [[Circle]]
+- [[CircularArc#radius|Radius]] — in [[CircularArc]]
+- [[CircularArc3D#radius|Radius]] — in [[CircularArc3D]]
+- [[Ellipse#radius|Radius]] — in [[Ellipse]]
+- [[EllipticalArc#radius|Radius]] — in [[EllipticalArc]]
+- [[Parameter#rawvalue|RawValue]] — in [[Parameter]]
+- [[Assembly#receivedfrom|ReceivedFrom]] — in [[Assembly]]
+- [[Part#receivedfrom|ReceivedFrom]] — in [[Part]]
+- [[Assembly#revision|Revision]] — in [[Assembly]]
+- [[Part#revision|Revision]] — in [[Part]]
 
 ## S
 
-- [Selections](Assembly#selections) — in [Assembly](Assembly)
-- [Selections](Part#selections) — in [Part](Part)
-- [Start](CircularArc#start) — in [CircularArc](CircularArc)
-- [Start](EllipticalArc#start) — in [EllipticalArc](EllipticalArc)
-- [Start](Line#start) — in [Line](Line)
-- [Start](Line3D#start) — in [Line3D](Line3D)
-- [StartPoint](CircularArc#startpoint) — in [CircularArc](CircularArc)
-- [StartPoint](CircularArc3D#startpoint) — in [CircularArc3D](CircularArc3D)
-- [StartPoint](EllipticalArc#startpoint) — in [EllipticalArc](EllipticalArc)
-- [StartPoint](Line#startpoint) — in [Line](Line)
-- [StartPoint](Line3D#startpoint) — in [Line3D](Line3D)
-- [StockSize](Assembly#stocksize) — in [Assembly](Assembly)
-- [StockSize](Part#stocksize) — in [Part](Part)
-- [SubAssemblies](Assembly#subassemblies) — in [Assembly](Assembly)
-- [Supplier](Assembly#supplier) — in [Assembly](Assembly)
-- [Supplier](Part#supplier) — in [Part](Part)
+- [[Assembly#selections|Selections]] — in [[Assembly]]
+- [[Part#selections|Selections]] — in [[Part]]
+- [[CircularArc#start|Start]] — in [[CircularArc]]
+- [[EllipticalArc#start|Start]] — in [[EllipticalArc]]
+- [[Line#start|Start]] — in [[Line]]
+- [[Line3D#start|Start]] — in [[Line3D]]
+- [[CircularArc#startpoint|StartPoint]] — in [[CircularArc]]
+- [[CircularArc3D#startpoint|StartPoint]] — in [[CircularArc3D]]
+- [[EllipticalArc#startpoint|StartPoint]] — in [[EllipticalArc]]
+- [[Line#startpoint|StartPoint]] — in [[Line]]
+- [[Line3D#startpoint|StartPoint]] — in [[Line3D]]
+- [[Assembly#stocksize|StockSize]] — in [[Assembly]]
+- [[Part#stocksize|StockSize]] — in [[Part]]
+- [[Assembly#subassemblies|SubAssemblies]] — in [[Assembly]]
+- [[Assembly#supplier|Supplier]] — in [[Assembly]]
+- [[Part#supplier|Supplier]] — in [[Part]]
 
 ## T
 
-- [Title](Assembly#title) — in [Assembly](Assembly)
-- [Title](Part#title) — in [Part](Part)
-- [Type](CircularArc#type) — in [CircularArc](CircularArc)
-- [Type](CircularArc3D#type) — in [CircularArc3D](CircularArc3D)
-- [Type](Parameter#type) — in [Parameter](Parameter)
+- [[Assembly#title|Title]] — in [[Assembly]]
+- [[Part#title|Title]] — in [[Part]]
+- [[CircularArc#type|Type]] — in [[CircularArc]]
+- [[CircularArc3D#type|Type]] — in [[CircularArc3D]]
+- [[Parameter#type|Type]] — in [[Parameter]]
 
 ## U
 
-- [Units](Parameter#units) — in [Parameter](Parameter)
+- [[Parameter#units|Units]] — in [[Parameter]]
 
 ## V
 
-- [Value](Parameter#value) — in [Parameter](Parameter)
-- [Vendor](Assembly#vendor) — in [Assembly](Assembly)
-- [Vendor](Part#vendor) — in [Part](Part)
+- [[Parameter#value|Value]] — in [[Parameter]]
+- [[Assembly#vendor|Vendor]] — in [[Assembly]]
+- [[Part#vendor|Vendor]] — in [[Part]]
 
 ## W
 
-- [WebLink](Assembly#weblink) — in [Assembly](Assembly)
-- [WebLink](Part#weblink) — in [Part](Part)
-- [Weights](Bspline#weights) — in [Bspline](Bspline)
-- [Weights](Bspline3D#weights) — in [Bspline3D](Bspline3D)
+- [[Assembly#weblink|WebLink]] — in [[Assembly]]
+- [[Part#weblink|WebLink]] — in [[Part]]
+- [[Bspline#weights|Weights]] — in [[Bspline]]
+- [[Bspline3D#weights|Weights]] — in [[Bspline3D]]
 
 ## X
 
-- [X](Point#x) — in [Point](Point)
-- [X](SketchPoint#x) — in [SketchPoint](SketchPoint)
-- [X](SketchPoint3D#x) — in [SketchPoint3D](SketchPoint3D)
-- [X](Vertex#x) — in [Vertex](Vertex)
-- [XAxis](Assembly#xaxis) — in [Assembly](Assembly)
-- [XAxis](Part#xaxis) — in [Part](Part)
-- [XYPlane](Assembly#xyplane) — in [Assembly](Assembly)
-- [XYPlane](Part#xyplane) — in [Part](Part)
+- [[Point#x|X]] — in [[Point]]
+- [[SketchPoint#x|X]] — in [[SketchPoint]]
+- [[SketchPoint3D#x|X]] — in [[SketchPoint3D]]
+- [[Vertex#x|X]] — in [[Vertex]]
+- [[Assembly#xaxis|XAxis]] — in [[Assembly]]
+- [[Part#xaxis|XAxis]] — in [[Part]]
+- [[Assembly#xyplane|XYPlane]] — in [[Assembly]]
+- [[Part#xyplane|XYPlane]] — in [[Part]]
 
 ## Y
 
-- [Y](Point#y) — in [Point](Point)
-- [Y](SketchPoint#y) — in [SketchPoint](SketchPoint)
-- [Y](SketchPoint3D#y) — in [SketchPoint3D](SketchPoint3D)
-- [Y](Vertex#y) — in [Vertex](Vertex)
-- [YAxis](Assembly#yaxis) — in [Assembly](Assembly)
-- [YAxis](Part#yaxis) — in [Part](Part)
-- [YZPlane](Assembly#yzplane) — in [Assembly](Assembly)
-- [YZPlane](Part#yzplane) — in [Part](Part)
+- [[Point#y|Y]] — in [[Point]]
+- [[SketchPoint#y|Y]] — in [[SketchPoint]]
+- [[SketchPoint3D#y|Y]] — in [[SketchPoint3D]]
+- [[Vertex#y|Y]] — in [[Vertex]]
+- [[Assembly#yaxis|YAxis]] — in [[Assembly]]
+- [[Part#yaxis|YAxis]] — in [[Part]]
+- [[Assembly#yzplane|YZPlane]] — in [[Assembly]]
+- [[Part#yzplane|YZPlane]] — in [[Part]]
 
 ## Z
 
-- [Z](Point#z) — in [Point](Point)
-- [Z](SketchPoint3D#z) — in [SketchPoint3D](SketchPoint3D)
-- [Z](Vertex#z) — in [Vertex](Vertex)
-- [ZAxis](Assembly#zaxis) — in [Assembly](Assembly)
-- [ZAxis](Part#zaxis) — in [Part](Part)
-- [ZXPlane](Assembly#zxplane) — in [Assembly](Assembly)
-- [ZXPlane](Part#zxplane) — in [Part](Part)
+- [[Point#z|Z]] — in [[Point]]
+- [[SketchPoint3D#z|Z]] — in [[SketchPoint3D]]
+- [[Vertex#z|Z]] — in [[Vertex]]
+- [[Assembly#zaxis|ZAxis]] — in [[Assembly]]
+- [[Part#zaxis|ZAxis]] — in [[Part]]
+- [[Assembly#zxplane|ZXPlane]] — in [[Assembly]]
+- [[Part#zxplane|ZXPlane]] — in [[Part]]
 
 ---
-**[⬆ Back to Top](#properties-index)**
+**[[Properties-Index#properties-index|⬆ Back to Top]]**
 

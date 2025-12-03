@@ -1,22 +1,22 @@
 # Feature
 
-**[Home](Home) | [Classes](Classes) | [Methods](Methods-Index) | [Properties](Properties-Index) | [Members](Members-Index)**
+**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-** Location:**[Assembly & Parts](Classes#assembly-and-parts) Feature
+** Location:**[[Classes#assembly-and-parts|Assembly & Parts]] Feature
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The Feature class provides functionality for managing part features including operations, appearance, and feature properties.
 
 ## Related Classes
-- [Part](Part) - Contains features
-- [Assembly](Assembly) - Assembly feature operations
-- [Sketch](Sketch) - Sketch-based features
-- [Configuration](Configuration) - Feature configurations
+- [[Part]] - Contains features
+- [[Assembly]] - Assembly feature operations
+- [[Sketch]] - Sketch-based features
+- [[Configuration]] - Feature configurations
 
 ## Quick Navigation
-- [Properties](#properties) - Feature identity and attributes
-- [Methods](#methods) - Feature operations and styling
+- [[Feature#properties|Properties]] - Feature identity and attributes
+- [[Feature#methods|Methods]] - Feature operations and styling
 
 ## Properties
 
@@ -45,4 +45,4 @@ blue (byte): Blue component 0 - 255
 ```
 
 ---
-**[⬆ Back to Top](#feature)**
+**[[Feature#feature|⬆ Back to Top]]**

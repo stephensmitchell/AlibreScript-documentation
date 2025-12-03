@@ -1,23 +1,23 @@
 # CircularArc
 
-**[Home](Home) | [Classes](Classes) | [Methods](Methods-Index) | [Properties](Properties-Index) | [Members](Members-Index)**
+**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-** Location:**[Geometry & Shapes](Classes#geometry) CircularArc
+** Location:**[[Classes#geometry|Geometry & Shapes]] CircularArc
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The CircularArc class provides functionality for creating and manipulating circular arc geometry within 2D sketches.
 
 ## Related Classes
-- [CircularArc3D](CircularArc3D) - 3D circular arcs
-- [CircularArc.ArcType](CircularArc.ArcType) - Arc type definitions
-- [Circle](Circle) - Full circular geometry
-- [Sketch](Sketch) - Contains arc geometry
-- [EllipticalArc](EllipticalArc) - Elliptical arc geometry
+- [[CircularArc3D]] - 3D circular arcs
+- [[CircularArc.ArcType]] - Arc type definitions
+- [[Circle]] - Full circular geometry
+- [[Sketch]] - Contains arc geometry
+- [[EllipticalArc]] - Elliptical arc geometry
 
 ## Quick Navigation
-- [Properties](#properties) - Arc properties and dimensions
-- [Methods](#methods) - Available operations
+- [[CircularArc#properties|Properties]] - Arc properties and dimensions
+- [[CircularArc#methods|Methods]] - Available operations
 
 ## Properties
 
@@ -101,4 +101,4 @@ is_reference (bool): True if a reference arc, false if a regular arc
 ```
 
 ---
-**[⬆ Back to Top](#circulararc)**
+**[[CircularArc#circulararc|⬆ Back to Top]]**

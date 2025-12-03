@@ -1,43 +1,43 @@
 # Interfaces
 
-**[Home](Home) | [Classes](Classes) | [Methods](Methods-Index) | [Properties](Properties-Index) | [Members](Members-Index)**
+**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
 *Core interface definitions in the AlibreScript API*
 
 ## Available Interfaces
 
-### [IAxis](IAxis)
+### [[IAxis]]
 **Namespace:** `AlibreScript.API`
 
 Defines the interface for axis operations and properties. Used for geometric axis definitions and transformations.
 
-**Related Classes:**[Axis](Axis)
+**Related Classes:**[[Axis]]
 
-### [IPlane](IPlane)
+### [[IPlane]]
 **Namespace:** `AlibreScript.API`
 
 Defines the interface for plane operations and properties. Essential for 3D geometry operations and coordinate system definitions.
 
-**Related Classes:**[Plane](Plane)
+**Related Classes:**[[Plane]]
 
-### [IPoint](IPoint)
+### [[IPoint]]
 **Namespace:** `AlibreScript.API`
 
 Defines the interface for point operations and properties. Fundamental interface for all point-based geometry operations.
 
-**Related Classes:**[Point](Point), [SketchPoint](SketchPoint), [SketchPoint3D](SketchPoint3D), [PolylinePoint](PolylinePoint), [PolylinePoint3D](PolylinePoint3D)
+**Related Classes:**[[Point]], [[SketchPoint]], [[SketchPoint3D]], [[PolylinePoint]], [[PolylinePoint3D]]
 
 ## Usage Patterns
 
 Interfaces in the AlibreScript API provide consistent contracts for geometric operations. They are typically implemented by concrete classes and used polymorphically throughout the API.
 
 **See Also:**
-- [ All Classes](Classes) - Complete class reference
-- [🧩 Core Elements](Classes#core-elements) - Related geometric classes
-- [ Geometry & Shapes](Classes#geometry) - Geometric operations
+- [[Classes|All Classes]] - Complete class reference
+- [[Classes#core-elements|🧩 Core Elements]] - Related geometric classes
+- [[Classes#geometry|Geometry & Shapes]] - Geometric operations
 
 ---
-** Navigation:**[ Home](Home) | [ Classes](Classes) | [ Methods](Methods-Index) | [ Properties](Properties-Index)
+** Navigation:**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
 
-**[⬆ Back to Top](#interfaces)**
+**[[Interfaces#interfaces|⬆ Back to Top]]**
 

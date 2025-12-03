@@ -1,15 +1,15 @@
 # Members Index - X
 
-[ Back to Members Index](Members-Index) | [Documentation Home](../README.md) | [All Classes](Classes)
+[[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
 
-- **Property**[X](Point#x) in [Point](Point)
-- **Property**[X](SketchPoint#x) in [SketchPoint](SketchPoint)
-- **Property**[X](SketchPoint3D#x) in [SketchPoint3D](SketchPoint3D)
-- **Property**[X](Vertex#x) in [Vertex](Vertex)
-- **Property**[XAxis](Assembly#xaxis) in [Assembly](Assembly)
-- **Property**[XAxis](Part#xaxis) in [Part](Part)
-- **Property**[XYPlane](Assembly#xyplane) in [Assembly](Assembly)
-- **Property**[XYPlane](Part#xyplane) in [Part](Part)
+- **Property**[[Point#x|X]] in [[Point]]
+- **Property**[[SketchPoint#x|X]] in [[SketchPoint]]
+- **Property**[[SketchPoint3D#x|X]] in [[SketchPoint3D]]
+- **Property**[[Vertex#x|X]] in [[Vertex]]
+- **Property**[[Assembly#xaxis|XAxis]] in [[Assembly]]
+- **Property**[[Part#xaxis|XAxis]] in [[Part]]
+- **Property**[[Assembly#xyplane|XYPlane]] in [[Assembly]]
+- **Property**[[Part#xyplane|XYPlane]] in [[Part]]
 
 ---
-**[⬆ Back to Top](#members-index-x)**
+**[[members-x#members-index-x|⬆ Back to Top]]**

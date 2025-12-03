@@ -1,8 +1,8 @@
 # Circle
 
-**[Home](Home) | [Classes](Classes) | [Methods](Methods-Index) | [Properties](Properties-Index) | [Members](Members-Index)**
+**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-** Location:**[Geometry & Shapes](Classes#geometry) Circle
+** Location:**[[Classes#geometry|Geometry & Shapes]] Circle
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
@@ -35,15 +35,15 @@ circumference = circle.Length
 ```
 
 ## Related Classes
-- [Sketch](Sketch) - Contains circle geometry
-- [CircularArc](CircularArc) - Arc-based circular geometry
-- [Ellipse](Ellipse) - Elliptical geometry
-- [Point](Point) - Center point handling
-- [Line](Line) - Linear geometry
+- [[Sketch]] - Contains circle geometry
+- [[CircularArc]] - Arc-based circular geometry
+- [[Ellipse]] - Elliptical geometry
+- [[Point]] - Center point handling
+- [[Line]] - Linear geometry
 
 ## Quick Navigation
-- [Properties](#properties) - Circle properties and dimensions
-- [Methods](#methods) - Available operations
+- [[Circle#properties|Properties]] - Circle properties and dimensions
+- [[Circle#methods|Methods]] - Available operations
 
 ## Properties
 
@@ -88,5 +88,5 @@ is_reference (bool): True to create a reference circle
 ```
 
 ---
-**[⬆ Back to Top](#circle)**
+**[[Circle#circle|⬆ Back to Top]]**
 

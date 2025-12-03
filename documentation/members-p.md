@@ -1,18 +1,18 @@
 # Members Index - P
 
-[ Back to Members Index](Members-Index) | [Documentation Home](../README.md) | [All Classes](Classes)
+[[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
 
-- **Property**[Parameters](Assembly#parameters) in [Assembly](Assembly)
-- **Property**[Parameters](GlobalParameters#parameters) in [GlobalParameters](GlobalParameters)
-- **Property**[Parameters](Part#parameters) in [Part](Part)
-- **Method**[PartPointtoAssemblyPoint](AssembledPart#partpointtoassemblypoint) in [AssembledPart](AssembledPart)
-- **Property**[Parts](Assembly#parts) in [Assembly](Assembly)
-- **Method**[PauseUpdating](Assembly#pauseupdating) in [Assembly](Assembly)
-- **Method**[PauseUpdating](Part#pauseupdating) in [Part](Part)
-- **Method**[PointObject](IPoint#pointobject) in [IPoint](IPoint)
-- **Method**[PointtoGlobal](Sketch#pointtoglobal) in [Sketch](Sketch)
-- **Property**[Product](Assembly#product) in [Assembly](Assembly)
-- **Property**[Product](Part#product) in [Part](Part)
+- **Property**[[Assembly#parameters|Parameters]] in [[Assembly]]
+- **Property**[[GlobalParameters#parameters|Parameters]] in [[GlobalParameters]]
+- **Property**[[Part#parameters|Parameters]] in [[Part]]
+- **Method**[[AssembledPart#partpointtoassemblypoint|PartPointtoAssemblyPoint]] in [[AssembledPart]]
+- **Property**[[Assembly#parts|Parts]] in [[Assembly]]
+- **Method**[[Assembly#pauseupdating|PauseUpdating]] in [[Assembly]]
+- **Method**[[Part#pauseupdating|PauseUpdating]] in [[Part]]
+- **Method**[[IPoint#pointobject|PointObject]] in [[IPoint]]
+- **Method**[[Sketch#pointtoglobal|PointtoGlobal]] in [[Sketch]]
+- **Property**[[Assembly#product|Product]] in [[Assembly]]
+- **Property**[[Part#product|Product]] in [[Part]]
 
 ---
-**[⬆ Back to Top](#members-index-p)**
+**[[members-p#members-index-p|⬆ Back to Top]]**

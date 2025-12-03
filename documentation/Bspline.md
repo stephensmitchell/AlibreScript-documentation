@@ -1,6 +1,6 @@
 # Bspline
 
-[ Back to Classes](Classes) | [Documentation Home](../README.md) | [All Classes](Classes)
+[[Classes|Back to Classes]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
 
 - Namespace: `AlibreScript.API`
 - Kind: `Class`
@@ -149,4 +149,4 @@ List of points between segments [X1, Y1, X2, Y2, ...]
 ```
 
 ---
-**[⬆ Back to Top](#bspline)**
+**[[Bspline#bspline|⬆ Back to Top]]**

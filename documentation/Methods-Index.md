@@ -1,581 +1,431 @@
 # Methods Index
 
-**[Home](Home) | [Classes](Classes) | Methods Index | [Properties](Properties-Index) | [Members](Members-Index)**
+**[[Home]] | [[Classes]] | Methods Index | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
 *Alphabetical index of all methods in the AlibreScript API*
 
 ## Browse Methods by Category
 
 ### Assembly Methods
-[Assembly constraint operations](Assembly#constraint-methods) | [Component management](Assembly#component-methods)
+[[Assembly#constraint-methods|Assembly constraint operations]] | [[Assembly#component-methods|Component management]]
 
 ### Sketching Methods
-[2D sketch operations](Sketch#methods) | [3D sketch operations](Sketch3D#methods) | [Constraint methods](Sketch.Constraints#methods)
+[[Sketch#methods|2D sketch operations]] | [[Sketch3D#methods|3D sketch operations]] | [[Sketch.Constraints#methods|Constraint methods]]
 
 ### Geometry Methods
-[Line operations](Line#methods) | [Circle operations](Circle#methods) | [Arc operations](CircularArc#methods)
+[[Line#methods|Line operations]] | [[Circle#methods|Circle operations]] | [[CircularArc#methods|Arc operations]]
 
 ### Part Methods
-[Part creation](Part#methods) | [Feature operations](Feature#methods) | [File operations](Part#file-operations)
+[[Part#methods|Part creation]] | [[Feature#methods|Feature operations]] | [[Part#file-operations|File operations]]
 
 ## Alphabetical Method List
 
-**Quick Jump:**[#](#) | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)
+**Quick Jump:**[[Methods-Index#|#]] | [[Methods-Index#a|A]] | [[Methods-Index#b|B]] | [[Methods-Index#c|C]] | [[Methods-Index#d|D]] | [[Methods-Index#e|E]] | [[Methods-Index#f|F]] | [[Methods-Index#g|G]] | [[Methods-Index#h|H]] | [[Methods-Index#i|I]] | [[Methods-Index#j|J]] | [[Methods-Index#k|K]] | [[Methods-Index#l|L]] | [[Methods-Index#m|M]] | [[Methods-Index#n|N]] | [[Methods-Index#o|O]] | [[Methods-Index#p|P]] | [[Methods-Index#q|Q]] | [[Methods-Index#r|R]] | [[Methods-Index#s|S]] | [[Methods-Index#t|T]] | [[Methods-Index#u|U]] | [[Methods-Index#v|V]] | [[Methods-Index#w|W]] | [[Methods-Index#x|X]] | [[Methods-Index#y|Y]] | [[Methods-Index#z|Z]]
 
 ## #
 
-- [Assembly](Assembly#assembly) — in [Assembly](Assembly)
-- [Assembly](Assembly#assembly) — in [Assembly](Assembly)
-- [Assembly](Assembly#assembly) — in [Assembly](Assembly)
-- [Assembly](Assembly#assembly) — in [Assembly](Assembly)
-- [Assembly](Assembly#assembly) — in [Assembly](Assembly)
-- [Bspline](Bspline#bspline) — in [Bspline](Bspline)
-- [Bspline3D](Bspline3D#bspline3d) — in [Bspline3D](Bspline3D)
-- [Circle](Circle#circle) — in [Circle](Circle)
-- [CircularArc](CircularArc#circulararc) — in [CircularArc](CircularArc)
-- [CircularArc](CircularArc#circulararc) — in [CircularArc](CircularArc)
-- [CircularArc3D](CircularArc3D#circulararc3d) — in [CircularArc3D](CircularArc3D)
-- [CircularArc3D](CircularArc3D#circulararc3d) — in [CircularArc3D](CircularArc3D)
-- [Ellipse](Ellipse#ellipse) — in [Ellipse](Ellipse)
-- [EllipticalArc](EllipticalArc#ellipticalarc) — in [EllipticalArc](EllipticalArc)
-- [GlobalParameters](GlobalParameters#globalparameters) — in [GlobalParameters](GlobalParameters)
-- [GlobalParameters](GlobalParameters#globalparameters) — in [GlobalParameters](GlobalParameters)
-- [GlobalParameters](GlobalParameters#globalparameters) — in [GlobalParameters](GlobalParameters)
-- [Line](Line#line) — in [Line](Line)
-- [Line3D](Line3D#line3d) — in [Line3D](Line3D)
-- [Part](Part#part) — in [Part](Part)
-- [Part](Part#part) — in [Part](Part)
-- [Part](Part#part) — in [Part](Part)
-- [Part](Part#part) — in [Part](Part)
-- [Part](Part#part) — in [Part](Part)
-- [Part](Part#part) — in [Part](Part)
-- [Part](Part#part) — in [Part](Part)
-- [Polyline](Polyline#polyline) — in [Polyline](Polyline)
-- [Polyline](Polyline#polyline) — in [Polyline](Polyline)
-- [Polyline3D](Polyline3D#polyline3d) — in [Polyline3D](Polyline3D)
-- [Polyline3D](Polyline3D#polyline3d) — in [Polyline3D](Polyline3D)
-- [PolylinePoint](PolylinePoint#polylinepoint) — in [PolylinePoint](PolylinePoint)
-- [PolylinePoint](PolylinePoint#polylinepoint) — in [PolylinePoint](PolylinePoint)
-- [PolylinePoint3D](PolylinePoint3D#polylinepoint3d) — in [PolylinePoint3D](PolylinePoint3D)
-- [PolylinePoint3D](PolylinePoint3D#polylinepoint3d) — in [PolylinePoint3D](PolylinePoint3D)
-- [SketchPoint](SketchPoint#sketchpoint) — in [SketchPoint](SketchPoint)
-- [SketchPoint3D](SketchPoint3D#sketchpoint3d) — in [SketchPoint3D](SketchPoint3D)
-- [Windows](Windows#windows) — in [Windows](Windows)
+- [[Assembly#assembly]] — in [[Assembly]]
+- [[Bspline#bspline]] — in [[Bspline]]
+- [[Bspline3D#bspline3d]] — in [[Bspline3D]]
+- [[Circle#circle]] — in [[Circle]]
+- [[CircularArc#circulararc]] — in [[CircularArc]]
+- [[CircularArc3D#circulararc3d]] — in [[CircularArc3D]]
+- [[Ellipse#ellipse]] — in [[Ellipse]]
+- [[EllipticalArc#ellipticalarc]] — in [[EllipticalArc]]
+- [[GlobalParameters#globalparameters]] — in [[GlobalParameters]]
+- [[Line#line]] — in [[Line]]
+- [[Line3D#line3d]] — in [[Line3D]]
+- [[Part#part]] — in [[Part]]
+- [[Polyline#polyline]] — in [[Polyline]]
+- [[Polyline3D#polyline3d]] — in [[Polyline3D]]
+- [[PolylinePoint#polylinepoint]] — in [[PolylinePoint]]
+- [[PolylinePoint3D#polylinepoint3d]] — in [[PolylinePoint3D]]
+- [[SketchPoint#sketchpoint]] — in [[SketchPoint]]
+- [[SketchPoint3D#sketchpoint3d]] — in [[SketchPoint3D]]
+- [[Windows#windows]] — in [[Windows]]
 
 ## A
 
-- [Activate](Configuration#activate) — in [Configuration](Configuration)
-- [Add3DSketch](Part#add3dsketch) — in [Part](Part)
-- [AddAlignConstraint](Assembly#addalignconstraint) — in [Assembly](Assembly)
-- [AddAlignConstraint](Assembly#addalignconstraint) — in [Assembly](Assembly)
-- [AddAlignConstraint2](Assembly#addalignconstraint2) — in [Assembly](Assembly)
-- [AddAngleConstraint](Assembly#addangleconstraint) — in [Assembly](Assembly)
-- [AddAngleConstraint](Assembly#addangleconstraint) — in [Assembly](Assembly)
-- [AddAngleConstraint2](Assembly#addangleconstraint2) — in [Assembly](Assembly)
-- [AddArc](Polyline#addarc) — in [Polyline](Polyline)
-- [AddArc](Sketch#addarc) — in [Sketch](Sketch)
-- [AddArc](Sketch3D#addarc) — in [Sketch3D](Sketch3D)
-- [AddArcCenterStartAngle](Sketch#addarccenterstartangle) — in [Sketch](Sketch)
-- [AddArcCenterStartEnd](Sketch#addarccenterstartend) — in [Sketch](Sketch)
-- [AddArcCenterStartEnd](Sketch3D#addarccenterstartend) — in [Sketch3D](Sketch3D)
-- [AddAxis](Assembly#addaxis) — in [Assembly](Assembly)
-- [AddAxis](Assembly#addaxis) — in [Assembly](Assembly)
-- [AddAxis](Part#addaxis) — in [Part](Part)
-- [AddAxis](Part#addaxis) — in [Part](Part)
-- [AddAxis](Part#addaxis) — in [Part](Part)
-- [AddAxis](Part#addaxis) — in [Part](Part)
-- [AddBspline](Sketch#addbspline) — in [Sketch](Sketch)
-- [AddBspline](Sketch#addbspline) — in [Sketch](Sketch)
-- [AddBspline](Sketch#addbspline) — in [Sketch](Sketch)
-- [AddBspline](Sketch3D#addbspline) — in [Sketch3D](Sketch3D)
-- [AddBspline](Sketch3D#addbspline) — in [Sketch3D](Sketch3D)
-- [AddChamfer](Part#addchamfer) — in [Part](Part)
-- [AddChamfer](Part#addchamfer) — in [Part](Part)
-- [AddChamfer](Part#addchamfer) — in [Part](Part)
-- [AddChamfer](Part#addchamfer) — in [Part](Part)
-- [AddChamferAngle](Part#addchamferangle) — in [Part](Part)
-- [AddChamferAngle](Part#addchamferangle) — in [Part](Part)
-- [AddCircle](Polyline#addcircle) — in [Polyline](Polyline)
-- [AddCircle](Sketch#addcircle) — in [Sketch](Sketch)
-- [AddCircle](Sketch#addcircle) — in [Sketch](Sketch)
-- [AddConfiguration](Assembly#addconfiguration) — in [Assembly](Assembly)
-- [AddConfiguration](Assembly#addconfiguration) — in [Assembly](Assembly)
-- [AddConfiguration](GlobalParameters#addconfiguration) — in [GlobalParameters](GlobalParameters)
-- [AddConfiguration](GlobalParameters#addconfiguration) — in [GlobalParameters](GlobalParameters)
-- [AddConfiguration](Part#addconfiguration) — in [Part](Part)
-- [AddConfiguration](Part#addconfiguration) — in [Part](Part)
-- [AddConstraint](Sketch#addconstraint) — in [Sketch](Sketch)
-- [AddConstraint](Sketch#addconstraint) — in [Sketch](Sketch)
-- [AddDimension](Sketch#adddimension) — in [Sketch](Sketch)
-- [AddDimension](Sketch#adddimension) — in [Sketch](Sketch)
-- [AddDimension](Sketch#adddimension) — in [Sketch](Sketch)
-- [AddEllipse](Sketch#addellipse) — in [Sketch](Sketch)
-- [AddEllipse](Sketch#addellipse) — in [Sketch](Sketch)
-- [AddEllipse](Sketch#addellipse) — in [Sketch](Sketch)
-- [AddEllipticalArc](Sketch#addellipticalarc) — in [Sketch](Sketch)
-- [AddEllipticalArc](Sketch#addellipticalarc) — in [Sketch](Sketch)
-- [AddExtrudeBoss](Part#addextrudeboss) — in [Part](Part)
-- [AddExtrudeBoss](Part#addextrudeboss) — in [Part](Part)
-- [AddExtrudeCut](Part#addextrudecut) — in [Part](Part)
-- [AddExtrudeCut](Part#addextrudecut) — in [Part](Part)
-- [AddFastenerConstraint](Assembly#addfastenerconstraint) — in [Assembly](Assembly)
-- [AddFastenerConstraint2](Assembly#addfastenerconstraint2) — in [Assembly](Assembly)
-- [AddFigure](Sketch#addfigure) — in [Sketch](Sketch)
-- [AddFillet](Part#addfillet) — in [Part](Part)
-- [AddFillet](Part#addfillet) — in [Part](Part)
-- [AddFillet](Part#addfillet) — in [Part](Part)
-- [AddGear](Part#addgear) — in [Part](Part)
-- [AddGearConstraint](Assembly#addgearconstraint) — in [Assembly](Assembly)
-- [AddGearDN](Part#addgeardn) — in [Part](Part)
-- [AddGearDN](Part#addgeardn) — in [Part](Part)
-- [AddGearDP](Part#addgeardp) — in [Part](Part)
-- [AddGearDP](Part#addgeardp) — in [Part](Part)
-- [AddGearNP](Part#addgearnp) — in [Part](Part)
-- [AddGearNP](Part#addgearnp) — in [Part](Part)
-- [AddLine](Sketch#addline) — in [Sketch](Sketch)
-- [AddLine](Sketch#addline) — in [Sketch](Sketch)
-- [AddLine](Sketch#addline) — in [Sketch](Sketch)
-- [AddLine](Sketch3D#addline) — in [Sketch3D](Sketch3D)
-- [AddLine](Sketch3D#addline) — in [Sketch3D](Sketch3D)
-- [AddLine](Sketch3D#addline) — in [Sketch3D](Sketch3D)
-- [AddLines](Sketch#addlines) — in [Sketch](Sketch)
-- [AddLines](Sketch3D#addlines) — in [Sketch3D](Sketch3D)
-- [AddLoftBoss](Part#addloftboss) — in [Part](Part)
-- [AddLoftBoss](Part#addloftboss) — in [Part](Part)
-- [AddLoftCut](Part#addloftcut) — in [Part](Part)
-- [AddLoftCut](Part#addloftcut) — in [Part](Part)
-- [AddMateConstraint](Assembly#addmateconstraint) — in [Assembly](Assembly)
-- [AddMateConstraint](Assembly#addmateconstraint) — in [Assembly](Assembly)
-- [AddMateConstraint2](Assembly#addmateconstraint2) — in [Assembly](Assembly)
-- [AddNewPart](Assembly#addnewpart) — in [Assembly](Assembly)
-- [AddNewSubAssembly](Assembly#addnewsubassembly) — in [Assembly](Assembly)
-- [AddOrientConstraint](Assembly#addorientconstraint) — in [Assembly](Assembly)
-- [AddOrientConstraint](Assembly#addorientconstraint) — in [Assembly](Assembly)
-- [AddParameter](Assembly#addparameter) — in [Assembly](Assembly)
-- [AddParameter](Assembly#addparameter) — in [Assembly](Assembly)
-- [AddParameter](GlobalParameters#addparameter) — in [GlobalParameters](GlobalParameters)
-- [AddParameter](GlobalParameters#addparameter) — in [GlobalParameters](GlobalParameters)
-- [AddParameter](Part#addparameter) — in [Part](Part)
-- [AddParameter](Part#addparameter) — in [Part](Part)
-- [AddParameter](Part#addparameter) — in [Part](Part)
-- [AddPart](Assembly#addpart) — in [Assembly](Assembly)
-- [AddPart](Assembly#addpart) — in [Assembly](Assembly)
-- [AddPart](Assembly#addpart) — in [Assembly](Assembly)
-- [AddPart](Assembly#addpart) — in [Assembly](Assembly)
-- [AddPart](Assembly#addpart) — in [Assembly](Assembly)
-- [AddPart](Assembly#addpart) — in [Assembly](Assembly)
-- [AddPart](Assembly#addpart) — in [Assembly](Assembly)
-- [AddPart](Assembly#addpart) — in [Assembly](Assembly)
-- [AddPart](Assembly#addpart) — in [Assembly](Assembly)
-- [AddPlane](Assembly#addplane) — in [Assembly](Assembly)
-- [AddPlane](Assembly#addplane) — in [Assembly](Assembly)
-- [AddPlane](Assembly#addplane) — in [Assembly](Assembly)
-- [AddPlane](Assembly#addplane) — in [Assembly](Assembly)
-- [AddPlane](Part#addplane) — in [Part](Part)
-- [AddPlane](Part#addplane) — in [Part](Part)
-- [AddPlane](Part#addplane) — in [Part](Part)
-- [AddPlane](Part#addplane) — in [Part](Part)
-- [AddPlane](Part#addplane) — in [Part](Part)
-- [AddPoint](AssembledPart#addpoint) — in [AssembledPart](AssembledPart)
-- [AddPoint](AssembledPart#addpoint) — in [AssembledPart](AssembledPart)
-- [AddPoint](AssembledPart#addpoint) — in [AssembledPart](AssembledPart)
-- [AddPoint](AssembledPart#addpoint) — in [AssembledPart](AssembledPart)
-- [AddPoint](AssembledPart#addpoint) — in [AssembledPart](AssembledPart)
-- [AddPoint](AssembledPart#addpoint) — in [AssembledPart](AssembledPart)
-- [AddPoint](AssembledPart#addpoint) — in [AssembledPart](AssembledPart)
-- [AddPoint](Assembly#addpoint) — in [Assembly](Assembly)
-- [AddPoint](Assembly#addpoint) — in [Assembly](Assembly)
-- [AddPoint](Assembly#addpoint) — in [Assembly](Assembly)
-- [AddPoint](Assembly#addpoint) — in [Assembly](Assembly)
-- [AddPoint](Assembly#addpoint) — in [Assembly](Assembly)
-- [AddPoint](Assembly#addpoint) — in [Assembly](Assembly)
-- [AddPoint](Assembly#addpoint) — in [Assembly](Assembly)
-- [AddPoint](Assembly#addpoint) — in [Assembly](Assembly)
-- [AddPoint](Part#addpoint) — in [Part](Part)
-- [AddPoint](Part#addpoint) — in [Part](Part)
-- [AddPoint](Part#addpoint) — in [Part](Part)
-- [AddPoint](Part#addpoint) — in [Part](Part)
-- [AddPoint](Part#addpoint) — in [Part](Part)
-- [AddPoint](Part#addpoint) — in [Part](Part)
-- [AddPoint](Part#addpoint) — in [Part](Part)
-- [AddPoint](Part#addpoint) — in [Part](Part)
-- [AddPoint](Part#addpoint) — in [Part](Part)
-- [AddPoint](Part#addpoint) — in [Part](Part)
-- [AddPoint](Polyline#addpoint) — in [Polyline](Polyline)
-- [AddPoint](Polyline3D#addpoint) — in [Polyline3D](Polyline3D)
-- [AddPoint](Sketch#addpoint) — in [Sketch](Sketch)
-- [AddPoint](Sketch#addpoint) — in [Sketch](Sketch)
-- [AddPoint](Sketch#addpoint) — in [Sketch](Sketch)
-- [AddPoint](Sketch3D#addpoint) — in [Sketch3D](Sketch3D)
-- [AddPoint](Sketch3D#addpoint) — in [Sketch3D](Sketch3D)
-- [AddPointFromCircularEdge](AssembledPart#addpointfromcircularedge) — in [AssembledPart](AssembledPart)
-- [AddPointFromCircularEdge](Assembly#addpointfromcircularedge) — in [Assembly](Assembly)
-- [AddPointFromCircularEdge](Part#addpointfromcircularedge) — in [Part](Part)
-- [AddPointFromToroidalFace](AssembledPart#addpointfromtoroidalface) — in [AssembledPart](AssembledPart)
-- [AddPointFromToroidalFace](Assembly#addpointfromtoroidalface) — in [Assembly](Assembly)
-- [AddPointFromToroidalFace](Part#addpointfromtoroidalface) — in [Part](Part)
-- [AddPoints](Assembly#addpoints) — in [Assembly](Assembly)
-- [AddPoints](Part#addpoints) — in [Part](Part)
-- [AddPolygon](Sketch#addpolygon) — in [Sketch](Sketch)
-- [AddPolyhole](Sketch#addpolyhole) — in [Sketch](Sketch)
-- [AddPolyline](Polyline#addpolyline) — in [Polyline](Polyline)
-- [AddPolyline](Polyline3D#addpolyline) — in [Polyline3D](Polyline3D)
-- [AddPolyline](Sketch#addpolyline) — in [Sketch](Sketch)
-- [AddPolyline](Sketch3D#addpolyline) — in [Sketch3D](Sketch3D)
-- [AddRackAndPinionConstraint](Assembly#addrackandpinionconstraint) — in [Assembly](Assembly)
-- [AddRectangle](Sketch#addrectangle) — in [Sketch](Sketch)
-- [AddRevolveBoss](Part#addrevolveboss) — in [Part](Part)
-- [AddRevolveCut](Part#addrevolvecut) — in [Part](Part)
-- [AddScrewConstraint](Assembly#addscrewconstraint) — in [Assembly](Assembly)
-- [AddSketch](Part#addsketch) — in [Part](Part)
-- [AddSubAssembly](Assembly#addsubassembly) — in [Assembly](Assembly)
-- [AddSubAssembly](Assembly#addsubassembly) — in [Assembly](Assembly)
-- [AddSubAssembly](Assembly#addsubassembly) — in [Assembly](Assembly)
-- [AddSubAssembly](Assembly#addsubassembly) — in [Assembly](Assembly)
-- [AddSubAssembly](Assembly#addsubassembly) — in [Assembly](Assembly)
-- [AddSubAssembly](Assembly#addsubassembly) — in [Assembly](Assembly)
-- [AddSubAssembly](Assembly#addsubassembly) — in [Assembly](Assembly)
-- [AddSubAssembly](Assembly#addsubassembly) — in [Assembly](Assembly)
-- [AddSubAssembly](Assembly#addsubassembly) — in [Assembly](Assembly)
-- [AddSweepBoss](Part#addsweepboss) — in [Part](Part)
-- [AddSweepCut](Part#addsweepcut) — in [Part](Part)
-- [AddTangentConstraint](Assembly#addtangentconstraint) — in [Assembly](Assembly)
-- [AddTangentConstraint](Assembly#addtangentconstraint) — in [Assembly](Assembly)
-- [AddVertexChamfer](Part#addvertexchamfer) — in [Part](Part)
-- [AddVertexChamfer](Part#addvertexchamfer) — in [Part](Part)
-- [AnchorPart](Assembly#anchorpart) — in [Assembly](Assembly)
-- [AnchorPart](Assembly#anchorpart) — in [Assembly](Assembly)
-- [AnchorSubAssembly](Assembly#anchorsubassembly) — in [Assembly](Assembly)
-- [AssemblyPointtoPartPoint](AssembledPart#assemblypointtopartpoint) — in [AssembledPart](AssembledPart)
-- [AttachToExcel](Parameter#attachtoexcel) — in [Parameter](Parameter)
+- [[Configuration#activate|Activate]] — in [[Configuration]]
+- [[Part#add3dsketch|Add3DSketch]] — in [[Part]]
+- [[Assembly#addalignconstraint|AddAlignConstraint]] — in [[Assembly]]
+- [[Assembly#addalignconstraint2|AddAlignConstraint2]] — in [[Assembly]]
+- [[Assembly#addangleconstraint|AddAngleConstraint]] — in [[Assembly]]
+- [[Assembly#addangleconstraint2|AddAngleConstraint2]] — in [[Assembly]]
+- [[Polyline#addarc|AddArc]] — in [[Polyline]]
+- [[Sketch#addarc|AddArc]] — in [[Sketch]]
+- [[Sketch3D#addarc|AddArc]] — in [[Sketch3D]]
+- [[Sketch#addarccenterstartangle|AddArcCenterStartAngle]] — in [[Sketch]]
+- [[Sketch#addarccenterstartend|AddArcCenterStartEnd]] — in [[Sketch]]
+- [[Sketch3D#addarccenterstartend|AddArcCenterStartEnd]] — in [[Sketch3D]]
+- [[Assembly#addaxis|AddAxis]] — in [[Assembly]]
+- [[Part#addaxis|AddAxis]] — in [[Part]]
+- [[Sketch#addbspline|AddBspline]] — in [[Sketch]]
+- [[Sketch3D#addbspline|AddBspline]] — in [[Sketch3D]]
+- [[Part#addchamfer|AddChamfer]] — in [[Part]]
+- [[Part#addchamferangle|AddChamferAngle]] — in [[Part]]
+- [[Polyline#addcircle|AddCircle]] — in [[Polyline]]
+- [[Sketch#addcircle|AddCircle]] — in [[Sketch]]
+- [[Assembly#addconfiguration|AddConfiguration]] — in [[Assembly]]
+- [[GlobalParameters#addconfiguration|AddConfiguration]] — in [[GlobalParameters]]
+- [[Part#addconfiguration|AddConfiguration]] — in [[Part]]
+- [[Sketch#addconstraint|AddConstraint]] — in [[Sketch]]
+- [[Sketch#adddimension|AddDimension]] — in [[Sketch]]
+- [[Sketch#addellipse|AddEllipse]] — in [[Sketch]]
+- [[Sketch#addellipticalarc|AddEllipticalArc]] — in [[Sketch]]
+- [[Part#addextrudeboss|AddExtrudeBoss]] — in [[Part]]
+- [[Part#addextrudecut|AddExtrudeCut]] — in [[Part]]
+- [[Assembly#addfastenerconstraint|AddFastenerConstraint]] — in [[Assembly]]
+- [[Assembly#addfastenerconstraint2|AddFastenerConstraint2]] — in [[Assembly]]
+- [[Sketch#addfigure|AddFigure]] — in [[Sketch]]
+- [[Part#addfillet|AddFillet]] — in [[Part]]
+- [[Part#addgear|AddGear]] — in [[Part]]
+- [[Assembly#addgearconstraint|AddGearConstraint]] — in [[Assembly]]
+- [[Part#addgeardn|AddGearDN]] — in [[Part]]
+- [[Part#addgeardp|AddGearDP]] — in [[Part]]
+- [[Part#addgearnp|AddGearNP]] — in [[Part]]
+- [[Sketch#addline|AddLine]] — in [[Sketch]]
+- [[Sketch3D#addline|AddLine]] — in [[Sketch3D]]
+- [[Sketch#addlines|AddLines]] — in [[Sketch]]
+- [[Sketch3D#addlines|AddLines]] — in [[Sketch3D]]
+- [[Part#addloftboss|AddLoftBoss]] — in [[Part]]
+- [[Part#addloftcut|AddLoftCut]] — in [[Part]]
+- [[Assembly#addmateconstraint|AddMateConstraint]] — in [[Assembly]]
+- [[Assembly#addmateconstraint2|AddMateConstraint2]] — in [[Assembly]]
+- [[Assembly#addnewpart|AddNewPart]] — in [[Assembly]]
+- [[Assembly#addnewsubassembly|AddNewSubAssembly]] — in [[Assembly]]
+- [[Assembly#addorientconstraint|AddOrientConstraint]] — in [[Assembly]]
+- [[Assembly#addparameter|AddParameter]] — in [[Assembly]]
+- [[GlobalParameters#addparameter|AddParameter]] — in [[GlobalParameters]]
+- [[Part#addparameter|AddParameter]] — in [[Part]]
+- [[Assembly#addpart|AddPart]] — in [[Assembly]]
+- [[Assembly#addplane|AddPlane]] — in [[Assembly]]
+- [[Part#addplane|AddPlane]] — in [[Part]]
+- [[AssembledPart#addpoint|AddPoint]] — in [[AssembledPart]]
+- [[Assembly#addpoint|AddPoint]] — in [[Assembly]]
+- [[Part#addpoint|AddPoint]] — in [[Part]]
+- [[Polyline#addpoint|AddPoint]] — in [[Polyline]]
+- [[Polyline3D#addpoint|AddPoint]] — in [[Polyline3D]]
+- [[Sketch#addpoint|AddPoint]] — in [[Sketch]]
+- [[Sketch3D#addpoint|AddPoint]] — in [[Sketch3D]]
+- [[AssembledPart#addpointfromcircularedge|AddPointFromCircularEdge]] — in [[AssembledPart]]
+- [[Assembly#addpointfromcircularedge|AddPointFromCircularEdge]] — in [[Assembly]]
+- [[Part#addpointfromcircularedge|AddPointFromCircularEdge]] — in [[Part]]
+- [[AssembledPart#addpointfromtoroidalface|AddPointFromToroidalFace]] — in [[AssembledPart]]
+- [[Assembly#addpointfromtoroidalface|AddPointFromToroidalFace]] — in [[Assembly]]
+- [[Part#addpointfromtoroidalface|AddPointFromToroidalFace]] — in [[Part]]
+- [[Assembly#addpoints|AddPoints]] — in [[Assembly]]
+- [[Part#addpoints|AddPoints]] — in [[Part]]
+- [[Sketch#addpolygon|AddPolygon]] — in [[Sketch]]
+- [[Sketch#addpolyhole|AddPolyhole]] — in [[Sketch]]
+- [[Polyline#addpolyline|AddPolyline]] — in [[Polyline]]
+- [[Polyline3D#addpolyline|AddPolyline]] — in [[Polyline3D]]
+- [[Sketch#addpolyline|AddPolyline]] — in [[Sketch]]
+- [[Sketch3D#addpolyline|AddPolyline]] — in [[Sketch3D]]
+- [[Assembly#addrackandpinionconstraint|AddRackAndPinionConstraint]] — in [[Assembly]]
+- [[Sketch#addrectangle|AddRectangle]] — in [[Sketch]]
+- [[Part#addrevolveboss|AddRevolveBoss]] — in [[Part]]
+- [[Part#addrevolvecut|AddRevolveCut]] — in [[Part]]
+- [[Assembly#addscrewconstraint|AddScrewConstraint]] — in [[Assembly]]
+- [[Part#addsketch|AddSketch]] — in [[Part]]
+- [[Assembly#addsubassembly|AddSubAssembly]] — in [[Assembly]]
+- [[Part#addsweepboss|AddSweepBoss]] — in [[Part]]
+- [[Part#addsweepcut|AddSweepCut]] — in [[Part]]
+- [[Assembly#addtangentconstraint|AddTangentConstraint]] — in [[Assembly]]
+- [[Part#addvertexchamfer|AddVertexChamfer]] — in [[Part]]
+- [[Assembly#anchorpart|AnchorPart]] — in [[Assembly]]
+- [[Assembly#anchorsubassembly|AnchorSubAssembly]] — in [[Assembly]]
+- [[AssembledPart#assemblypointtopartpoint|AssemblyPointtoPartPoint]] — in [[AssembledPart]]
+- [[Parameter#attachtoexcel|AttachToExcel]] — in [[Parameter]]
 
 ## C
 
-- [Clone](Polyline#clone) — in [Polyline](Polyline)
-- [Clone](Polyline#clone) — in [Polyline](Polyline)
-- [Clone](Polyline3D#clone) — in [Polyline3D](Polyline3D)
-- [Clone](Polyline3D#clone) — in [Polyline3D](Polyline3D)
-- [Close](Assembly#close) — in [Assembly](Assembly)
-- [Close](GlobalParameters#close) — in [GlobalParameters](GlobalParameters)
-- [Close](Part#close) — in [Part](Part)
-- [CloseForm](Windows#closeform) — in [Windows](Windows)
-- [Compile](CSharp#compile) — in [CSharp](CSharp)
-- [CompileAndRun](CSharp#compileandrun) — in [CSharp](CSharp)
-- [CompileAndRun](CSharp#compileandrun) — in [CSharp](CSharp)
-- [CopyFrom](Sketch#copyfrom) — in [Sketch](Sketch)
-- [CopyFrom](Sketch#copyfrom) — in [Sketch](Sketch)
-- [CreateUniqueName](Assembly#createuniquename) — in [Assembly](Assembly)
+- [[Polyline#clone|Clone]] — in [[Polyline]]
+- [[Polyline3D#clone|Clone]] — in [[Polyline3D]]
+- [[Assembly#close|Close]] — in [[Assembly]]
+- [[GlobalParameters#close|Close]] — in [[GlobalParameters]]
+- [[Part#close|Close]] — in [[Part]]
+- [[Windows#closeform|CloseForm]] — in [[Windows]]
+- [[CSharp#compile|Compile]] — in [[CSharp]]
+- [[CSharp#compileandrun|CompileAndRun]] — in [[CSharp]]
+- [[Sketch#copyfrom|CopyFrom]] — in [[Sketch]]
+- [[Assembly#createuniquename|CreateUniqueName]] — in [[Assembly]]
 
 ## D
 
-- [DisableInput](Windows#disableinput) — in [Windows](Windows)
-- [DisplayUnits](Assembly#displayunits) — in [Assembly](Assembly)
-- [DisplayUnits](Part#displayunits) — in [Part](Part)
-- [DistanceTo](Face#distanceto) — in [Face](Face)
-- [DuplicatePart](Assembly#duplicatepart) — in [Assembly](Assembly)
-- [DuplicatePart](Assembly#duplicatepart) — in [Assembly](Assembly)
-- [DuplicatePart](Assembly#duplicatepart) — in [Assembly](Assembly)
-- [DuplicatePart](Assembly#duplicatepart) — in [Assembly](Assembly)
-- [DuplicateSubAssembly](Assembly#duplicatesubassembly) — in [Assembly](Assembly)
-- [DuplicateSubAssembly](Assembly#duplicatesubassembly) — in [Assembly](Assembly)
-- [DuplicateSubAssembly](Assembly#duplicatesubassembly) — in [Assembly](Assembly)
-- [DuplicateSubAssembly](Assembly#duplicatesubassembly) — in [Assembly](Assembly)
+- [[Windows#disableinput|DisableInput]] — in [[Windows]]
+- [[Assembly#displayunits|DisplayUnits]] — in [[Assembly]]
+- [[Part#displayunits|DisplayUnits]] — in [[Part]]
+- [[Face#distanceto|DistanceTo]] — in [[Face]]
+- [[Assembly#duplicatepart|DuplicatePart]] — in [[Assembly]]
+- [[Assembly#duplicatesubassembly|DuplicateSubAssembly]] — in [[Assembly]]
 
 ## E
 
-- [EnableInput](Windows#enableinput) — in [Windows](Windows)
-- [ErrorDialog](Windows#errordialog) — in [Windows](Windows)
-- [ExportBIP](Assembly#exportbip) — in [Assembly](Assembly)
-- [ExportBIP](Part#exportbip) — in [Part](Part)
-- [ExportIGES](Assembly#exportiges) — in [Assembly](Assembly)
-- [ExportIGES](Part#exportiges) — in [Part](Part)
-- [ExportRotatedSTL](Part#exportrotatedstl) — in [Part](Part)
-- [ExportSAT](Assembly#exportsat) — in [Assembly](Assembly)
-- [ExportSAT](Part#exportsat) — in [Part](Part)
-- [ExportSTEP203](Assembly#exportstep203) — in [Assembly](Assembly)
-- [ExportSTEP203](Part#exportstep203) — in [Part](Part)
-- [ExportSTEP214](Assembly#exportstep214) — in [Assembly](Assembly)
-- [ExportSTEP214](Part#exportstep214) — in [Part](Part)
-- [ExportSTL](Assembly#exportstl) — in [Assembly](Assembly)
-- [ExportSTL](Part#exportstl) — in [Part](Part)
-- [ExportSVG](Sketch#exportsvg) — in [Sketch](Sketch)
-- [ExportSVG](Sketch#exportsvg) — in [Sketch](Sketch)
-- [ExportSVG](Sketch#exportsvg) — in [Sketch](Sketch)
+- [[Windows#enableinput|EnableInput]] — in [[Windows]]
+- [[Windows#errordialog|ErrorDialog]] — in [[Windows]]
+- [[Assembly#exportbip|ExportBIP]] — in [[Assembly]]
+- [[Part#exportbip|ExportBIP]] — in [[Part]]
+- [[Assembly#exportiges|ExportIGES]] — in [[Assembly]]
+- [[Part#exportiges|ExportIGES]] — in [[Part]]
+- [[Part#exportrotatedstl|ExportRotatedSTL]] — in [[Part]]
+- [[Assembly#exportsat|ExportSAT]] — in [[Assembly]]
+- [[Part#exportsat|ExportSAT]] — in [[Part]]
+- [[Assembly#exportstep203|ExportSTEP203]] — in [[Assembly]]
+- [[Part#exportstep203|ExportSTEP203]] — in [[Part]]
+- [[Assembly#exportstep214|ExportSTEP214]] — in [[Assembly]]
+- [[Part#exportstep214|ExportSTEP214]] — in [[Part]]
+- [[Assembly#exportstl|ExportSTL]] — in [[Assembly]]
+- [[Part#exportstl|ExportSTL]] — in [[Part]]
+- [[Sketch#exportsvg|ExportSVG]] — in [[Sketch]]
 
 ## F
 
-- [FindIntersection](Polyline#findintersection) — in [Polyline](Polyline)
-- [FindIntersection](Polyline#findintersection) — in [Polyline](Polyline)
-- [FindIntersectionWithCircle](Polyline#findintersectionwithcircle) — in [Polyline](Polyline)
-- [FromXml](Sketch#fromxml) — in [Sketch](Sketch)
-- [FromXml](Sketch3D#fromxml) — in [Sketch3D](Sketch3D)
+- [[Polyline#findintersection|FindIntersection]] — in [[Polyline]]
+- [[Polyline#findintersectionwithcircle|FindIntersectionWithCircle]] — in [[Polyline]]
+- [[Sketch#fromxml|FromXml]] — in [[Sketch]]
+- [[Sketch3D#fromxml|FromXml]] — in [[Sketch3D]]
 
 ## G
 
-- [Get3DSketch](Part#get3dsketch) — in [Part](Part)
-- [GetActiveConfiguration](Assembly#getactiveconfiguration) — in [Assembly](Assembly)
-- [GetActiveConfiguration](GlobalParameters#getactiveconfiguration) — in [GlobalParameters](GlobalParameters)
-- [GetActiveConfiguration](Part#getactiveconfiguration) — in [Part](Part)
-- [GetAdjoiningFaces](Face#getadjoiningfaces) — in [Face](Face)
-- [GetArea](Face#getarea) — in [Face](Face)
-- [GetAssembly](AssembledPart#getassembly) — in [AssembledPart](AssembledPart)
-- [GetAssemblyBoundingBox](AssembledPart#getassemblyboundingbox) — in [AssembledPart](AssembledPart)
-- [GetAssemblyVertices](AssembledPart#getassemblyvertices) — in [AssembledPart](AssembledPart)
-- [GetAxis](Assembly#getaxis) — in [Assembly](Assembly)
-- [GetAxis](Part#getaxis) — in [Part](Part)
-- [GetBoundingBox](Part#getboundingbox) — in [Part](Part)
-- [GetConfiguration](AssembledPart#getconfiguration) — in [AssembledPart](AssembledPart)
-- [GetConfiguration](AssembledSubAssembly#getconfiguration) — in [AssembledSubAssembly](AssembledSubAssembly)
-- [GetConfiguration](Assembly#getconfiguration) — in [Assembly](Assembly)
-- [GetConfiguration](GlobalParameters#getconfiguration) — in [GlobalParameters](GlobalParameters)
-- [GetConfiguration](Part#getconfiguration) — in [Part](Part)
-- [GetCoordinates](Point#getcoordinates) — in [Point](Point)
-- [GetCustomProperty](Assembly#getcustomproperty) — in [Assembly](Assembly)
-- [GetCustomProperty](Part#getcustomproperty) — in [Part](Part)
-- [GetDisplayedForm](Windows#getdisplayedform) — in [Windows](Windows)
-- [GetEdge](AssembledPart#getedge) — in [AssembledPart](AssembledPart)
-- [GetEdge](Part#getedge) — in [Part](Part)
-- [GetEdges](AssembledPart#getedges) — in [AssembledPart](AssembledPart)
-- [GetEdges](Face#getedges) — in [Face](Face)
-- [GetEdges](Part#getedges) — in [Part](Part)
-- [GetFace](AssembledPart#getface) — in [AssembledPart](AssembledPart)
-- [GetFace](Part#getface) — in [Part](Part)
-- [GetFaces](AssembledPart#getfaces) — in [AssembledPart](AssembledPart)
-- [GetFaces](Part#getfaces) — in [Part](Part)
-- [GetFeature](Part#getfeature) — in [Part](Part)
-- [GetInputValue](Windows#getinputvalue) — in [Windows](Windows)
-- [GetMappedOccurrence](AssembledPart#getmappedoccurrence) — in [AssembledPart](AssembledPart)
-- [GetMappedOccurrence](AssembledSubAssembly#getmappedoccurrence) — in [AssembledSubAssembly](AssembledSubAssembly)
-- [GetNormalAt](Bspline#getnormalat) — in [Bspline](Bspline)
-- [GetNormalAt](Bspline3D#getnormalat) — in [Bspline3D](Bspline3D)
-- [GetOccurrence](IAxis#getoccurrence) — in [IAxis](IAxis)
-- [GetOccurrence](IPlane#getoccurrence) — in [IPlane](IPlane)
-- [GetOccurrence](IPoint#getoccurrence) — in [IPoint](IPoint)
-- [GetParameter](Assembly#getparameter) — in [Assembly](Assembly)
-- [GetParameter](GlobalParameters#getparameter) — in [GlobalParameters](GlobalParameters)
-- [GetParameter](Part#getparameter) — in [Part](Part)
-- [GetPart](Assembly#getpart) — in [Assembly](Assembly)
-- [GetPart](Axis#getpart) — in [Axis](Axis)
-- [GetPart](Edge#getpart) — in [Edge](Edge)
-- [GetPart](Face#getpart) — in [Face](Face)
-- [GetPart](Plane#getpart) — in [Plane](Plane)
-- [GetPart](Point#getpart) — in [Point](Point)
-- [GetPart](Sketch#getpart) — in [Sketch](Sketch)
-- [GetPart](Sketch3D#getpart) — in [Sketch3D](Sketch3D)
-- [GetPart](Vertex#getpart) — in [Vertex](Vertex)
-- [GetPartOrientation](Assembly#getpartorientation) — in [Assembly](Assembly)
-- [GetPartOrientation](Assembly#getpartorientation) — in [Assembly](Assembly)
-- [GetPerpendicularVector](ThreeD#getperpendicularvector) — in [ThreeD](ThreeD)
-- [GetPerpendicularVector](TwoD#getperpendicularvector) — in [TwoD](TwoD)
-- [GetPlane](Assembly#getplane) — in [Assembly](Assembly)
-- [GetPlane](Part#getplane) — in [Part](Part)
-- [GetPoint](Assembly#getpoint) — in [Assembly](Assembly)
-- [GetPoint](Part#getpoint) — in [Part](Part)
-- [GetPointAt](Bspline#getpointat) — in [Bspline](Bspline)
-- [GetPointAt](Bspline3D#getpointat) — in [Bspline3D](Bspline3D)
-- [GetSelectionAssembly](AssembledSubAssembly#getselectionassembly) — in [AssembledSubAssembly](AssembledSubAssembly)
-- [GetSelectionAssembly](Axis#getselectionassembly) — in [Axis](Axis)
-- [GetSelectionAssembly](Edge#getselectionassembly) — in [Edge](Edge)
-- [GetSelectionAssembly](Face#getselectionassembly) — in [Face](Face)
-- [GetSelectionAssembly](Part#getselectionassembly) — in [Part](Part)
-- [GetSelectionAssembly](Plane#getselectionassembly) — in [Plane](Plane)
-- [GetSelectionAssembly](Point#getselectionassembly) — in [Point](Point)
-- [GetSelectionAssembly](Sketch#getselectionassembly) — in [Sketch](Sketch)
-- [GetSelectionAssembly](Sketch3D#getselectionassembly) — in [Sketch3D](Sketch3D)
-- [GetSelectionAssembly](Vertex#getselectionassembly) — in [Vertex](Vertex)
-- [GetSketch](Part#getsketch) — in [Part](Part)
-- [GetSubAssembly](Assembly#getsubassembly) — in [Assembly](Assembly)
-- [GetSurface](Sketch#getsurface) — in [Sketch](Sketch)
-- [GetUserData](Assembly#getuserdata) — in [Assembly](Assembly)
-- [GetUserData](Part#getuserdata) — in [Part](Part)
-- [GetVertex](Part#getvertex) — in [Part](Part)
-- [GetVertices](Edge#getvertices) — in [Edge](Edge)
-- [GetVertices](Face#getvertices) — in [Face](Face)
-- [GetVertices](Part#getvertices) — in [Part](Part)
-- [GetX](Bspline#getx) — in [Bspline](Bspline)
-- [GetX](Bspline3D#getx) — in [Bspline3D](Bspline3D)
-- [GetY](Bspline#gety) — in [Bspline](Bspline)
-- [GetY](Bspline3D#gety) — in [Bspline3D](Bspline3D)
-- [GetZ](Bspline3D#getz) — in [Bspline3D](Bspline3D)
-- [GlobaltoPoint](Sketch#globaltopoint) — in [Sketch](Sketch)
+- [[Part#get3dsketch|Get3DSketch]] — in [[Part]]
+- [[Assembly#getactiveconfiguration|GetActiveConfiguration]] — in [[Assembly]]
+- [[GlobalParameters#getactiveconfiguration|GetActiveConfiguration]] — in [[GlobalParameters]]
+- [[Part#getactiveconfiguration|GetActiveConfiguration]] — in [[Part]]
+- [[Face#getadjoiningfaces|GetAdjoiningFaces]] — in [[Face]]
+- [[Face#getarea|GetArea]] — in [[Face]]
+- [[AssembledPart#getassembly|GetAssembly]] — in [[AssembledPart]]
+- [[AssembledPart#getassemblyboundingbox|GetAssemblyBoundingBox]] — in [[AssembledPart]]
+- [[AssembledPart#getassemblyvertices|GetAssemblyVertices]] — in [[AssembledPart]]
+- [[Assembly#getaxis|GetAxis]] — in [[Assembly]]
+- [[Part#getaxis|GetAxis]] — in [[Part]]
+- [[Part#getboundingbox|GetBoundingBox]] — in [[Part]]
+- [[AssembledPart#getconfiguration|GetConfiguration]] — in [[AssembledPart]]
+- [[AssembledSubAssembly#getconfiguration|GetConfiguration]] — in [[AssembledSubAssembly]]
+- [[Assembly#getconfiguration|GetConfiguration]] — in [[Assembly]]
+- [[GlobalParameters#getconfiguration|GetConfiguration]] — in [[GlobalParameters]]
+- [[Part#getconfiguration|GetConfiguration]] — in [[Part]]
+- [[Point#getcoordinates|GetCoordinates]] — in [[Point]]
+- [[Assembly#getcustomproperty|GetCustomProperty]] — in [[Assembly]]
+- [[Part#getcustomproperty|GetCustomProperty]] — in [[Part]]
+- [[Windows#getdisplayedform|GetDisplayedForm]] — in [[Windows]]
+- [[AssembledPart#getedge|GetEdge]] — in [[AssembledPart]]
+- [[Part#getedge|GetEdge]] — in [[Part]]
+- [[AssembledPart#getedges|GetEdges]] — in [[AssembledPart]]
+- [[Face#getedges|GetEdges]] — in [[Face]]
+- [[Part#getedges|GetEdges]] — in [[Part]]
+- [[AssembledPart#getface|GetFace]] — in [[AssembledPart]]
+- [[Part#getface|GetFace]] — in [[Part]]
+- [[AssembledPart#getfaces|GetFaces]] — in [[AssembledPart]]
+- [[Part#getfaces|GetFaces]] — in [[Part]]
+- [[Part#getfeature|GetFeature]] — in [[Part]]
+- [[Windows#getinputvalue|GetInputValue]] — in [[Windows]]
+- [[AssembledPart#getmappedoccurrence|GetMappedOccurrence]] — in [[AssembledPart]]
+- [[AssembledSubAssembly#getmappedoccurrence|GetMappedOccurrence]] — in [[AssembledSubAssembly]]
+- [[Bspline#getnormalat|GetNormalAt]] — in [[Bspline]]
+- [[Bspline3D#getnormalat|GetNormalAt]] — in [[Bspline3D]]
+- [[IAxis#getoccurrence|GetOccurrence]] — in [[IAxis]]
+- [[IPlane#getoccurrence|GetOccurrence]] — in [[IPlane]]
+- [[IPoint#getoccurrence|GetOccurrence]] — in [[IPoint]]
+- [[Assembly#getparameter|GetParameter]] — in [[Assembly]]
+- [[GlobalParameters#getparameter|GetParameter]] — in [[GlobalParameters]]
+- [[Part#getparameter|GetParameter]] — in [[Part]]
+- [[Assembly#getpart|GetPart]] — in [[Assembly]]
+- [[Axis#getpart|GetPart]] — in [[Axis]]
+- [[Edge#getpart|GetPart]] — in [[Edge]]
+- [[Face#getpart|GetPart]] — in [[Face]]
+- [[Plane#getpart|GetPart]] — in [[Plane]]
+- [[Point#getpart|GetPart]] — in [[Point]]
+- [[Sketch#getpart|GetPart]] — in [[Sketch]]
+- [[Sketch3D#getpart|GetPart]] — in [[Sketch3D]]
+- [[Vertex#getpart|GetPart]] — in [[Vertex]]
+- [[Assembly#getpartorientation|GetPartOrientation]] — in [[Assembly]]
+- [[ThreeD#getperpendicularvector|GetPerpendicularVector]] — in [[ThreeD]]
+- [[TwoD#getperpendicularvector|GetPerpendicularVector]] — in [[TwoD]]
+- [[Assembly#getplane|GetPlane]] — in [[Assembly]]
+- [[Part#getplane|GetPlane]] — in [[Part]]
+- [[Assembly#getpoint|GetPoint]] — in [[Assembly]]
+- [[Part#getpoint|GetPoint]] — in [[Part]]
+- [[Bspline#getpointat|GetPointAt]] — in [[Bspline]]
+- [[Bspline3D#getpointat|GetPointAt]] — in [[Bspline3D]]
+- [[AssembledSubAssembly#getselectionassembly|GetSelectionAssembly]] — in [[AssembledSubAssembly]]
+- [[Axis#getselectionassembly|GetSelectionAssembly]] — in [[Axis]]
+- [[Edge#getselectionassembly|GetSelectionAssembly]] — in [[Edge]]
+- [[Face#getselectionassembly|GetSelectionAssembly]] — in [[Face]]
+- [[Part#getselectionassembly|GetSelectionAssembly]] — in [[Part]]
+- [[Plane#getselectionassembly|GetSelectionAssembly]] — in [[Plane]]
+- [[Point#getselectionassembly|GetSelectionAssembly]] — in [[Point]]
+- [[Sketch#getselectionassembly|GetSelectionAssembly]] — in [[Sketch]]
+- [[Sketch3D#getselectionassembly|GetSelectionAssembly]] — in [[Sketch3D]]
+- [[Vertex#getselectionassembly|GetSelectionAssembly]] — in [[Vertex]]
+- [[Part#getsketch|GetSketch]] — in [[Part]]
+- [[Assembly#getsubassembly|GetSubAssembly]] — in [[Assembly]]
+- [[Sketch#getsurface|GetSurface]] — in [[Sketch]]
+- [[Assembly#getuserdata|GetUserData]] — in [[Assembly]]
+- [[Part#getuserdata|GetUserData]] — in [[Part]]
+- [[Part#getvertex|GetVertex]] — in [[Part]]
+- [[Edge#getvertices|GetVertices]] — in [[Edge]]
+- [[Face#getvertices|GetVertices]] — in [[Face]]
+- [[Part#getvertices|GetVertices]] — in [[Part]]
+- [[Bspline#getx|GetX]] — in [[Bspline]]
+- [[Bspline3D#getx|GetX]] — in [[Bspline3D]]
+- [[Bspline#gety|GetY]] — in [[Bspline]]
+- [[Bspline3D#gety|GetY]] — in [[Bspline3D]]
+- [[Bspline3D#getz|GetZ]] — in [[Bspline3D]]
+- [[Sketch#globaltopoint|GlobaltoPoint]] — in [[Sketch]]
 
 ## H
 
-- [Hide](Axis#hide) — in [Axis](Axis)
-- [Hide](Plane#hide) — in [Plane](Plane)
-- [Hide](Point#hide) — in [Point](Point)
-- [HideFeature](Part#hidefeature) — in [Part](Part)
-- [HideFeature](Part#hidefeature) — in [Part](Part)
-- [HidePart](Assembly#hidepart) — in [Assembly](Assembly)
-- [HidePart](Assembly#hidepart) — in [Assembly](Assembly)
-- [HideSubAssembly](Assembly#hidesubassembly) — in [Assembly](Assembly)
+- [[Axis#hide|Hide]] — in [[Axis]]
+- [[Plane#hide|Hide]] — in [[Plane]]
+- [[Point#hide|Hide]] — in [[Point]]
+- [[Part#hidefeature|HideFeature]] — in [[Part]]
+- [[Assembly#hidepart|HidePart]] — in [[Assembly]]
+- [[Assembly#hidesubassembly|HideSubAssembly]] — in [[Assembly]]
 
 ## I
 
-- [ImportSVG](Sketch#importsvg) — in [Sketch](Sketch)
-- [ImportSVG](Sketch#importsvg) — in [Sketch](Sketch)
-- [InfoDialog](Windows#infodialog) — in [Windows](Windows)
-- [InsertPoint](Polyline#insertpoint) — in [Polyline](Polyline)
-- [InsertPoint](Polyline3D#insertpoint) — in [Polyline3D](Polyline3D)
-- [IsOpen](Part#isopen) — in [Part](Part)
-- [IsParallel](Face#isparallel) — in [Face](Face)
-- [IsParallel](Plane#isparallel) — in [Plane](Plane)
-- [IsPointOnLine](Polyline#ispointonline) — in [Polyline](Polyline)
-- [IsPointOnLine](Polyline3D#ispointonline) — in [Polyline3D](Polyline3D)
-- [IsRectangle](Face#isrectangle) — in [Face](Face)
+- [[Sketch#importsvg|ImportSVG]] — in [[Sketch]]
+- [[Windows#infodialog|InfoDialog]] — in [[Windows]]
+- [[Polyline#insertpoint|InsertPoint]] — in [[Polyline]]
+- [[Polyline3D#insertpoint|InsertPoint]] — in [[Polyline3D]]
+- [[Part#isopen|IsOpen]] — in [[Part]]
+- [[Face#isparallel|IsParallel]] — in [[Face]]
+- [[Plane#isparallel|IsParallel]] — in [[Plane]]
+- [[Polyline#ispointonline|IsPointOnLine]] — in [[Polyline]]
+- [[Polyline3D#ispointonline|IsPointOnLine]] — in [[Polyline3D]]
+- [[Face#isrectangle|IsRectangle]] — in [[Face]]
 
 ## J
 
-- [Join](Polyline#join) — in [Polyline](Polyline)
-- [Join](Polyline3D#join) — in [Polyline3D](Polyline3D)
+- [[Polyline#join|Join]] — in [[Polyline]]
+- [[Polyline3D#join|Join]] — in [[Polyline3D]]
 
 ## L
 
-- [LoadXml](Sketch#loadxml) — in [Sketch](Sketch)
-- [LoadXml](Sketch3D#loadxml) — in [Sketch3D](Sketch3D)
-- [LockAll](Configuration#lockall) — in [Configuration](Configuration)
+- [[Sketch#loadxml|LoadXml]] — in [[Sketch]]
+- [[Sketch3D#loadxml|LoadXml]] — in [[Sketch3D]]
+- [[Configuration#lockall|LockAll]] — in [[Configuration]]
 
 ## M
 
-- [MovePart](Assembly#movepart) — in [Assembly](Assembly)
-- [MovePart](Assembly#movepart) — in [Assembly](Assembly)
-- [MoveParts](Assembly#moveparts) — in [Assembly](Assembly)
-- [MoveSubAssemblies](Assembly#movesubassemblies) — in [Assembly](Assembly)
-- [MoveSubAssembly](Assembly#movesubassembly) — in [Assembly](Assembly)
-- [MoveSubAssembly](Assembly#movesubassembly) — in [Assembly](Assembly)
+- [[Assembly#movepart|MovePart]] — in [[Assembly]]
+- [[Assembly#moveparts|MoveParts]] — in [[Assembly]]
+- [[Assembly#movesubassemblies|MoveSubAssemblies]] — in [[Assembly]]
+- [[Assembly#movesubassembly|MoveSubAssembly]] — in [[Assembly]]
 
 ## N
 
-- [NonUniformScale](Part#nonuniformscale) — in [Part](Part)
-- [NormalizeVector](TwoD#normalizevector) — in [TwoD](TwoD)
+- [[Part#nonuniformscale|NonUniformScale]] — in [[Part]]
+- [[TwoD#normalizevector|NormalizeVector]] — in [[TwoD]]
 
 ## O
 
-- [Offset](Polyline#offset) — in [Polyline](Polyline)
-- [Offset](Polyline3D#offset) — in [Polyline3D](Polyline3D)
-- [Offset](PolylinePoint#offset) — in [PolylinePoint](PolylinePoint)
-- [Offset](PolylinePoint3D#offset) — in [PolylinePoint3D](PolylinePoint3D)
-- [OpenFileDialog](Windows#openfiledialog) — in [Windows](Windows)
-- [OptionsDialog](Windows#optionsdialog) — in [Windows](Windows)
-- [OptionsDialog](Windows#optionsdialog) — in [Windows](Windows)
+- [[Polyline#offset|Offset]] — in [[Polyline]]
+- [[Polyline3D#offset|Offset]] — in [[Polyline3D]]
+- [[PolylinePoint#offset|Offset]] — in [[PolylinePoint]]
+- [[PolylinePoint3D#offset|Offset]] — in [[PolylinePoint3D]]
+- [[Windows#openfiledialog|OpenFileDialog]] — in [[Windows]]
+- [[Windows#optionsdialog|OptionsDialog]] — in [[Windows]]
 
 ## P
 
-- [PartPointtoAssemblyPoint](AssembledPart#partpointtoassemblypoint) — in [AssembledPart](AssembledPart)
-- [PauseUpdating](Assembly#pauseupdating) — in [Assembly](Assembly)
-- [PauseUpdating](Part#pauseupdating) — in [Part](Part)
-- [PointObject](IPoint#pointobject) — in [IPoint](IPoint)
-- [PointtoGlobal](Sketch#pointtoglobal) — in [Sketch](Sketch)
+- [[AssembledPart#partpointtoassemblypoint|PartPointtoAssemblyPoint]] — in [[AssembledPart]]
+- [[Assembly#pauseupdating|PauseUpdating]] — in [[Assembly]]
+- [[Part#pauseupdating|PauseUpdating]] — in [[Part]]
+- [[IPoint#pointobject|PointObject]] — in [[IPoint]]
+- [[Sketch#pointtoglobal|PointtoGlobal]] — in [[Sketch]]
 
 ## Q
 
-- [QuestionDialog](Windows#questiondialog) — in [Windows](Windows)
+- [[Windows#questiondialog|QuestionDialog]] — in [[Windows]]
 
 ## R
 
-- [Regenerate](Assembly#regenerate) — in [Assembly](Assembly)
-- [Regenerate](Part#regenerate) — in [Part](Part)
-- [RemoveDuplicates](Polyline#removeduplicates) — in [Polyline](Polyline)
-- [RemoveDuplicates](Polyline3D#removeduplicates) — in [Polyline3D](Polyline3D)
-- [RemoveFeature](Part#removefeature) — in [Part](Part)
-- [RemoveFeature](Part#removefeature) — in [Part](Part)
-- [RemovePlane](Part#removeplane) — in [Part](Part)
-- [RemovePoint](Part#removepoint) — in [Part](Part)
-- [RemoveSketch](Part#removesketch) — in [Part](Part)
-- [RemoveSketch](Part#removesketch) — in [Part](Part)
-- [ResumeUpdating](Assembly#resumeupdating) — in [Assembly](Assembly)
-- [ResumeUpdating](Part#resumeupdating) — in [Part](Part)
-- [RotatePart](Assembly#rotatepart) — in [Assembly](Assembly)
-- [RotatePart](Assembly#rotatepart) — in [Assembly](Assembly)
-- [RotateParts](Assembly#rotateparts) — in [Assembly](Assembly)
-- [RotatePoint](TwoD#rotatepoint) — in [TwoD](TwoD)
-- [RotateSubAssemblies](Assembly#rotatesubassemblies) — in [Assembly](Assembly)
-- [RotateSubAssembly](Assembly#rotatesubassembly) — in [Assembly](Assembly)
-- [RotateSubAssembly](Assembly#rotatesubassembly) — in [Assembly](Assembly)
-- [RotateSubAssembly](Assembly#rotatesubassembly) — in [Assembly](Assembly)
-- [RotateZ](Polyline#rotatez) — in [Polyline](Polyline)
-- [RotateZ](PolylinePoint#rotatez) — in [PolylinePoint](PolylinePoint)
-- [Run](CSharp#run) — in [CSharp](CSharp)
-- [Run](CSharp#run) — in [CSharp](CSharp)
+- [[Assembly#regenerate|Regenerate]] — in [[Assembly]]
+- [[Part#regenerate|Regenerate]] — in [[Part]]
+- [[Polyline#removeduplicates|RemoveDuplicates]] — in [[Polyline]]
+- [[Polyline3D#removeduplicates|RemoveDuplicates]] — in [[Polyline3D]]
+- [[Part#removefeature|RemoveFeature]] — in [[Part]]
+- [[Part#removeplane|RemovePlane]] — in [[Part]]
+- [[Part#removepoint|RemovePoint]] — in [[Part]]
+- [[Part#removesketch|RemoveSketch]] — in [[Part]]
+- [[Assembly#resumeupdating|ResumeUpdating]] — in [[Assembly]]
+- [[Part#resumeupdating|ResumeUpdating]] — in [[Part]]
+- [[Assembly#rotatepart|RotatePart]] — in [[Assembly]]
+- [[Assembly#rotateparts|RotateParts]] — in [[Assembly]]
+- [[TwoD#rotatepoint|RotatePoint]] — in [[TwoD]]
+- [[Assembly#rotatesubassemblies|RotateSubAssemblies]] — in [[Assembly]]
+- [[Assembly#rotatesubassembly|RotateSubAssembly]] — in [[Assembly]]
+- [[Polyline#rotatez|RotateZ]] — in [[Polyline]]
+- [[PolylinePoint#rotatez|RotateZ]] — in [[PolylinePoint]]
+- [[CSharp#run|Run]] — in [[CSharp]]
 
 ## S
 
-- [Save](Assembly#save) — in [Assembly](Assembly)
-- [Save](Assembly#save) — in [Assembly](Assembly)
-- [Save](GlobalParameters#save) — in [GlobalParameters](GlobalParameters)
-- [Save](GlobalParameters#save) — in [GlobalParameters](GlobalParameters)
-- [Save](Part#save) — in [Part](Part)
-- [Save](Part#save) — in [Part](Part)
-- [SaveAll](Assembly#saveall) — in [Assembly](Assembly)
-- [SaveAs](Assembly#saveas) — in [Assembly](Assembly)
-- [SaveAs](GlobalParameters#saveas) — in [GlobalParameters](GlobalParameters)
-- [SaveAs](Part#saveas) — in [Part](Part)
-- [SaveFileDialog](Windows#savefiledialog) — in [Windows](Windows)
-- [SaveSnapshot](Assembly#savesnapshot) — in [Assembly](Assembly)
-- [SaveSnapshot](Part#savesnapshot) — in [Part](Part)
-- [SaveThumbnail](Assembly#savethumbnail) — in [Assembly](Assembly)
-- [SaveThumbnail](Part#savethumbnail) — in [Part](Part)
-- [SavetoXml](Sketch#savetoxml) — in [Sketch](Sketch)
-- [SavetoXml](Sketch3D#savetoxml) — in [Sketch3D](Sketch3D)
-- [Scale](Part#scale) — in [Part](Part)
-- [Scale](PolylinePoint#scale) — in [PolylinePoint](PolylinePoint)
-- [Scale](PolylinePoint3D#scale) — in [PolylinePoint3D](PolylinePoint3D)
-- [Select](Part#select) — in [Part](Part)
-- [Select](Part#select) — in [Part](Part)
-- [SelectFolderDialog](Windows#selectfolderdialog) — in [Windows](Windows)
-- [SetColor](Feature#setcolor) — in [Feature](Feature)
-- [SetColor](Part#setcolor) — in [Part](Part)
-- [SetCustomProperty](Assembly#setcustomproperty) — in [Assembly](Assembly)
-- [SetCustomProperty](Part#setcustomproperty) — in [Part](Part)
-- [SetInputValue](Windows#setinputvalue) — in [Windows](Windows)
-- [SetLocks](Configuration#setlocks) — in [Configuration](Configuration)
-- [SetStringList](Windows#setstringlist) — in [Windows](Windows)
-- [SetUserData](Assembly#setuserdata) — in [Assembly](Assembly)
-- [SetUserData](Part#setuserdata) — in [Part](Part)
-- [Show](Axis#show) — in [Axis](Axis)
-- [Show](Plane#show) — in [Plane](Plane)
-- [Show](Point#show) — in [Point](Point)
-- [ShowFeature](Part#showfeature) — in [Part](Part)
-- [ShowFeature](Part#showfeature) — in [Part](Part)
-- [ShowPart](Assembly#showpart) — in [Assembly](Assembly)
-- [ShowPart](Assembly#showpart) — in [Assembly](Assembly)
-- [ShowSubAssembly](Assembly#showsubassembly) — in [Assembly](Assembly)
-- [SplitAtPoint](Polyline#splitatpoint) — in [Polyline](Polyline)
-- [SplitAtPoint](Polyline3D#splitatpoint) — in [Polyline3D](Polyline3D)
-- [StartFaceMapping](Sketch#startfacemapping) — in [Sketch](Sketch)
-- [StartFaceMapping](Sketch#startfacemapping) — in [Sketch](Sketch)
-- [StartMapping](Sketch#startmapping) — in [Sketch](Sketch)
-- [StopFaceMapping](Sketch#stopfacemapping) — in [Sketch](Sketch)
-- [StopMapping](Sketch#stopmapping) — in [Sketch](Sketch)
-- [Subdivide](Bspline#subdivide) — in [Bspline](Bspline)
-- [Subdivide](Bspline3D#subdivide) — in [Bspline3D](Bspline3D)
-- [SubdivideGetNormals](Bspline3D#subdividegetnormals) — in [Bspline3D](Bspline3D)
-- [SuppressFeature](Part#suppressfeature) — in [Part](Part)
-- [SuppressFeature](Part#suppressfeature) — in [Part](Part)
-- [SuppressPart](Assembly#suppresspart) — in [Assembly](Assembly)
-- [SuppressPart](Assembly#suppresspart) — in [Assembly](Assembly)
-- [SuppressSubAssembly](Assembly#suppresssubassembly) — in [Assembly](Assembly)
+- [[Assembly#save|Save]] — in [[Assembly]]
+- [[GlobalParameters#save|Save]] — in [[GlobalParameters]]
+- [[Part#save|Save]] — in [[Part]]
+- [[Assembly#saveall|SaveAll]] — in [[Assembly]]
+- [[Assembly#saveas|SaveAs]] — in [[Assembly]]
+- [[GlobalParameters#saveas|SaveAs]] — in [[GlobalParameters]]
+- [[Part#saveas|SaveAs]] — in [[Part]]
+- [[Windows#savefiledialog|SaveFileDialog]] — in [[Windows]]
+- [[Assembly#savesnapshot|SaveSnapshot]] — in [[Assembly]]
+- [[Part#savesnapshot|SaveSnapshot]] — in [[Part]]
+- [[Assembly#savethumbnail|SaveThumbnail]] — in [[Assembly]]
+- [[Part#savethumbnail|SaveThumbnail]] — in [[Part]]
+- [[Sketch#savetoxml|SavetoXml]] — in [[Sketch]]
+- [[Sketch3D#savetoxml|SavetoXml]] — in [[Sketch3D]]
+- [[Part#scale|Scale]] — in [[Part]]
+- [[PolylinePoint#scale|Scale]] — in [[PolylinePoint]]
+- [[PolylinePoint3D#scale|Scale]] — in [[PolylinePoint3D]]
+- [[Part#select|Select]] — in [[Part]]
+- [[Windows#selectfolderdialog|SelectFolderDialog]] — in [[Windows]]
+- [[Feature#setcolor|SetColor]] — in [[Feature]]
+- [[Part#setcolor|SetColor]] — in [[Part]]
+- [[Assembly#setcustomproperty|SetCustomProperty]] — in [[Assembly]]
+- [[Part#setcustomproperty|SetCustomProperty]] — in [[Part]]
+- [[Windows#setinputvalue|SetInputValue]] — in [[Windows]]
+- [[Configuration#setlocks|SetLocks]] — in [[Configuration]]
+- [[Windows#setstringlist|SetStringList]] — in [[Windows]]
+- [[Assembly#setuserdata|SetUserData]] — in [[Assembly]]
+- [[Part#setuserdata|SetUserData]] — in [[Part]]
+- [[Axis#show|Show]] — in [[Axis]]
+- [[Plane#show|Show]] — in [[Plane]]
+- [[Point#show|Show]] — in [[Point]]
+- [[Part#showfeature|ShowFeature]] — in [[Part]]
+- [[Assembly#showpart|ShowPart]] — in [[Assembly]]
+- [[Assembly#showsubassembly|ShowSubAssembly]] — in [[Assembly]]
+- [[Polyline#splitatpoint|SplitAtPoint]] — in [[Polyline]]
+- [[Polyline3D#splitatpoint|SplitAtPoint]] — in [[Polyline3D]]
+- [[Sketch#startfacemapping|StartFaceMapping]] — in [[Sketch]]
+- [[Sketch#startmapping|StartMapping]] — in [[Sketch]]
+- [[Sketch#stopfacemapping|StopFaceMapping]] — in [[Sketch]]
+- [[Sketch#stopmapping|StopMapping]] — in [[Sketch]]
+- [[Bspline#subdivide|Subdivide]] — in [[Bspline]]
+- [[Bspline3D#subdivide|Subdivide]] — in [[Bspline3D]]
+- [[Bspline3D#subdividegetnormals|SubdivideGetNormals]] — in [[Bspline3D]]
+- [[Part#suppressfeature|SuppressFeature]] — in [[Part]]
+- [[Assembly#suppresspart|SuppressPart]] — in [[Assembly]]
+- [[Assembly#suppresssubassembly|SuppressSubAssembly]] — in [[Assembly]]
 
 ## T
 
-- [ToXml](Sketch#toxml) — in [Sketch](Sketch)
-- [ToXml](Sketch3D#toxml) — in [Sketch3D](Sketch3D)
-- [TransformPointUsingVectors](ThreeD#transformpointusingvectors) — in [ThreeD](ThreeD)
+- [[Sketch#toxml|ToXml]] — in [[Sketch]]
+- [[Sketch3D#toxml|ToXml]] — in [[Sketch3D]]
+- [[ThreeD#transformpointusingvectors|TransformPointUsingVectors]] — in [[ThreeD]]
 
 ## U
 
-- [UnanchorPart](Assembly#unanchorpart) — in [Assembly](Assembly)
-- [UnanchorPart](Assembly#unanchorpart) — in [Assembly](Assembly)
-- [UnanchorSubAssembly](Assembly#unanchorsubassembly) — in [Assembly](Assembly)
-- [UnlockAll](Configuration#unlockall) — in [Configuration](Configuration)
-- [UnsuppressFeature](Part#unsuppressfeature) — in [Part](Part)
-- [UnsuppressFeature](Part#unsuppressfeature) — in [Part](Part)
-- [UnsuppressPart](Assembly#unsuppresspart) — in [Assembly](Assembly)
-- [UnsuppressPart](Assembly#unsuppresspart) — in [Assembly](Assembly)
-- [UnsuppressSubAssembly](Assembly#unsuppresssubassembly) — in [Assembly](Assembly)
-- [UtilityDialog](Windows#utilitydialog) — in [Windows](Windows)
-- [UtilityDialog](Windows#utilitydialog) — in [Windows](Windows)
+- [[Assembly#unanchorpart|UnanchorPart]] — in [[Assembly]]
+- [[Assembly#unanchorsubassembly|UnanchorSubAssembly]] — in [[Assembly]]
+- [[Configuration#unlockall|UnlockAll]] — in [[Configuration]]
+- [[Part#unsuppressfeature|UnsuppressFeature]] — in [[Part]]
+- [[Assembly#unsuppresspart|UnsuppressPart]] — in [[Assembly]]
+- [[Assembly#unsuppresssubassembly|UnsuppressSubAssembly]] — in [[Assembly]]
+- [[Windows#utilitydialog|UtilityDialog]] — in [[Windows]]
 
 ---
-**[⬆ Back to Top](#methods-index)**
+**[[Methods-Index#methods-index|⬆ Back to Top]]**
 

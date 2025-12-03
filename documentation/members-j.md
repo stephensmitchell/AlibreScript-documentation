@@ -1,9 +1,9 @@
 # Members Index - J
 
-[ Back to Members Index](Members-Index) | [Documentation Home](../README.md) | [All Classes](Classes)
+[[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
 
-- **Method**[Join](Polyline#join) in [Polyline](Polyline)
-- **Method**[Join](Polyline3D#join) in [Polyline3D](Polyline3D)
+- **Method**[[Polyline#join|Join]] in [[Polyline]]
+- **Method**[[Polyline3D#join|Join]] in [[Polyline3D]]
 
 ---
-**[⬆ Back to Top](#members-index-j)**
+**[[members-j#members-index-j|⬆ Back to Top]]**

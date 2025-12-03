@@ -1,6 +1,6 @@
 # Vertex
 
-[ Back to Classes](Classes) | [Documentation Home](../README.md) | [Methods Index](Methods-Index) | [Properties Index](Properties-Index)
+[[Classes|Back to Classes]] | [[Home|Documentation Home]] | [[Methods-Index|Methods Index]] | [[Properties-Index|Properties Index]]
 
 - Namespace: `AlibreScript.API`
 - Kind: `Class`
@@ -41,4 +41,4 @@ Object GetSelectionAssembly()
 ```
 
 ---
-**[⬆ Back to Top](#vertex)**
+**[[Vertex#vertex|⬆ Back to Top]]**

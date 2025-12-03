@@ -1,23 +1,23 @@
 # Point
 
-**[Home](Home) | [Classes](Classes) | [Methods](Methods-Index) | [Properties](Properties-Index) | [Members](Members-Index)**
+**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-** Location:**[Core Elements](Classes#core-elements) Point
+** Location:**[[Classes#core-elements|Core Elements]] Point
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The Point class provides fundamental functionality for creating and manipulating 3D point geometry throughout the AlibreScript API.
 
 ## Related Classes
-- [IPoint](IPoint) - Point interface definition
-- [SketchPoint](SketchPoint) - 2D sketch points
-- [SketchPoint3D](SketchPoint3D) - 3D sketch points
-- [PolylinePoint](PolylinePoint) - Polyline points
-- [Axis](Axis), [Plane](Plane) - Related geometric elements
+- [[IPoint]] - Point interface definition
+- [[SketchPoint]] - 2D sketch points
+- [[SketchPoint3D]] - 3D sketch points
+- [[PolylinePoint]] - Polyline points
+- [[Axis]], [[Plane]] - Related geometric elements
 
 ## Quick Navigation
-- [Properties](#properties) - Point coordinates and attributes
-- [Methods](#methods) - Point operations
+- [[Point#properties|Properties]] - Point coordinates and attributes
+- [[Point#methods|Methods]] - Point operations
 
 ## Properties
 
@@ -76,5 +76,5 @@ Object Show()
 ```
 
 ---
-**[⬆ Back to Top](#point)**
+**[[Point#point|⬆ Back to Top]]**
 
