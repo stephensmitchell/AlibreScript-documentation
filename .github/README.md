@@ -12,7 +12,7 @@
 # [Unofficial Alibre Script API Documentation Site]()
 -->
 
-# [Unofficial Alibre Script API Documentation Site](https://stephensmitchell.github.io/alibre-script-documentation/) 
+# [Unofficial Alibre Script API Documentation Site](https://stephensmitchell.github.io/AlibreScript-documentation/)
 
 # Unofficial Alibre Script API Documentation Repository Report 
 
