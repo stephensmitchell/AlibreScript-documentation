@@ -1,5 +1,3 @@
-# Properties
-
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties Index]] | [[Members-Index|Members]]**
 
 *Complete property reference with type information*

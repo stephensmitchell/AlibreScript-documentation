@@ -1,5 +1,3 @@
-# Members Index - D
-
 [[Home]] | [[Classes]] | [[Members-Index|Members]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
 
 **Navigation:** [[members-c|C]] | [[members-e|E]] | [[Members-Index|Members Index]]
@@ -25,19 +23,19 @@
 
 ## Complete List
 
-- **Property**[[Assembly#density|Density]] in [[Assembly]]
-- **Property**[[Part#density|Density]] in [[Part]]
-- **Property**[[Assembly#description|Description]] in [[Assembly]]
-- **Property**[[Part#description|Description]] in [[Part]]
-- **Property**[[Edge#diameter|Diameter]] in [[Edge]]
-- **Method**[[Windows#disableinput|DisableInput]] in [[Windows]]
-- **Method**[[Assembly#displayunits|DisplayUnits]] in [[Assembly]]
-- **Method**[[Part#displayunits|DisplayUnits]] in [[Part]]
-- **Method**[[Face#distanceto|DistanceTo]] in [[Face]]
-- **Property**[[Assembly#documentnumber|DocumentNumber]] in [[Assembly]]
-- **Property**[[Part#documentnumber|DocumentNumber]] in [[Part]]
-- **Method**[[Assembly#duplicatepart|DuplicatePart]] in [[Assembly]]
-- **Method**[[Assembly#duplicatesubassembly|DuplicateSubAssembly]] in [[Assembly]]
+- **Property** [[Assembly#density|Density]] in [[Assembly]]
+- **Property** [[Part#density|Density]] in [[Part]]
+- **Property** [[Assembly#description|Description]] in [[Assembly]]
+- **Property** [[Part#description|Description]] in [[Part]]
+- **Property** [[Edge#diameter|Diameter]] in [[Edge]]
+- **Method** [[Windows#disableinput|DisableInput]] in [[Windows]]
+- **Method** [[Assembly#displayunits|DisplayUnits]] in [[Assembly]]
+- **Method** [[Part#displayunits|DisplayUnits]] in [[Part]]
+- **Method** [[Face#distanceto|DistanceTo]] in [[Face]]
+- **Property** [[Assembly#documentnumber|DocumentNumber]] in [[Assembly]]
+- **Property** [[Part#documentnumber|DocumentNumber]] in [[Part]]
+- **Method** [[Assembly#duplicatepart|DuplicatePart]] in [[Assembly]]
+- **Method** [[Assembly#duplicatesubassembly|DuplicateSubAssembly]] in [[Assembly]]
 
 ---
 [[members-d#members-index-d|⬆ Back to Top]]

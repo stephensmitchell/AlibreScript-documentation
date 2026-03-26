@@ -1,5 +1,3 @@
-# Properties Index
-
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | Properties Index | [[Members-Index|Members]]**
 
 *Alphabetical index of all properties in the AlibreScript API*
@@ -20,11 +18,11 @@
 ### Part & Assembly Properties
 - **Identity**: [[Part#name|Name]], [[Part#description|Description]], [[Part#comment|Comment]]
 - **Material**: [[Part#material|Material]], [[Part#density|Density]], [[Part#mass|Mass]]
-- **Management**: [[Part#configurations|Configurations]], [[Part#features|Features]]
+- **Management**: [[Part#configurations|Configurations]]
 
 ## Alphabetical Property List
 
-**Quick Jump:**[[Properties-Index#a|A]] | [[Properties-Index#c|C]] | [[Properties-Index#d|D]] | [[Properties-Index#e|E]] | [[Properties-Index#f|F]] | [[Properties-Index#g|G]] | [[Properties-Index#h|H]] | [[Properties-Index#i|I]] | [[Properties-Index#k|K]] | [[Properties-Index#l|L]] | [[Properties-Index#m|M]] | [[Properties-Index#n|N]] | [[Properties-Index#o|O]] | [[Properties-Index#p|P]] | [[Properties-Index#r|R]] | [[Properties-Index#s|S]] | [[Properties-Index#t|T]] | [[Properties-Index#u|U]] | [[Properties-Index#v|V]] | [[Properties-Index#w|W]] | [[Properties-Index#x|X]] | [[Properties-Index#y|Y]] | [[Properties-Index#z|Z]]
+**Quick Jump:**[[Properties-Index#a|A]] | [[Properties-Index#c|C]] | [[Properties-Index#d|D]] | [[Properties-Index#e|E]] | [[Properties-Index#f|F]] | [[Properties-Index#i|I]] | [[Properties-Index#k|K]] | [[Properties-Index#l|L]] | [[Properties-Index#m|M]] | [[Properties-Index#n|N]] | [[Properties-Index#o|O]] | [[Properties-Index#p|P]] | [[Properties-Index#r|R]] | [[Properties-Index#s|S]] | [[Properties-Index#t|T]] | [[Properties-Index#u|U]] | [[Properties-Index#v|V]] | [[Properties-Index#w|W]] | [[Properties-Index#x|X]] | [[Properties-Index#y|Y]] | [[Properties-Index#z|Z]]
 
 ## A
 

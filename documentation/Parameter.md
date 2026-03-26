@@ -1,8 +1,6 @@
-# Parameter
-
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-** Location:**[[Classes#configuration|Configuration & Parameters]] Parameter
+**Location:** [[Classes#configuration|Configuration & Parameters]] Parameter
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 

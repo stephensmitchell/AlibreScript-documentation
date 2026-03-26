@@ -1,8 +1,6 @@
-# IPlane
-
 **[[Home]] | [[Classes]] | [[Interfaces]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-** Location:**[[Interfaces]] IPlane
+**Location:** [[Interfaces]] IPlane
 
 **Namespace:** `AlibreScript.API` | **Kind:** Interface
 

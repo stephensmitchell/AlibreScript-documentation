@@ -1,5 +1,3 @@
-# Methods Index
-
 **[[Home]] | [[Classes]] | Methods Index | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
 *Alphabetical index of all methods in the AlibreScript API*
@@ -7,20 +5,20 @@
 ## Browse Methods by Category
 
 ### Assembly Methods
-[[Assembly#constraint-methods|Assembly constraint operations]] | [[Assembly#component-methods|Component management]]
+[[Assembly#methods|Assembly operations]]
 
 ### Sketching Methods
-[[Sketch#methods|2D sketch operations]] | [[Sketch3D#methods|3D sketch operations]] | [[Sketch.Constraints#methods|Constraint methods]]
+[[Sketch#methods|2D sketch operations]] | [[Sketch3D#methods|3D sketch operations]] | [[Sketch.Constraints|Constraint methods]]
 
 ### Geometry Methods
 [[Line#methods|Line operations]] | [[Circle#methods|Circle operations]] | [[CircularArc#methods|Arc operations]]
 
 ### Part Methods
-[[Part#methods|Part creation]] | [[Feature#methods|Feature operations]] | [[Part#file-operations|File operations]]
+[[Part#methods|Part creation]] | [[Feature#methods|Feature operations]]
 
 ## Alphabetical Method List
 
-**Quick Jump:**[[Methods-Index#|#]] | [[Methods-Index#a|A]] | [[Methods-Index#b|B]] | [[Methods-Index#c|C]] | [[Methods-Index#d|D]] | [[Methods-Index#e|E]] | [[Methods-Index#f|F]] | [[Methods-Index#g|G]] | [[Methods-Index#h|H]] | [[Methods-Index#i|I]] | [[Methods-Index#j|J]] | [[Methods-Index#k|K]] | [[Methods-Index#l|L]] | [[Methods-Index#m|M]] | [[Methods-Index#n|N]] | [[Methods-Index#o|O]] | [[Methods-Index#p|P]] | [[Methods-Index#q|Q]] | [[Methods-Index#r|R]] | [[Methods-Index#s|S]] | [[Methods-Index#t|T]] | [[Methods-Index#u|U]] | [[Methods-Index#v|V]] | [[Methods-Index#w|W]] | [[Methods-Index#x|X]] | [[Methods-Index#y|Y]] | [[Methods-Index#z|Z]]
+**Quick Jump:**[[Methods-Index#|#]] | [[Methods-Index#a|A]] | [[Methods-Index#c|C]] | [[Methods-Index#d|D]] | [[Methods-Index#e|E]] | [[Methods-Index#f|F]] | [[Methods-Index#g|G]] | [[Methods-Index#h|H]] | [[Methods-Index#i|I]] | [[Methods-Index#j|J]] | [[Methods-Index#l|L]] | [[Methods-Index#m|M]] | [[Methods-Index#n|N]] | [[Methods-Index#o|O]] | [[Methods-Index#p|P]] | [[Methods-Index#q|Q]] | [[Methods-Index#r|R]] | [[Methods-Index#s|S]] | [[Methods-Index#t|T]] | [[Methods-Index#u|U]]
 
 ## #
 

@@ -1,18 +1,16 @@
-# Members Index - P
-
 [[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
 
-- **Property**[[Assembly#parameters|Parameters]] in [[Assembly]]
-- **Property**[[GlobalParameters#parameters|Parameters]] in [[GlobalParameters]]
-- **Property**[[Part#parameters|Parameters]] in [[Part]]
-- **Method**[[AssembledPart#partpointtoassemblypoint|PartPointtoAssemblyPoint]] in [[AssembledPart]]
-- **Property**[[Assembly#parts|Parts]] in [[Assembly]]
-- **Method**[[Assembly#pauseupdating|PauseUpdating]] in [[Assembly]]
-- **Method**[[Part#pauseupdating|PauseUpdating]] in [[Part]]
-- **Method**[[IPoint#pointobject|PointObject]] in [[IPoint]]
-- **Method**[[Sketch#pointtoglobal|PointtoGlobal]] in [[Sketch]]
-- **Property**[[Assembly#product|Product]] in [[Assembly]]
-- **Property**[[Part#product|Product]] in [[Part]]
+- **Property** [[Assembly#parameters|Parameters]] in [[Assembly]]
+- **Property** [[GlobalParameters#parameters|Parameters]] in [[GlobalParameters]]
+- **Property** [[Part#parameters|Parameters]] in [[Part]]
+- **Method** [[AssembledPart#partpointtoassemblypoint|PartPointtoAssemblyPoint]] in [[AssembledPart]]
+- **Property** [[Assembly#parts|Parts]] in [[Assembly]]
+- **Method** [[Assembly#pauseupdating|PauseUpdating]] in [[Assembly]]
+- **Method** [[Part#pauseupdating|PauseUpdating]] in [[Part]]
+- **Method** [[IPoint#pointobject|PointObject]] in [[IPoint]]
+- **Method** [[Sketch#pointtoglobal|PointtoGlobal]] in [[Sketch]]
+- **Property** [[Assembly#product|Product]] in [[Assembly]]
+- **Property** [[Part#product|Product]] in [[Part]]
 
 ---
 **[[members-p#members-index-p|⬆ Back to Top]]**

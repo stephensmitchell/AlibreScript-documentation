@@ -1,8 +1,6 @@
-# CircularArc
-
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-** Location:**[[Classes#geometry|Geometry & Shapes]] CircularArc
+**Location:** [[Classes#geometry|Geometry & Shapes]] CircularArc
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 

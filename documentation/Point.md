@@ -1,8 +1,6 @@
-# Point
-
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-** Location:**[[Classes#core-elements|Core Elements]] Point
+**Location:** [[Classes#core-elements|Core Elements]] Point
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 

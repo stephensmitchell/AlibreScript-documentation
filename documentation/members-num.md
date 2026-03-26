@@ -1,5 +1,3 @@
-# Members Index - #
-
 [[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
 
  - [[Assembly#assembly]] — in [[Assembly]]
@@ -23,4 +21,4 @@
  - [[Windows#windows]] — in [[Windows]]
 
 ---
-[[members-##members-index|⬆ Back to Top]]
+[[Members-Index|⬆ Back to Members Index]]

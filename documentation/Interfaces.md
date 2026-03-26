@@ -1,5 +1,3 @@
-# Interfaces
-
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
 *Core interface definitions in the AlibreScript API*
@@ -37,7 +35,7 @@ Interfaces in the AlibreScript API provide consistent contracts for geometric op
 - [[Classes#geometry|Geometry & Shapes]] - Geometric operations
 
 ---
-** Navigation:**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
+**Navigation:** [[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
 
 **[[Interfaces#interfaces|⬆ Back to Top]]**
 

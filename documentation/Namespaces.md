@@ -1,5 +1,3 @@
-# Namespaces
-
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
 *Namespace organization of the AlibreScript API*
@@ -77,7 +75,7 @@
 - [[Sketch.Constraints]] — Sketch constraint management
 
 ---
-** Navigation:**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
+**Navigation:** [[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
 
 ## AlibreScript.API.Assembly
 
@@ -101,7 +99,7 @@
 - [[Sketch.Constraints]] — Sketch constraint management
 
 ---
-** Navigation:**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
+**Navigation:** [[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
 
 **[[Namespaces#namespaces|⬆ Back to Top]]**
 

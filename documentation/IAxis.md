@@ -1,8 +1,6 @@
-# IAxis
-
 **[[Home]] | [[Classes]] | [[Interfaces]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-** Location:**[[Interfaces]] IAxis
+**Location:** [[Interfaces]] IAxis
 
 **Namespace:** `AlibreScript.API` | **Kind:** Interface
 

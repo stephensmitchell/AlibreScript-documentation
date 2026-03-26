@@ -1,5 +1,3 @@
-# Complete Class List
-
 [[Home|Back to Home]] | [[Home|Documentation Home]] | [[Classes]]
 
 Alphabetical listing of all classes in the AlibreScript API.

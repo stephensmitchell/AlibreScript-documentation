@@ -1,8 +1,6 @@
-# Circle
-
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-** Location:**[[Classes#geometry|Geometry & Shapes]] Circle
+**Location:** [[Classes#geometry|Geometry & Shapes]] Circle
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 

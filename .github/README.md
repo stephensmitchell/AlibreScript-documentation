@@ -1,23 +1,19 @@
-> [!CAUTION]  
-> **WORK IN PROGRESS**  
-> **UNDER REVIEW**
+# Unofficial Alibre Script API Documentation Site and GitHub Wiki
+[Unofficial Alibre Script API Documentation Wiki](https://github.com/stephensmitchell/alibre-script-docs/wiki)
 
-# [Unofficial Alibre Script API Documentation Wiki](https://github.com/stephensmitchell/alibre-script-docs/wiki) 
 
-> [!NOTE]  
-> DOWNLOAD THE OBSIDIAN APP FOR A BETTER LOCAL EXPERIENCE
-> 
-> https://obsidian.md/
-<!--
-# [Unofficial Alibre Script API Documentation Site]()
--->
+DOWNLOAD THE OBSIDIAN APP FOR A BETTER LOCAL EXPERIENCE
 
-# [Unofficial Alibre Script API Documentation Site](https://stephensmitchell.github.io/AlibreScript-documentation/)
+https://obsidian.md/
 
-# Unofficial Alibre Script API Documentation Repository Report 
+
+[Unofficial Alibre Script API Documentation Site](https://stephensmitchell.github.io/AlibreScript-documentation/)
+
+
+<details>
+<summary><strong>ORIGINAL REPOSITORY REPORT</strong></summary>
 
 ```
-alibre-script-docs - REPOSITORY STATUS REPORT
 
 Status: WIP
 Repository: alibre-script-docs
@@ -56,7 +52,7 @@ API classes (50+)
 - related types  
 
 Member index (26)
-- members-#.md  
+- members-num.md  
 - members-a.md … members-z.md
 
 Quality assurance
@@ -105,7 +101,7 @@ IPoint.md — 1.0
 Line.md — 1.6
 Line3D.md — 1.0
 LockTypes.md — 0.3
-members-#.md — 2.8
+members-num.md — 2.8
 members-a.md — 14.2
 members-c.md — 3.8
 members-d.md — 2.4
@@ -182,7 +178,7 @@ Conventions & Quality Standards
 
 ```
 
-**[⬆ Back to Top](#unoffical-alibre-script-documentation-repository-report)**
+**[Back to Top](#unofficial-alibre-script-api-documentation-repository-report)**
 
 ---
 
@@ -249,7 +245,7 @@ This repository contains comprehensive documentation for the **AlibreScript API 
 | Pattern | File Count | Size Range | Purpose |
 |---------|------------|------------|---------|
 | members-[a-z].md | 25 files | 0.2-14.2 KB | Alphabetical member organization |
-| members-#.md | 1 file | 3.0 KB | Numeric/special character members |
+| members-num.md | 1 file | 3.0 KB | Numeric/special character members |
 
 **Largest Member Files**:
 - [members-a.md](documentation/members-a.md) - 14.2 KB (highest member density)
@@ -308,7 +304,7 @@ This repository contains comprehensive documentation for the **AlibreScript API 
 
 **Total Documentation Coverage**: 100% of AlibreScript API with enhanced practical usage examples
 
-### 📊 Current Metrics
+### Current Metrics
 - **Files**: 93 markdown files covering complete API
 - **Size**: ~345 KB total documentation  
 - **Quality**: 96.4% link validation success rate
@@ -316,4 +312,6 @@ This repository contains comprehensive documentation for the **AlibreScript API 
 - **Standards**: GitHub-compatible formatting throughout
 
 ---
-**[⬆ Back to Top](#alibrescript-api-documentation-repository-audit-report)**
+**[Back to Top](#alibrescript-api-documentation-repository-audit-report)**
+
+</details>

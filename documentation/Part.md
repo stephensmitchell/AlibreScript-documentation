@@ -1,8 +1,6 @@
-# Part
-
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-** Location:**[[Classes#assembly-and-parts|Assembly & Parts]] Part
+**Location:** [[Classes#assembly-and-parts|Assembly & Parts]] Part
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 

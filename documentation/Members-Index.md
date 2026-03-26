@@ -1,5 +1,3 @@
-# Members Index
-
 **[[Home]] | [[Classes]] | Members Index | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
 *Complete alphabetical index of all methods and properties in the AlibreScript API*
@@ -21,7 +19,7 @@
 - [[members-r|R]] (34 items) - Remove methods, Rotate operations
 
 ### Complete Index
-- [[members-|#]] (37 items) - Constructors and special methods
+- [[members-num|#]] (37 items) - Constructors and special methods
 - [[members-a|A]] (186 items) | [[members-c|C]] (41 items) | [[members-d|D]] (19 items)
 - [[members-e|E]] (39 items) | [[members-f|F]] (9 items) | [[members-g|G]] (86 items)
 - [[members-h|H]] (8 items) | [[members-i|I]] (23 items) | [[members-j|J]] (2 items)
@@ -38,6 +36,6 @@
 - Use the category links at the top to find methods by functional area
 
 ---
-** Navigation:**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
+**Navigation:** [[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
 
 **[[Members-Index#members-index|⬆ Back to Top]]**

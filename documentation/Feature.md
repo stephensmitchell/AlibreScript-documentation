@@ -1,8 +1,6 @@
-# Feature
-
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-** Location:**[[Classes#assembly-and-parts|Assembly & Parts]] Feature
+**Location:** [[Classes#assembly-and-parts|Assembly & Parts]] Feature
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 

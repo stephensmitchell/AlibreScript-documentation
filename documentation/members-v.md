@@ -1,10 +1,8 @@
-# Members Index - V
-
 [[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
 
-- **Property**[[Parameter#value|Value]] in [[Parameter]]
-- **Property**[[Assembly#vendor|Vendor]] in [[Assembly]]
-- **Property**[[Part#vendor|Vendor]] in [[Part]]
+- **Property** [[Parameter#value|Value]] in [[Parameter]]
+- **Property** [[Assembly#vendor|Vendor]] in [[Assembly]]
+- **Property** [[Part#vendor|Vendor]] in [[Part]]
 
 ---
 **[[members-v#members-index-v|⬆ Back to Top]]**

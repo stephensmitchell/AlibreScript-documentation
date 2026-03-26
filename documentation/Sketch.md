@@ -1,8 +1,6 @@
-# Sketch
-
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-** Location:**[[Classes#sketching|Sketching & Drawing]] Sketch
+**Location:** [[Classes#sketching|Sketching & Drawing]] Sketch
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 

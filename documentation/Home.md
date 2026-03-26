@@ -1,5 +1,3 @@
-# AlibreScript API Documentation
-
 Home | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]
 
 Welcome to the AlibreScript API documentation for IronPython 2.7.10. This documentation is organized for easy navigation and provides comprehensive coverage of the API.

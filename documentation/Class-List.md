@@ -1,5 +1,3 @@
-# Class List
-
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
 *Complete alphabetical listing of all classes in the AlibreScript API with descriptions*

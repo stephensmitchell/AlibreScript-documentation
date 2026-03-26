@@ -1,5 +1,3 @@
-# Classes
-
 **[[Home]] | Classes | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
 *Browse all available classes in the AlibreScript API*
@@ -126,6 +124,6 @@
 - [[WindowsInputTypes]] (Class)
 
 ---
-** Navigation:**[[Home]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]
+**Navigation:** [[Home]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]
 
 **[[Classes#classes|⬆ Back to Top]]**

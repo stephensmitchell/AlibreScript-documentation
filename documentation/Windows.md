@@ -1,8 +1,6 @@
-# Windows
-
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-** Location:**[[Classes#utilities|Utilities & System]] Windows
+**Location:** [[Classes#utilities|Utilities & System]] Windows
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 

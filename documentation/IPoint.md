@@ -1,8 +1,6 @@
-# IPoint
-
 **[[Home]] | [[Classes]] | [[Interfaces]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-** Location:**[[Interfaces]] IPoint
+**Location:** [[Interfaces]] IPoint
 
 **Namespace:** `AlibreScript.API` | **Kind:** Interface
 

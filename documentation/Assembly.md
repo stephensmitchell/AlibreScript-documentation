@@ -1,5 +1,3 @@
-# Assembly
-
 [[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
 
 **Location:** [[Classes#assembly-and-parts|Assembly & Parts]] Assembly
