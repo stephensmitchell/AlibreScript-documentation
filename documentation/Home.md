@@ -1,7 +1,5 @@
 Home | [Classes](Classes.md) | [Methods](Methods-Index.md) | [Properties](Properties-Index.md) | [Members](Members-Index.md)
 
-Welcome to the AlibreScript API documentation for IronPython 2.7.10. This documentation is organized for easy navigation and provides comprehensive coverage of the API.
-
 ## Main Sections
 - [Classes](Classes.md) - All available classes
 - [Methods Index](Methods-Index.md) - Alphabetical method reference
@@ -43,6 +41,3 @@ Welcome to the AlibreScript API documentation for IronPython 2.7.10. This docume
 - [Windows](Windows.md) - Window operations
 - [CSharp](CSharp.md) - C# integration
 - [IAxis](IAxis.md) / [IPlane](IPlane.md) / [IPoint](IPoint.md) - Core interfaces
-
-> [!TIP]
-> Use the category links above to explore related functionality, or browse the complete [Classes](Classes.md) list for all available API elements.
