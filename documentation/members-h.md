@@ -1,6 +1,0 @@
-- **Method** [Hide](Axis.md#hide) in [Axis](Axis.md)
-- **Method** [Hide](Plane.md#hide) in [Plane](Plane.md)
-- **Method** [Hide](Point.md#hide) in [Point](Point.md)
-- **Method** [HideFeature](Part.md#hidefeature) in [Part](Part.md)
-- **Method** [HidePart](Assembly.md#hidepart) in [Assembly](Assembly.md)
-- **Method** [HideSubAssembly](Assembly.md#hidesubassembly) in [Assembly](Assembly.md)

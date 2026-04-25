@@ -1,8 +1,0 @@
-- **Property** [Title](Assembly.md#title) in [Assembly](Assembly.md)
-- **Property** [Title](Part.md#title) in [Part](Part.md)
-- **Method** [ToXml](Sketch.md#toxml) in [Sketch](Sketch.md)
-- **Method** [ToXml](Sketch3D.md#toxml) in [Sketch3D](Sketch3D.md)
-- **Method** [TransformPointUsingVectors](ThreeD.md#transformpointusingvectors) in [ThreeD](ThreeD.md)
-- **Property** [Type](CircularArc.md#type) in [CircularArc](CircularArc.md)
-- **Property** [Type](CircularArc3D.md#type) in [CircularArc3D](CircularArc3D.md)
-- **Property** [Type](Parameter.md#type) in [Parameter](Parameter.md)

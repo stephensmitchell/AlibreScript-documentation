@@ -1,2 +1,0 @@
-- **Method** [Join](Polyline.md#join) in [Polyline](Polyline.md)
-- **Method** [Join](Polyline3D.md#join) in [Polyline3D](Polyline3D.md)

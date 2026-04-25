@@ -1,8 +1,0 @@
-- **Property** [Figures](Sketch.md#figures) in [Sketch](Sketch.md)
-- **Property** [Figures](Sketch3D.md#figures) in [Sketch3D](Sketch3D.md)
-- **Property** [FileName](Assembly.md#filename) in [Assembly](Assembly.md)
-- **Property** [FileName](Part.md#filename) in [Part](Part.md)
-- **Method** [FindIntersection](Polyline.md#findintersection) in [Polyline](Polyline.md)
-- **Method** [FindIntersectionWithCircle](Polyline.md#findintersectionwithcircle) in [Polyline](Polyline.md)
-- **Method** [FromXml](Sketch.md#fromxml) in [Sketch](Sketch.md)
-- **Method** [FromXml](Sketch3D.md#fromxml) in [Sketch3D](Sketch3D.md)

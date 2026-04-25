@@ -1,4 +1,0 @@
-- **Property** [WebLink](Assembly.md#weblink) in [Assembly](Assembly.md)
-- **Property** [WebLink](Part.md#weblink) in [Part](Part.md)
-- **Property** [Weights](Bspline.md#weights) in [Bspline](Bspline.md)
-- **Property** [Weights](Bspline3D.md#weights) in [Bspline3D](Bspline3D.md)

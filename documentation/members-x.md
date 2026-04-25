@@ -1,8 +1,0 @@
-- **Property** [X](Point.md#x) in [Point](Point.md)
-- **Property** [X](SketchPoint.md#x) in [SketchPoint](SketchPoint.md)
-- **Property** [X](SketchPoint3D.md#x) in [SketchPoint3D](SketchPoint3D.md)
-- **Property** [X](Vertex.md#x) in [Vertex](Vertex.md)
-- **Property** [XAxis](Assembly.md#xaxis) in [Assembly](Assembly.md)
-- **Property** [XAxis](Part.md#xaxis) in [Part](Part.md)
-- **Property** [XYPlane](Assembly.md#xyplane) in [Assembly](Assembly.md)
-- **Property** [XYPlane](Part.md#xyplane) in [Part](Part.md)

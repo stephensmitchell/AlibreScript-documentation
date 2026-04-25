@@ -1,3 +1,0 @@
-- **Property** [Value](Parameter.md#value) in [Parameter](Parameter.md)
-- **Property** [Vendor](Assembly.md#vendor) in [Assembly](Assembly.md)
-- **Property** [Vendor](Part.md#vendor) in [Part](Part.md)

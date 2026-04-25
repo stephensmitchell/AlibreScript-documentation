@@ -1,1 +1,0 @@
-- **Method** [QuestionDialog](Windows.md#questiondialog) in [Windows](Windows.md)

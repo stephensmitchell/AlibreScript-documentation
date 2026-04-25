@@ -1,4 +1,0 @@
-- **Property** [Keywords](Assembly.md#keywords) in [Assembly](Assembly.md)
-- **Property** [Keywords](Part.md#keywords) in [Part](Part.md)
-- **Property** [KnotVectors](Bspline.md#knotvectors) in [Bspline](Bspline.md)
-- **Property** [KnotVectors](Bspline3D.md#knotvectors) in [Bspline3D](Bspline3D.md)
