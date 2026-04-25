@@ -1,6 +1,3 @@
-[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
-
-
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The Assembly class provides comprehensive functionality for creating, manipulating, and managing assemblies within Alibre Design. This class handles assembly constraints, component management, and assembly-level operations.
@@ -40,18 +37,18 @@ assembly.Save("Final assembly saved")
 ```
 
 ## Related Classes
-- [[AssembledPart]] - Individual parts within assembly
-- [[AssembledSubAssembly]] - Sub-assemblies within assembly
-- [[Part]] - Base part functionality
-- [[Assembly.ConstraintBoundsType]] - Constraint definitions
-- [[Configuration]] - Assembly configurations
+- [AssembledPart](AssembledPart.md) - Individual parts within assembly
+- [AssembledSubAssembly](AssembledSubAssembly.md) - Sub-assemblies within assembly
+- [Part](Part.md) - Base part functionality
+- [Assembly.ConstraintBoundsType](Assembly.ConstraintBoundsType.md) - Constraint definitions
+- [Configuration](Configuration.md) - Assembly configurations
 
 ## Quick Navigation
-- [[Assembly#properties|Properties]] - Assembly properties and metadata
-- [[Assembly#methods|Methods]] - Available operations
-- [[Assembly#constraint-methods|Constraint Methods]] - Assembly constraints
-- [[Assembly#component-methods|Component Methods]] - Managing parts and sub-assemblies
-- [[Assembly#file-operations|File Operations]] - Save, export, import
+- [Properties](Assembly.md#properties) - Assembly properties and metadata
+- [Methods](Assembly.md#methods) - Available operations
+- [Constraint Methods](Assembly.md#constraint-methods) - Assembly constraints
+- [Component Methods](Assembly.md#component-methods) - Managing parts and sub-assemblies
+- [File Operations](Assembly.md#file-operations) - Save, export, import
 
 ## Properties
 

@@ -1,14 +1,12 @@
-[[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
-
-- **Method** [[Polyline#offset|Offset]] in [[Polyline]]
-- **Method** [[Polyline3D#offset|Offset]] in [[Polyline3D]]
-- **Method** [[PolylinePoint#offset|Offset]] in [[PolylinePoint]]
-- **Method** [[PolylinePoint3D#offset|Offset]] in [[PolylinePoint3D]]
-- **Method** [[Windows#openfiledialog|OpenFileDialog]] in [[Windows]]
-- **Method** [[Windows#optionsdialog|OptionsDialog]] in [[Windows]]
-- **Method** [[Windows#optionsdialog|OptionsDialog]] in [[Windows]]
-- **Property** [[Bspline#order|Order]] in [[Bspline]]
-- **Property** [[Bspline3D#order|Order]] in [[Bspline3D]]
-- **Property** [[Assembly#origin|Origin]] in [[Assembly]]
-- **Property** [[Part#origin|Origin]] in [[Part]]
-- **Property** [[Sketch#origin|Origin]] in [[Sketch]]
+- **Method** [Offset](Polyline.md#offset) in [Polyline](Polyline.md)
+- **Method** [Offset](Polyline3D.md#offset) in [Polyline3D](Polyline3D.md)
+- **Method** [Offset](PolylinePoint.md#offset) in [PolylinePoint](PolylinePoint.md)
+- **Method** [Offset](PolylinePoint3D.md#offset) in [PolylinePoint3D](PolylinePoint3D.md)
+- **Method** [OpenFileDialog](Windows.md#openfiledialog) in [Windows](Windows.md)
+- **Method** [OptionsDialog](Windows.md#optionsdialog) in [Windows](Windows.md)
+- **Method** [OptionsDialog](Windows.md#optionsdialog) in [Windows](Windows.md)
+- **Property** [Order](Bspline.md#order) in [Bspline](Bspline.md)
+- **Property** [Order](Bspline3D.md#order) in [Bspline3D](Bspline3D.md)
+- **Property** [Origin](Assembly.md#origin) in [Assembly](Assembly.md)
+- **Property** [Origin](Part.md#origin) in [Part](Part.md)
+- **Property** [Origin](Sketch.md#origin) in [Sketch](Sketch.md)

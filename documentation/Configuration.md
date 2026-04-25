@@ -1,20 +1,17 @@
-**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
-
-
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The Configuration class provides functionality for managing part and assembly configurations, including activation state and configuration locks.
 
 ## Related Classes
-- [[Part]] - Contains configurations
-- [[Assembly]] - Assembly configurations
-- [[GlobalParameters]] - Configuration parameters
-- [[LockTypes]] - Lock type definitions
-- [[Parameter]] - Configuration parameters
+- [Part](Part.md) - Contains configurations
+- [Assembly](Assembly.md) - Assembly configurations
+- [GlobalParameters](GlobalParameters.md) - Configuration parameters
+- [LockTypes](LockTypes.md) - Lock type definitions
+- [Parameter](Parameter.md) - Configuration parameters
 
 ## Quick Navigation
-- [[Configuration#properties|Properties]] - Configuration state and identity
-- [[Configuration#methods|Methods]] - Configuration operations
+- [Properties](Configuration.md#properties) - Configuration state and identity
+- [Methods](Configuration.md#methods) - Configuration operations
 
 ## Properties
 

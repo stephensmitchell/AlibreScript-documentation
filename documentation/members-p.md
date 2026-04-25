@@ -1,13 +1,11 @@
-[[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
-
-- **Property** [[Assembly#parameters|Parameters]] in [[Assembly]]
-- **Property** [[GlobalParameters#parameters|Parameters]] in [[GlobalParameters]]
-- **Property** [[Part#parameters|Parameters]] in [[Part]]
-- **Method** [[AssembledPart#partpointtoassemblypoint|PartPointtoAssemblyPoint]] in [[AssembledPart]]
-- **Property** [[Assembly#parts|Parts]] in [[Assembly]]
-- **Method** [[Assembly#pauseupdating|PauseUpdating]] in [[Assembly]]
-- **Method** [[Part#pauseupdating|PauseUpdating]] in [[Part]]
-- **Method** [[IPoint#pointobject|PointObject]] in [[IPoint]]
-- **Method** [[Sketch#pointtoglobal|PointtoGlobal]] in [[Sketch]]
-- **Property** [[Assembly#product|Product]] in [[Assembly]]
-- **Property** [[Part#product|Product]] in [[Part]]
+- **Property** [Parameters](Assembly.md#parameters) in [Assembly](Assembly.md)
+- **Property** [Parameters](GlobalParameters.md#parameters) in [GlobalParameters](GlobalParameters.md)
+- **Property** [Parameters](Part.md#parameters) in [Part](Part.md)
+- **Method** [PartPointtoAssemblyPoint](AssembledPart.md#partpointtoassemblypoint) in [AssembledPart](AssembledPart.md)
+- **Property** [Parts](Assembly.md#parts) in [Assembly](Assembly.md)
+- **Method** [PauseUpdating](Assembly.md#pauseupdating) in [Assembly](Assembly.md)
+- **Method** [PauseUpdating](Part.md#pauseupdating) in [Part](Part.md)
+- **Method** [PointObject](IPoint.md#pointobject) in [IPoint](IPoint.md)
+- **Method** [PointtoGlobal](Sketch.md#pointtoglobal) in [Sketch](Sketch.md)
+- **Property** [Product](Assembly.md#product) in [Assembly](Assembly.md)
+- **Property** [Product](Part.md#product) in [Part](Part.md)

@@ -1,15 +1,13 @@
-[[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
-
-- **Property** [[Assembly#lastauthor|LastAuthor]] in [[Assembly]]
-- **Property** [[Part#lastauthor|LastAuthor]] in [[Part]]
-- **Property** [[Assembly#lastupdatedate|LastUpdateDate]] in [[Assembly]]
-- **Property** [[Part#lastupdatedate|LastUpdateDate]] in [[Part]]
-- **Property** [[Bspline#length|Length]] in [[Bspline]]
-- **Property** [[Bspline3D#length|Length]] in [[Bspline3D]]
-- **Property** [[Circle#length|Length]] in [[Circle]]
-- **Property** [[Edge#length|Length]] in [[Edge]]
-- **Property** [[Line#length|Length]] in [[Line]]
-- **Property** [[Line3D#length|Length]] in [[Line3D]]
-- **Method** [[Sketch#loadxml|LoadXml]] in [[Sketch]]
-- **Method** [[Sketch3D#loadxml|LoadXml]] in [[Sketch3D]]
-- **Method** [[Configuration#lockall|LockAll]] in [[Configuration]]
+- **Property** [LastAuthor](Assembly.md#lastauthor) in [Assembly](Assembly.md)
+- **Property** [LastAuthor](Part.md#lastauthor) in [Part](Part.md)
+- **Property** [LastUpdateDate](Assembly.md#lastupdatedate) in [Assembly](Assembly.md)
+- **Property** [LastUpdateDate](Part.md#lastupdatedate) in [Part](Part.md)
+- **Property** [Length](Bspline.md#length) in [Bspline](Bspline.md)
+- **Property** [Length](Bspline3D.md#length) in [Bspline3D](Bspline3D.md)
+- **Property** [Length](Circle.md#length) in [Circle](Circle.md)
+- **Property** [Length](Edge.md#length) in [Edge](Edge.md)
+- **Property** [Length](Line.md#length) in [Line](Line.md)
+- **Property** [Length](Line3D.md#length) in [Line3D](Line3D.md)
+- **Method** [LoadXml](Sketch.md#loadxml) in [Sketch](Sketch.md)
+- **Method** [LoadXml](Sketch3D.md#loadxml) in [Sketch3D](Sketch3D.md)
+- **Method** [LockAll](Configuration.md#lockall) in [Configuration](Configuration.md)

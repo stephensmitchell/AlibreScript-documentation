@@ -1,20 +1,17 @@
-**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
-
-
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The CircularArc class provides functionality for creating and manipulating circular arc geometry within 2D sketches.
 
 ## Related Classes
-- [[CircularArc3D]] - 3D circular arcs
-- [[CircularArc.ArcType]] - Arc type definitions
-- [[Circle]] - Full circular geometry
-- [[Sketch]] - Contains arc geometry
-- [[EllipticalArc]] - Elliptical arc geometry
+- [CircularArc3D](CircularArc3D.md) - 3D circular arcs
+- [CircularArc.ArcType](CircularArc.ArcType.md) - Arc type definitions
+- [Circle](Circle.md) - Full circular geometry
+- [Sketch](Sketch.md) - Contains arc geometry
+- [EllipticalArc](EllipticalArc.md) - Elliptical arc geometry
 
 ## Quick Navigation
-- [[CircularArc#properties|Properties]] - Arc properties and dimensions
-- [[CircularArc#methods|Methods]] - Available operations
+- [Properties](CircularArc.md#properties) - Arc properties and dimensions
+- [Methods](CircularArc.md#methods) - Available operations
 
 ## Properties
 

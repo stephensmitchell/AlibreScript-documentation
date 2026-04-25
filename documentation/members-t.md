@@ -1,10 +1,8 @@
-[[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
-
-- **Property** [[Assembly#title|Title]] in [[Assembly]]
-- **Property** [[Part#title|Title]] in [[Part]]
-- **Method** [[Sketch#toxml|ToXml]] in [[Sketch]]
-- **Method** [[Sketch3D#toxml|ToXml]] in [[Sketch3D]]
-- **Method** [[ThreeD#transformpointusingvectors|TransformPointUsingVectors]] in [[ThreeD]]
-- **Property** [[CircularArc#type|Type]] in [[CircularArc]]
-- **Property** [[CircularArc3D#type|Type]] in [[CircularArc3D]]
-- **Property** [[Parameter#type|Type]] in [[Parameter]]
+- **Property** [Title](Assembly.md#title) in [Assembly](Assembly.md)
+- **Property** [Title](Part.md#title) in [Part](Part.md)
+- **Method** [ToXml](Sketch.md#toxml) in [Sketch](Sketch.md)
+- **Method** [ToXml](Sketch3D.md#toxml) in [Sketch3D](Sketch3D.md)
+- **Method** [TransformPointUsingVectors](ThreeD.md#transformpointusingvectors) in [ThreeD](ThreeD.md)
+- **Property** [Type](CircularArc.md#type) in [CircularArc](CircularArc.md)
+- **Property** [Type](CircularArc3D.md#type) in [CircularArc3D](CircularArc3D.md)
+- **Property** [Type](Parameter.md#type) in [Parameter](Parameter.md)

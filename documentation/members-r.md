@@ -1,56 +1,53 @@
-**[[Home]] | [[Classes]] | [[Members-Index|Members]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
-
-
 *All members starting with the letter "R" - 34 items*
 
 ## Key Categories in "R"
 
 ### Geometry Properties
-- [[Circle#radius|Radius]] - Circular geometry radius values
+- [Radius](Circle.md#radius) - Circular geometry radius values
 
 ### Parameter & Data Properties
-- [[Parameter#rawvalue|RawValue]] - Parameter raw values
-- [[Assembly#receivedfrom|ReceivedFrom]] - Source information
-- [[Assembly#revision|Revision]] - Version information
+- [RawValue](Parameter.md#rawvalue) - Parameter raw values
+- [ReceivedFrom](Assembly.md#receivedfrom) - Source information
+- [Revision](Assembly.md#revision) - Version information
 
 ### Regeneration Methods
-- [[Assembly#regenerate|Regenerate]] - Rebuild objects
-- [[Assembly#resumeupdating|ResumeUpdating]] - Resume update operations
+- [Regenerate](Assembly.md#regenerate) - Rebuild objects
+- [ResumeUpdating](Assembly.md#resumeupdating) - Resume update operations
 
 ### Removal Methods
-- [[Polyline#removeduplicates|RemoveDuplicates]] - Clean duplicate points
-- [[Part#removefeature|RemoveFeature]] - Delete features
-- [[Part#removeplane|RemovePlane]] - Remove planes
-- [[Part#removepoint|RemovePoint]] - Delete points
-- [[Part#removesketch|RemoveSketch]] - Remove sketches
+- [RemoveDuplicates](Polyline.md#removeduplicates) - Clean duplicate points
+- [RemoveFeature](Part.md#removefeature) - Delete features
+- [RemovePlane](Part.md#removeplane) - Remove planes
+- [RemovePoint](Part.md#removepoint) - Delete points
+- [RemoveSketch](Part.md#removesketch) - Remove sketches
 
 ## Complete List
 
-- **Property** [[Circle#radius|Radius]] in [[Circle]]
-- **Property** [[CircularArc#radius|Radius]] in [[CircularArc]]
-- **Property** [[CircularArc3D#radius|Radius]] in [[CircularArc3D]]
-- **Property** [[Ellipse#radius|Radius]] in [[Ellipse]]
-- **Property** [[EllipticalArc#radius|Radius]] in [[EllipticalArc]]
-- **Property** [[Parameter#rawvalue|RawValue]] in [[Parameter]]
-- **Property** [[Assembly#receivedfrom|ReceivedFrom]] in [[Assembly]]
-- **Property** [[Part#receivedfrom|ReceivedFrom]] in [[Part]]
-- **Method** [[Assembly#regenerate|Regenerate]] in [[Assembly]]
-- **Method** [[Part#regenerate|Regenerate]] in [[Part]]
-- **Method** [[Polyline#removeduplicates|RemoveDuplicates]] in [[Polyline]]
-- **Method** [[Polyline3D#removeduplicates|RemoveDuplicates]] in [[Polyline3D]]
-- **Method** [[Part#removefeature|RemoveFeature]] in [[Part]]
-- **Method** [[Part#removeplane|RemovePlane]] in [[Part]]
-- **Method** [[Part#removepoint|RemovePoint]] in [[Part]]
-- **Method** [[Part#removesketch|RemoveSketch]] in [[Part]]
-- **Method** [[Assembly#resumeupdating|ResumeUpdating]] in [[Assembly]]
-- **Method** [[Part#resumeupdating|ResumeUpdating]] in [[Part]]
-- **Property** [[Assembly#revision|Revision]] in [[Assembly]]
-- **Property** [[Part#revision|Revision]] in [[Part]]
-- **Method** [[Assembly#rotatepart|RotatePart]] in [[Assembly]]
-- **Method** [[Assembly#rotateparts|RotateParts]] in [[Assembly]]
-- **Method** [[TwoD#rotatepoint|RotatePoint]] in [[TwoD]]
-- **Method** [[Assembly#rotatesubassemblies|RotateSubAssemblies]] in [[Assembly]]
-- **Method** [[Assembly#rotatesubassembly|RotateSubAssembly]] in [[Assembly]]
-- **Method** [[Polyline#rotatez|RotateZ]] in [[Polyline]]
-- **Method** [[PolylinePoint#rotatez|RotateZ]] in [[PolylinePoint]]
-- **Method** [[CSharp#run|Run]] in [[CSharp]]
+- **Property** [Radius](Circle.md#radius) in [Circle](Circle.md)
+- **Property** [Radius](CircularArc.md#radius) in [CircularArc](CircularArc.md)
+- **Property** [Radius](CircularArc3D.md#radius) in [CircularArc3D](CircularArc3D.md)
+- **Property** [Radius](Ellipse.md#radius) in [Ellipse](Ellipse.md)
+- **Property** [Radius](EllipticalArc.md#radius) in [EllipticalArc](EllipticalArc.md)
+- **Property** [RawValue](Parameter.md#rawvalue) in [Parameter](Parameter.md)
+- **Property** [ReceivedFrom](Assembly.md#receivedfrom) in [Assembly](Assembly.md)
+- **Property** [ReceivedFrom](Part.md#receivedfrom) in [Part](Part.md)
+- **Method** [Regenerate](Assembly.md#regenerate) in [Assembly](Assembly.md)
+- **Method** [Regenerate](Part.md#regenerate) in [Part](Part.md)
+- **Method** [RemoveDuplicates](Polyline.md#removeduplicates) in [Polyline](Polyline.md)
+- **Method** [RemoveDuplicates](Polyline3D.md#removeduplicates) in [Polyline3D](Polyline3D.md)
+- **Method** [RemoveFeature](Part.md#removefeature) in [Part](Part.md)
+- **Method** [RemovePlane](Part.md#removeplane) in [Part](Part.md)
+- **Method** [RemovePoint](Part.md#removepoint) in [Part](Part.md)
+- **Method** [RemoveSketch](Part.md#removesketch) in [Part](Part.md)
+- **Method** [ResumeUpdating](Assembly.md#resumeupdating) in [Assembly](Assembly.md)
+- **Method** [ResumeUpdating](Part.md#resumeupdating) in [Part](Part.md)
+- **Property** [Revision](Assembly.md#revision) in [Assembly](Assembly.md)
+- **Property** [Revision](Part.md#revision) in [Part](Part.md)
+- **Method** [RotatePart](Assembly.md#rotatepart) in [Assembly](Assembly.md)
+- **Method** [RotateParts](Assembly.md#rotateparts) in [Assembly](Assembly.md)
+- **Method** [RotatePoint](TwoD.md#rotatepoint) in [TwoD](TwoD.md)
+- **Method** [RotateSubAssemblies](Assembly.md#rotatesubassemblies) in [Assembly](Assembly.md)
+- **Method** [RotateSubAssembly](Assembly.md#rotatesubassembly) in [Assembly](Assembly.md)
+- **Method** [RotateZ](Polyline.md#rotatez) in [Polyline](Polyline.md)
+- **Method** [RotateZ](PolylinePoint.md#rotatez) in [PolylinePoint](PolylinePoint.md)
+- **Method** [Run](CSharp.md#run) in [CSharp](CSharp.md)

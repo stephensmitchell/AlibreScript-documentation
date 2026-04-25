@@ -1,12 +1,10 @@
-**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
-
 *Complete alphabetical listing of all classes in the AlibreScript API with descriptions*
 
 ## Quick Navigation
-- [[Classes|Categorized Classes]] - Browse classes by functionality
-- [[Methods-Index|Search Methods]] - Find specific methods
-- [[Properties-Index|Property Reference]] - Browse properties
-- [[Interfaces|Core Interfaces]] - Interface definitions
+- [Categorized Classes](Classes.md) - Browse classes by functionality
+- [Search Methods](Methods-Index.md) - Find specific methods
+- [Property Reference](Properties-Index.md) - Browse properties
+- [Core Interfaces](Interfaces.md) - Interface definitions
 
 ## Complete Class Reference
 

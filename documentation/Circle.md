@@ -1,6 +1,3 @@
-**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
-
-
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The Circle class provides functionality for creating and manipulating circular geometry within sketches and 3D space.
@@ -32,15 +29,15 @@ circumference = circle.Length
 ```
 
 ## Related Classes
-- [[Sketch]] - Contains circle geometry
-- [[CircularArc]] - Arc-based circular geometry
-- [[Ellipse]] - Elliptical geometry
-- [[Point]] - Center point handling
-- [[Line]] - Linear geometry
+- [Sketch](Sketch.md) - Contains circle geometry
+- [CircularArc](CircularArc.md) - Arc-based circular geometry
+- [Ellipse](Ellipse.md) - Elliptical geometry
+- [Point](Point.md) - Center point handling
+- [Line](Line.md) - Linear geometry
 
 ## Quick Navigation
-- [[Circle#properties|Properties]] - Circle properties and dimensions
-- [[Circle#methods|Methods]] - Available operations
+- [Properties](Circle.md#properties) - Circle properties and dimensions
+- [Methods](Circle.md#methods) - Available operations
 
 ## Properties
 

@@ -1,8 +1,6 @@
-[[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
-
-- **Method** [[Axis#hide|Hide]] in [[Axis]]
-- **Method** [[Plane#hide|Hide]] in [[Plane]]
-- **Method** [[Point#hide|Hide]] in [[Point]]
-- **Method** [[Part#hidefeature|HideFeature]] in [[Part]]
-- **Method** [[Assembly#hidepart|HidePart]] in [[Assembly]]
-- **Method** [[Assembly#hidesubassembly|HideSubAssembly]] in [[Assembly]]
+- **Method** [Hide](Axis.md#hide) in [Axis](Axis.md)
+- **Method** [Hide](Plane.md#hide) in [Plane](Plane.md)
+- **Method** [Hide](Point.md#hide) in [Point](Point.md)
+- **Method** [HideFeature](Part.md#hidefeature) in [Part](Part.md)
+- **Method** [HidePart](Assembly.md#hidepart) in [Assembly](Assembly.md)
+- **Method** [HideSubAssembly](Assembly.md#hidesubassembly) in [Assembly](Assembly.md)

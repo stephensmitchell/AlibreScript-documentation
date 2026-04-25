@@ -1,9 +1,7 @@
-[[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
-
-- **Property** [[Point#z|Z]] in [[Point]]
-- **Property** [[SketchPoint3D#z|Z]] in [[SketchPoint3D]]
-- **Property** [[Vertex#z|Z]] in [[Vertex]]
-- **Property** [[Assembly#zaxis|ZAxis]] in [[Assembly]]
-- **Property** [[Part#zaxis|ZAxis]] in [[Part]]
-- **Property** [[Assembly#zxplane|ZXPlane]] in [[Assembly]]
-- **Property** [[Part#zxplane|ZXPlane]] in [[Part]]
+- **Property** [Z](Point.md#z) in [Point](Point.md)
+- **Property** [Z](SketchPoint3D.md#z) in [SketchPoint3D](SketchPoint3D.md)
+- **Property** [Z](Vertex.md#z) in [Vertex](Vertex.md)
+- **Property** [ZAxis](Assembly.md#zaxis) in [Assembly](Assembly.md)
+- **Property** [ZAxis](Part.md#zaxis) in [Part](Part.md)
+- **Property** [ZXPlane](Assembly.md#zxplane) in [Assembly](Assembly.md)
+- **Property** [ZXPlane](Part.md#zxplane) in [Part](Part.md)

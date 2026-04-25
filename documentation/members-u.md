@@ -1,10 +1,8 @@
-[[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
-
-- **Method** [[Assembly#unanchorpart|UnanchorPart]] in [[Assembly]]
-- **Method** [[Assembly#unanchorsubassembly|UnanchorSubAssembly]] in [[Assembly]]
-- **Property** [[Parameter#units|Units]] in [[Parameter]]
-- **Method** [[Configuration#unlockall|UnlockAll]] in [[Configuration]]
-- **Method** [[Part#unsuppressfeature|UnsuppressFeature]] in [[Part]]
-- **Method** [[Assembly#unsuppresspart|UnsuppressPart]] in [[Assembly]]
-- **Method** [[Assembly#unsuppresssubassembly|UnsuppressSubAssembly]] in [[Assembly]]
-- **Method** [[Windows#utilitydialog|UtilityDialog]] in [[Windows]]
+- **Method** [UnanchorPart](Assembly.md#unanchorpart) in [Assembly](Assembly.md)
+- **Method** [UnanchorSubAssembly](Assembly.md#unanchorsubassembly) in [Assembly](Assembly.md)
+- **Property** [Units](Parameter.md#units) in [Parameter](Parameter.md)
+- **Method** [UnlockAll](Configuration.md#unlockall) in [Configuration](Configuration.md)
+- **Method** [UnsuppressFeature](Part.md#unsuppressfeature) in [Part](Part.md)
+- **Method** [UnsuppressPart](Assembly.md#unsuppresspart) in [Assembly](Assembly.md)
+- **Method** [UnsuppressSubAssembly](Assembly.md#unsuppresssubassembly) in [Assembly](Assembly.md)
+- **Method** [UtilityDialog](Windows.md#utilitydialog) in [Windows](Windows.md)

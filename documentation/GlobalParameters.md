@@ -1,22 +1,19 @@
-**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
-
-
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The GlobalParameters class provides comprehensive functionality for managing global parameters, configurations, and parameter relationships across parts and assemblies.
 
 ## Related Classes
-- [[Parameter]] - Individual parameter management
-- [[Configuration]] - Configuration operations
-- [[ParameterTypes]] - Parameter type definitions
-- [[ParameterUnits]] - Parameter unit definitions
-- [[Part]], [[Assembly]] - Use global parameters
+- [Parameter](Parameter.md) - Individual parameter management
+- [Configuration](Configuration.md) - Configuration operations
+- [ParameterTypes](ParameterTypes.md) - Parameter type definitions
+- [ParameterUnits](ParameterUnits.md) - Parameter unit definitions
+- [Part](Part.md), [Assembly](Assembly.md) - Use global parameters
 
 ## Quick Navigation
-- [[GlobalParameters#properties|Properties]] - Parameter collections and identity
-- [[GlobalParameters#methods|Methods]] - Parameter operations
-- [[GlobalParameters#configuration-methods|Configuration Methods]] - Configuration management
-- [[GlobalParameters#file-operations|File Operations]] - Save and load operations
+- [Properties](GlobalParameters.md#properties) - Parameter collections and identity
+- [Methods](GlobalParameters.md#methods) - Parameter operations
+- [Configuration Methods](GlobalParameters.md#configuration-methods) - Configuration management
+- [File Operations](GlobalParameters.md#file-operations) - Save and load operations
 
 ## Properties
 

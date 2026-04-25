@@ -1,20 +1,17 @@
-[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]
-
-
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The Line class provides functionality for creating and manipulating linear geometry within 2D sketches.
 
 ## Related Classes
-- [[Line3D]] - 3D line operations
-- [[Sketch]] - Contains line geometry
-- [[SketchPoint]] - Line endpoints
-- [[Polyline]] - Multi-segment lines
-- [[Circle]], [[CircularArc]] - Curved geometry
+- [Line3D](Line3D.md) - 3D line operations
+- [Sketch](Sketch.md) - Contains line geometry
+- [SketchPoint](SketchPoint.md) - Line endpoints
+- [Polyline](Polyline.md) - Multi-segment lines
+- [Circle](Circle.md), [CircularArc](CircularArc.md) - Curved geometry
 
 ## Quick Navigation
-- [[Line#properties|Properties]] - Line properties and dimensions
-- [[Line#methods|Methods]] - Available operations
+- [Properties](Line.md#properties) - Line properties and dimensions
+- [Methods](Line.md#methods) - Available operations
 
 ## Properties
 

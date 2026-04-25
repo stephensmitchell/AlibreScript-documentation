@@ -1,24 +1,21 @@
-**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
-
-
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The Sketch class provides functionality for 2D sketching operations including creating geometric figures, applying constraints, and managing sketch elements.
 
 ## Related Classes
-- [[Sketch3D]] - 3D sketching operations
-- [[Sketch.Constraints]] - Sketch constraint management
-- [[SketchPoint]] - 2D sketch points
-- [[Line]], [[Circle]], [[CircularArc]] - Sketch geometry
-- [[Part]] - Contains sketches
+- [Sketch3D](Sketch3D.md) - 3D sketching operations
+- [Sketch.Constraints](Sketch.Constraints.md) - Sketch constraint management
+- [SketchPoint](SketchPoint.md) - 2D sketch points
+- [Line](Line.md), [Circle](Circle.md), [CircularArc](CircularArc.md) - Sketch geometry
+- [Part](Part.md) - Contains sketches
 
 ## Quick Navigation
-- [[Sketch#properties|Properties]] - Sketch properties
-- [[Sketch#methods|Methods]] - All available operations
-- [[Sketch#arc-methods|Arc Methods]] - Circular arc operations
-- [[Sketch#line-methods|Line Methods]] - Line creation and manipulation
-- [[Sketch#circle-methods|Circle Methods]] - Circle operations
-- [[Sketch#constraint-methods|Constraint Methods]] - Apply sketch constraints
+- [Properties](Sketch.md#properties) - Sketch properties
+- [Methods](Sketch.md#methods) - All available operations
+- [Arc Methods](Sketch.md#arc-methods) - Circular arc operations
+- [Line Methods](Sketch.md#line-methods) - Line creation and manipulation
+- [Circle Methods](Sketch.md#circle-methods) - Circle operations
+- [Constraint Methods](Sketch.md#constraint-methods) - Apply sketch constraints
 
 ## Properties
 

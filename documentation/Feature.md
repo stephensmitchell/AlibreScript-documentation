@@ -1,19 +1,16 @@
-**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
-
-
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The Feature class provides functionality for managing part features including operations, appearance, and feature properties.
 
 ## Related Classes
-- [[Part]] - Contains features
-- [[Assembly]] - Assembly feature operations
-- [[Sketch]] - Sketch-based features
-- [[Configuration]] - Feature configurations
+- [Part](Part.md) - Contains features
+- [Assembly](Assembly.md) - Assembly feature operations
+- [Sketch](Sketch.md) - Sketch-based features
+- [Configuration](Configuration.md) - Feature configurations
 
 ## Quick Navigation
-- [[Feature#properties|Properties]] - Feature identity and attributes
-- [[Feature#methods|Methods]] - Feature operations and styling
+- [Properties](Feature.md#properties) - Feature identity and attributes
+- [Methods](Feature.md#methods) - Feature operations and styling
 
 ## Properties
 

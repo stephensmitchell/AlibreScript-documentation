@@ -1,10 +1,8 @@
-[[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
-
-- **Property** [[Point#y|Y]] in [[Point]]
-- **Property** [[SketchPoint#y|Y]] in [[SketchPoint]]
-- **Property** [[SketchPoint3D#y|Y]] in [[SketchPoint3D]]
-- **Property** [[Vertex#y|Y]] in [[Vertex]]
-- **Property** [[Assembly#yaxis|YAxis]] in [[Assembly]]
-- **Property** [[Part#yaxis|YAxis]] in [[Part]]
-- **Property** [[Assembly#yzplane|YZPlane]] in [[Assembly]]
-- **Property** [[Part#yzplane|YZPlane]] in [[Part]]
+- **Property** [Y](Point.md#y) in [Point](Point.md)
+- **Property** [Y](SketchPoint.md#y) in [SketchPoint](SketchPoint.md)
+- **Property** [Y](SketchPoint3D.md#y) in [SketchPoint3D](SketchPoint3D.md)
+- **Property** [Y](Vertex.md#y) in [Vertex](Vertex.md)
+- **Property** [YAxis](Assembly.md#yaxis) in [Assembly](Assembly.md)
+- **Property** [YAxis](Part.md#yaxis) in [Part](Part.md)
+- **Property** [YZPlane](Assembly.md#yzplane) in [Assembly](Assembly.md)
+- **Property** [YZPlane](Part.md#yzplane) in [Part](Part.md)

@@ -1,20 +1,17 @@
-**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
-
-
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The Parameter class provides functionality for managing individual parameters including equations, units, Excel linkages, and parameter relationships.
 
 ## Related Classes
-- [[GlobalParameters]] - Parameter collections
-- [[ParameterTypes]] - Parameter type definitions
-- [[ParameterUnits]] - Unit definitions
-- [[Configuration]] - Parameter configurations
-- [[Part]], [[Assembly]] - Use parameters
+- [GlobalParameters](GlobalParameters.md) - Parameter collections
+- [ParameterTypes](ParameterTypes.md) - Parameter type definitions
+- [ParameterUnits](ParameterUnits.md) - Unit definitions
+- [Configuration](Configuration.md) - Parameter configurations
+- [Part](Part.md), [Assembly](Assembly.md) - Use parameters
 
 ## Quick Navigation
-- [[Parameter#properties|Properties]] - Parameter attributes and linkages
-- [[Parameter#methods|Methods]] - Parameter operations
+- [Properties](Parameter.md#properties) - Parameter attributes and linkages
+- [Methods](Parameter.md#methods) - Parameter operations
 
 ## Properties
 

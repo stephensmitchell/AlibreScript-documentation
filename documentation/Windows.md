@@ -1,21 +1,18 @@
-**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
-
-
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The Windows class provides functionality for managing Windows forms, dialogs, and user interface operations within the Alibre Design environment.
 
 ## Related Classes
-- [[WindowsInputTypes]] - Input type definitions
-- [[CSharp]] - C# integration utilities
-- [[Part]], [[Assembly]] - Use Windows operations
-- [[GlobalParameters]] - Windows for parameters
+- [WindowsInputTypes](WindowsInputTypes.md) - Input type definitions
+- [CSharp](CSharp.md) - C# integration utilities
+- [Part](Part.md), [Assembly](Assembly.md) - Use Windows operations
+- [GlobalParameters](GlobalParameters.md) - Windows for parameters
 
 ## Quick Navigation
-- [[Windows#methods|Methods]] - All available operations
-- [[Windows#dialog-methods|Dialog Methods]] - File dialogs and user input
-- [[Windows#form-methods|Form Methods]] - Form management
-- [[Windows#display-methods|Display Methods]] - Window display operations
+- [Methods](Windows.md#methods) - All available operations
+- [Dialog Methods](Windows.md#dialog-methods) - File dialogs and user input
+- [Form Methods](Windows.md#form-methods) - Form management
+- [Display Methods](Windows.md#display-methods) - Window display operations
 
 ## Methods
 

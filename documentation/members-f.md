@@ -1,10 +1,8 @@
-[[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
-
-- **Property** [[Sketch#figures|Figures]] in [[Sketch]]
-- **Property** [[Sketch3D#figures|Figures]] in [[Sketch3D]]
-- **Property** [[Assembly#filename|FileName]] in [[Assembly]]
-- **Property** [[Part#filename|FileName]] in [[Part]]
-- **Method** [[Polyline#findintersection|FindIntersection]] in [[Polyline]]
-- **Method** [[Polyline#findintersectionwithcircle|FindIntersectionWithCircle]] in [[Polyline]]
-- **Method** [[Sketch#fromxml|FromXml]] in [[Sketch]]
-- **Method** [[Sketch3D#fromxml|FromXml]] in [[Sketch3D]]
+- **Property** [Figures](Sketch.md#figures) in [Sketch](Sketch.md)
+- **Property** [Figures](Sketch3D.md#figures) in [Sketch3D](Sketch3D.md)
+- **Property** [FileName](Assembly.md#filename) in [Assembly](Assembly.md)
+- **Property** [FileName](Part.md#filename) in [Part](Part.md)
+- **Method** [FindIntersection](Polyline.md#findintersection) in [Polyline](Polyline.md)
+- **Method** [FindIntersectionWithCircle](Polyline.md#findintersectionwithcircle) in [Polyline](Polyline.md)
+- **Method** [FromXml](Sketch.md#fromxml) in [Sketch](Sketch.md)
+- **Method** [FromXml](Sketch3D.md#fromxml) in [Sketch3D](Sketch3D.md)

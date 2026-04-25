@@ -1,3 +1,1 @@
-[[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
-
-- **Method** [[Windows#questiondialog|QuestionDialog]] in [[Windows]]
+- **Method** [QuestionDialog](Windows.md#questiondialog) in [Windows](Windows.md)

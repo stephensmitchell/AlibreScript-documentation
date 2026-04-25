@@ -1,86 +1,83 @@
-**[[Home]] | [[Classes]] | [[Members-Index|Members]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
-
-
 *All members starting with the letter "S" - 71 items*
 
 ## Key Categories in "S"
 
 ### Save & Export Methods
-- [[Assembly#save|Save]] - Save files
-- [[Assembly#saveas|SaveAs]] - Save with new name
-- [[Assembly#saveall|SaveAll]] - Save all files
-- [[Assembly#savesnapshot|SaveSnapshot]] - Export images
-- [[Assembly#savethumbnail|SaveThumbnail]] - Generate thumbnails
-- [[Sketch#savetoxml|SavetoXml]] - XML export
+- [Save](Assembly.md#save) - Save files
+- [SaveAs](Assembly.md#saveas) - Save with new name
+- [SaveAll](Assembly.md#saveall) - Save all files
+- [SaveSnapshot](Assembly.md#savesnapshot) - Export images
+- [SaveThumbnail](Assembly.md#savethumbnail) - Generate thumbnails
+- [SavetoXml](Sketch.md#savetoxml) - XML export
 
 ### Transformation Methods
-- [[Part#scale|Scale]] - Scale objects and geometry
-- [[Part#select|Select]] - Object selection
+- [Scale](Part.md#scale) - Scale objects and geometry
+- [Select](Part.md#select) - Object selection
 
 ### Dialog & UI Methods
-- [[Windows#savefiledialog|SaveFileDialog]] - File save dialogs
+- [SaveFileDialog](Windows.md#savefiledialog) - File save dialogs
 
 ## Complete List
 
-- **Method** [[Assembly#save|Save]] in [[Assembly]]
-- **Method** [[GlobalParameters#save|Save]] in [[GlobalParameters]]
-- **Method** [[Part#save|Save]] in [[Part]]
-- **Method** [[Assembly#saveall|SaveAll]] in [[Assembly]]
-- **Method** [[Assembly#saveas|SaveAs]] in [[Assembly]]
-- **Method** [[GlobalParameters#saveas|SaveAs]] in [[GlobalParameters]]
-- **Method** [[Part#saveas|SaveAs]] in [[Part]]
-- **Method** [[Windows#savefiledialog|SaveFileDialog]] in [[Windows]]
-- **Method** [[Assembly#savesnapshot|SaveSnapshot]] in [[Assembly]]
-- **Method** [[Part#savesnapshot|SaveSnapshot]] in [[Part]]
-- **Method** [[Assembly#savethumbnail|SaveThumbnail]] in [[Assembly]]
-- **Method** [[Part#savethumbnail|SaveThumbnail]] in [[Part]]
-- **Method** [[Sketch#savetoxml|SavetoXml]] in [[Sketch]]
-- **Method** [[Sketch3D#savetoxml|SavetoXml]] in [[Sketch3D]]
-- **Method** [[Part#scale|Scale]] in [[Part]]
-- **Method** [[PolylinePoint#scale|Scale]] in [[PolylinePoint]]
-- **Method** [[PolylinePoint3D#scale|Scale]] in [[PolylinePoint3D]]
-- **Method** [[Part#select|Select]] in [[Part]]
-- **Method** [[Windows#selectfolderdialog|SelectFolderDialog]] in [[Windows]]
-- **Property** [[Assembly#selections|Selections]] in [[Assembly]]
-- **Property** [[Part#selections|Selections]] in [[Part]]
-- **Method** [[Feature#setcolor|SetColor]] in [[Feature]]
-- **Method** [[Part#setcolor|SetColor]] in [[Part]]
-- **Method** [[Assembly#setcustomproperty|SetCustomProperty]] in [[Assembly]]
-- **Method** [[Part#setcustomproperty|SetCustomProperty]] in [[Part]]
-- **Method** [[Windows#setinputvalue|SetInputValue]] in [[Windows]]
-- **Method** [[Configuration#setlocks|SetLocks]] in [[Configuration]]
-- **Method** [[Windows#setstringlist|SetStringList]] in [[Windows]]
-- **Method** [[Assembly#setuserdata|SetUserData]] in [[Assembly]]
-- **Method** [[Part#setuserdata|SetUserData]] in [[Part]]
-- **Method** [[Axis#show|Show]] in [[Axis]]
-- **Method** [[Plane#show|Show]] in [[Plane]]
-- **Method** [[Point#show|Show]] in [[Point]]
-- **Method** [[Part#showfeature|ShowFeature]] in [[Part]]
-- **Method** [[Assembly#showpart|ShowPart]] in [[Assembly]]
-- **Method** [[Assembly#showsubassembly|ShowSubAssembly]] in [[Assembly]]
-- **Method** [[Polyline#splitatpoint|SplitAtPoint]] in [[Polyline]]
-- **Method** [[Polyline3D#splitatpoint|SplitAtPoint]] in [[Polyline3D]]
-- **Property** [[CircularArc#start|Start]] in [[CircularArc]]
-- **Property** [[EllipticalArc#start|Start]] in [[EllipticalArc]]
-- **Property** [[Line#start|Start]] in [[Line]]
-- **Property** [[Line3D#start|Start]] in [[Line3D]]
-- **Method** [[Sketch#startfacemapping|StartFaceMapping]] in [[Sketch]]
-- **Method** [[Sketch#startmapping|StartMapping]] in [[Sketch]]
-- **Property** [[CircularArc#startpoint|StartPoint]] in [[CircularArc]]
-- **Property** [[CircularArc3D#startpoint|StartPoint]] in [[CircularArc3D]]
-- **Property** [[EllipticalArc#startpoint|StartPoint]] in [[EllipticalArc]]
-- **Property** [[Line#startpoint|StartPoint]] in [[Line]]
-- **Property** [[Line3D#startpoint|StartPoint]] in [[Line3D]]
-- **Property** [[Assembly#stocksize|StockSize]] in [[Assembly]]
-- **Property** [[Part#stocksize|StockSize]] in [[Part]]
-- **Method** [[Sketch#stopfacemapping|StopFaceMapping]] in [[Sketch]]
-- **Method** [[Sketch#stopmapping|StopMapping]] in [[Sketch]]
-- **Property** [[Assembly#subassemblies|SubAssemblies]] in [[Assembly]]
-- **Method** [[Bspline#subdivide|Subdivide]] in [[Bspline]]
-- **Method** [[Bspline3D#subdivide|Subdivide]] in [[Bspline3D]]
-- **Method** [[Bspline3D#subdividegetnormals|SubdivideGetNormals]] in [[Bspline3D]]
-- **Property** [[Assembly#supplier|Supplier]] in [[Assembly]]
-- **Property** [[Part#supplier|Supplier]] in [[Part]]
-- **Method** [[Part#suppressfeature|SuppressFeature]] in [[Part]]
-- **Method** [[Assembly#suppresspart|SuppressPart]] in [[Assembly]]
-- **Method** [[Assembly#suppresssubassembly|SuppressSubAssembly]] in [[Assembly]]
+- **Method** [Save](Assembly.md#save) in [Assembly](Assembly.md)
+- **Method** [Save](GlobalParameters.md#save) in [GlobalParameters](GlobalParameters.md)
+- **Method** [Save](Part.md#save) in [Part](Part.md)
+- **Method** [SaveAll](Assembly.md#saveall) in [Assembly](Assembly.md)
+- **Method** [SaveAs](Assembly.md#saveas) in [Assembly](Assembly.md)
+- **Method** [SaveAs](GlobalParameters.md#saveas) in [GlobalParameters](GlobalParameters.md)
+- **Method** [SaveAs](Part.md#saveas) in [Part](Part.md)
+- **Method** [SaveFileDialog](Windows.md#savefiledialog) in [Windows](Windows.md)
+- **Method** [SaveSnapshot](Assembly.md#savesnapshot) in [Assembly](Assembly.md)
+- **Method** [SaveSnapshot](Part.md#savesnapshot) in [Part](Part.md)
+- **Method** [SaveThumbnail](Assembly.md#savethumbnail) in [Assembly](Assembly.md)
+- **Method** [SaveThumbnail](Part.md#savethumbnail) in [Part](Part.md)
+- **Method** [SavetoXml](Sketch.md#savetoxml) in [Sketch](Sketch.md)
+- **Method** [SavetoXml](Sketch3D.md#savetoxml) in [Sketch3D](Sketch3D.md)
+- **Method** [Scale](Part.md#scale) in [Part](Part.md)
+- **Method** [Scale](PolylinePoint.md#scale) in [PolylinePoint](PolylinePoint.md)
+- **Method** [Scale](PolylinePoint3D.md#scale) in [PolylinePoint3D](PolylinePoint3D.md)
+- **Method** [Select](Part.md#select) in [Part](Part.md)
+- **Method** [SelectFolderDialog](Windows.md#selectfolderdialog) in [Windows](Windows.md)
+- **Property** [Selections](Assembly.md#selections) in [Assembly](Assembly.md)
+- **Property** [Selections](Part.md#selections) in [Part](Part.md)
+- **Method** [SetColor](Feature.md#setcolor) in [Feature](Feature.md)
+- **Method** [SetColor](Part.md#setcolor) in [Part](Part.md)
+- **Method** [SetCustomProperty](Assembly.md#setcustomproperty) in [Assembly](Assembly.md)
+- **Method** [SetCustomProperty](Part.md#setcustomproperty) in [Part](Part.md)
+- **Method** [SetInputValue](Windows.md#setinputvalue) in [Windows](Windows.md)
+- **Method** [SetLocks](Configuration.md#setlocks) in [Configuration](Configuration.md)
+- **Method** [SetStringList](Windows.md#setstringlist) in [Windows](Windows.md)
+- **Method** [SetUserData](Assembly.md#setuserdata) in [Assembly](Assembly.md)
+- **Method** [SetUserData](Part.md#setuserdata) in [Part](Part.md)
+- **Method** [Show](Axis.md#show) in [Axis](Axis.md)
+- **Method** [Show](Plane.md#show) in [Plane](Plane.md)
+- **Method** [Show](Point.md#show) in [Point](Point.md)
+- **Method** [ShowFeature](Part.md#showfeature) in [Part](Part.md)
+- **Method** [ShowPart](Assembly.md#showpart) in [Assembly](Assembly.md)
+- **Method** [ShowSubAssembly](Assembly.md#showsubassembly) in [Assembly](Assembly.md)
+- **Method** [SplitAtPoint](Polyline.md#splitatpoint) in [Polyline](Polyline.md)
+- **Method** [SplitAtPoint](Polyline3D.md#splitatpoint) in [Polyline3D](Polyline3D.md)
+- **Property** [Start](CircularArc.md#start) in [CircularArc](CircularArc.md)
+- **Property** [Start](EllipticalArc.md#start) in [EllipticalArc](EllipticalArc.md)
+- **Property** [Start](Line.md#start) in [Line](Line.md)
+- **Property** [Start](Line3D.md#start) in [Line3D](Line3D.md)
+- **Method** [StartFaceMapping](Sketch.md#startfacemapping) in [Sketch](Sketch.md)
+- **Method** [StartMapping](Sketch.md#startmapping) in [Sketch](Sketch.md)
+- **Property** [StartPoint](CircularArc.md#startpoint) in [CircularArc](CircularArc.md)
+- **Property** [StartPoint](CircularArc3D.md#startpoint) in [CircularArc3D](CircularArc3D.md)
+- **Property** [StartPoint](EllipticalArc.md#startpoint) in [EllipticalArc](EllipticalArc.md)
+- **Property** [StartPoint](Line.md#startpoint) in [Line](Line.md)
+- **Property** [StartPoint](Line3D.md#startpoint) in [Line3D](Line3D.md)
+- **Property** [StockSize](Assembly.md#stocksize) in [Assembly](Assembly.md)
+- **Property** [StockSize](Part.md#stocksize) in [Part](Part.md)
+- **Method** [StopFaceMapping](Sketch.md#stopfacemapping) in [Sketch](Sketch.md)
+- **Method** [StopMapping](Sketch.md#stopmapping) in [Sketch](Sketch.md)
+- **Property** [SubAssemblies](Assembly.md#subassemblies) in [Assembly](Assembly.md)
+- **Method** [Subdivide](Bspline.md#subdivide) in [Bspline](Bspline.md)
+- **Method** [Subdivide](Bspline3D.md#subdivide) in [Bspline3D](Bspline3D.md)
+- **Method** [SubdivideGetNormals](Bspline3D.md#subdividegetnormals) in [Bspline3D](Bspline3D.md)
+- **Property** [Supplier](Assembly.md#supplier) in [Assembly](Assembly.md)
+- **Property** [Supplier](Part.md#supplier) in [Part](Part.md)
+- **Method** [SuppressFeature](Part.md#suppressfeature) in [Part](Part.md)
+- **Method** [SuppressPart](Assembly.md#suppresspart) in [Assembly](Assembly.md)
+- **Method** [SuppressSubAssembly](Assembly.md#suppresssubassembly) in [Assembly](Assembly.md)

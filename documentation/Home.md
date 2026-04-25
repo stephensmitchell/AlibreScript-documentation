@@ -1,48 +1,48 @@
-Home | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]
+Home | [Classes](Classes.md) | [Methods](Methods-Index.md) | [Properties](Properties-Index.md) | [Members](Members-Index.md)
 
 Welcome to the AlibreScript API documentation for IronPython 2.7.10. This documentation is organized for easy navigation and provides comprehensive coverage of the API.
 
 ## Main Sections
-- [[Classes|Classes]] - All available classes
-- [[Methods-Index|Methods Index]] - Alphabetical method reference
-- [[Properties-Index|Properties Index]] - Property documentation
-- [[Members-Index|Members Index]] - Member listings A-Z
-- [[Namespaces|Namespaces]] - API namespace structure
-- [[Class-List|Class List]] - Organized class listing
+- [Classes](Classes.md) - All available classes
+- [Methods Index](Methods-Index.md) - Alphabetical method reference
+- [Properties Index](Properties-Index.md) - Property documentation
+- [Members Index](Members-Index.md) - Member listings A-Z
+- [Namespaces](Namespaces.md) - API namespace structure
+- [Class List](Class-List.md) - Organized class listing
 
 ## Browse by Category
 
 ### Assembly & Parts
-- [[Assembly]] - Main assembly operations
-- [[AssembledPart]] - Individual part handling
-- [[AssembledSubAssembly]] - Sub-assembly management
-- [[Part]] - Part creation and manipulation
-- [[Feature]] - Feature operations
+- [Assembly](Assembly.md) - Main assembly operations
+- [AssembledPart](AssembledPart.md) - Individual part handling
+- [AssembledSubAssembly](AssembledSubAssembly.md) - Sub-assembly management
+- [Part](Part.md) - Part creation and manipulation
+- [Feature](Feature.md) - Feature operations
 
 ### Sketching & Drawing
-- [[Sketch]] - 2D sketching operations
-- [[Sketch3D]] - 3D sketch functionality
-- [[SketchPoint]] / [[SketchPoint3D]] - Point handling
-- [[TwoD]] / [[ThreeD]] - Dimension handling
+- [Sketch](Sketch.md) - 2D sketching operations
+- [Sketch3D](Sketch3D.md) - 3D sketch functionality
+- [SketchPoint](SketchPoint.md) / [SketchPoint3D](SketchPoint3D.md) - Point handling
+- [TwoD](TwoD.md) / [ThreeD](ThreeD.md) - Dimension handling
 
 ### Geometry & Shapes
-- [[Line]] / [[Line3D]] - Line creation
-- [[Circle]] - Circle operations
-- [[CircularArc]] / [[CircularArc3D]] - Arc handling
-- [[Ellipse]] / [[EllipticalArc]] - Ellipse operations
-- [[Polyline]] / [[Polyline3D]] - Multi-segment lines
-- [[Bspline]] / [[Bspline3D]] - Spline curves
+- [Line](Line.md) / [Line3D](Line3D.md) - Line creation
+- [Circle](Circle.md) - Circle operations
+- [CircularArc](CircularArc.md) / [CircularArc3D](CircularArc3D.md) - Arc handling
+- [Ellipse](Ellipse.md) / [EllipticalArc](EllipticalArc.md) - Ellipse operations
+- [Polyline](Polyline.md) / [Polyline3D](Polyline3D.md) - Multi-segment lines
+- [Bspline](Bspline.md) / [Bspline3D](Bspline3D.md) - Spline curves
 
 ### Configuration & Parameters
-- [[Configuration]] - Configuration management
-- [[GlobalParameters]] - Global parameter handling
-- [[Parameter]] - Individual parameters
-- [[ParameterTypes]] / [[ParameterUnits]] - Parameter definitions
+- [Configuration](Configuration.md) - Configuration management
+- [GlobalParameters](GlobalParameters.md) - Global parameter handling
+- [Parameter](Parameter.md) - Individual parameters
+- [ParameterTypes](ParameterTypes.md) / [ParameterUnits](ParameterUnits.md) - Parameter definitions
 
 ### Utilities & Interfaces
-- [[Windows]] - Window operations
-- [[CSharp]] - C# integration
-- [[IAxis]] / [[IPlane]] / [[IPoint]] - Core interfaces
+- [Windows](Windows.md) - Window operations
+- [CSharp](CSharp.md) - C# integration
+- [IAxis](IAxis.md) / [IPlane](IPlane.md) / [IPoint](IPoint.md) - Core interfaces
 
 > [!TIP]
-> Use the category links above to explore related functionality, or browse the complete [[Classes]] list for all available API elements.
+> Use the category links above to explore related functionality, or browse the complete [Classes](Classes.md) list for all available API elements.

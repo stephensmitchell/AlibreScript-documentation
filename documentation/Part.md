@@ -1,6 +1,3 @@
-**[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
-
-
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
 The Part class provides comprehensive functionality for creating, manipulating, and managing individual parts within Alibre Design. This class handles part properties, geometry creation, sketching, and file operations.
@@ -46,18 +43,18 @@ part.Save("Part creation complete")
 ```
 
 ## Related Classes
-- [[Assembly]] - Contains parts as components
-- [[AssembledPart]] - Part within an assembly context
-- [[Feature]] - Part features and operations
-- [[Configuration]] - Part configurations
-- [[GlobalParameters]] - Part parameters
+- [Assembly](Assembly.md) - Contains parts as components
+- [AssembledPart](AssembledPart.md) - Part within an assembly context
+- [Feature](Feature.md) - Part features and operations
+- [Configuration](Configuration.md) - Part configurations
+- [GlobalParameters](GlobalParameters.md) - Part parameters
 
 ## Quick Navigation
-- [[Part#properties|Properties]] - Part properties and metadata
-- [[Part#methods|Methods]] - Available operations
-- [[Part#sketching-methods|Sketching Methods]] - Drawing and sketching
-- [[Part#feature-methods|Feature Methods]] - Feature operations
-- [[Part#file-operations|File Operations]] - Save, export, import
+- [Properties](Part.md#properties) - Part properties and metadata
+- [Methods](Part.md#methods) - Available operations
+- [Sketching Methods](Part.md#sketching-methods) - Drawing and sketching
+- [Feature Methods](Part.md#feature-methods) - Feature operations
+- [File Operations](Part.md#file-operations) - Save, export, import
 
 ## Properties
 

@@ -1,58 +1,55 @@
-[[Home]] | [[Classes]] | [[Members-Index|Members]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
-
-
 *All members starting with the letter "C"*
 
 ## Key Categories in "C"
 
 ### Geometry Properties
-- [[Circle#center|Center]] - Center points of geometric shapes
-- [[Circle#centerpoint|CenterPoint]] - Center as sketch point objects
+- [Center](Circle.md#center) - Center points of geometric shapes
+- [CenterPoint](Circle.md#centerpoint) - Center as sketch point objects
 
 ### Documentation Properties
-- [[Assembly#comment|Comment]] - Object comments and descriptions
+- [Comment](Assembly.md#comment) - Object comments and descriptions
 
 ### Object Operations
-- [[Polyline#clone|Clone]] - Duplicate objects
-- [[Assembly#close|Close]] - Close files and objects
-- [[CSharp#compile|Compile]] - Code compilation
+- [Clone](Polyline.md#clone) - Duplicate objects
+- [Close](Assembly.md#close) - Close files and objects
+- [Compile](CSharp.md#compile) - Code compilation
 
 ## Complete List
 
-- **Property** [[Circle#center|Center]] in [[Circle]]
-- **Property** [[CircularArc#center|Center]] in [[CircularArc]]
-- **Property** [[CircularArc3D#center|Center]] in [[CircularArc3D]]
-- **Property** [[Ellipse#center|Center]] in [[Ellipse]]
-- **Property** [[EllipticalArc#center|Center]] in [[EllipticalArc]]
-- **Property** [[Circle#centerpoint|CenterPoint]] in [[Circle]]
-- **Property** [[CircularArc#centerpoint|CenterPoint]] in [[CircularArc]]
-- **Property** [[Ellipse#centerpoint|CenterPoint]] in [[Ellipse]]
-- **Property** [[EllipticalArc#centerpoint|CenterPoint]] in [[EllipticalArc]]
-- **Method** [[Polyline#clone|Clone]] in [[Polyline]]
-- **Method** [[Polyline3D#clone|Clone]] in [[Polyline3D]]
-- **Method** [[Assembly#close|Close]] in [[Assembly]]
-- **Method** [[GlobalParameters#close|Close]] in [[GlobalParameters]]
-- **Method** [[Part#close|Close]] in [[Part]]
-- **Method** [[Windows#closeform|CloseForm]] in [[Windows]]
-- **Property** [[Assembly#comment|Comment]] in [[Assembly]]
-- **Property** [[Parameter#comment|Comment]] in [[Parameter]]
-- **Property** [[Part#comment|Comment]] in [[Part]]
-- **Method** [[CSharp#compile|Compile]] in [[CSharp]]
-- **Method** [[CSharp#compileandrun|CompileAndRun]] in [[CSharp]]
-- **Property** [[AssembledPart#configurations|Configurations]] in [[AssembledPart]]
-- **Property** [[AssembledSubAssembly#configurations|Configurations]] in [[AssembledSubAssembly]]
-- **Property** [[Assembly#configurations|Configurations]] in [[Assembly]]
-- **Property** [[GlobalParameters#configurations|Configurations]] in [[GlobalParameters]]
-- **Property** [[Part#configurations|Configurations]] in [[Part]]
-- **Property** [[Bspline#controlpoints|ControlPoints]] in [[Bspline]]
-- **Property** [[Bspline3D#controlpoints|ControlPoints]] in [[Bspline3D]]
-- **Method** [[Sketch#copyfrom|CopyFrom]] in [[Sketch]]
-- **Property** [[Assembly#costcenter|CostCenter]] in [[Assembly]]
-- **Property** [[Part#costcenter|CostCenter]] in [[Part]]
-- **Property** [[Assembly#createdby|CreatedBy]] in [[Assembly]]
-- **Property** [[Part#createdby|CreatedBy]] in [[Part]]
-- **Property** [[Assembly#createddate|CreatedDate]] in [[Assembly]]
-- **Property** [[Part#createddate|CreatedDate]] in [[Part]]
-- **Method** [[Assembly#createuniquename|CreateUniqueName]] in [[Assembly]]
-- **Property** [[Assembly#creatingapplication|CreatingApplication]] in [[Assembly]]
-- **Property** [[Part#creatingapplication|CreatingApplication]] in [[Part]]
+- **Property** [Center](Circle.md#center) in [Circle](Circle.md)
+- **Property** [Center](CircularArc.md#center) in [CircularArc](CircularArc.md)
+- **Property** [Center](CircularArc3D.md#center) in [CircularArc3D](CircularArc3D.md)
+- **Property** [Center](Ellipse.md#center) in [Ellipse](Ellipse.md)
+- **Property** [Center](EllipticalArc.md#center) in [EllipticalArc](EllipticalArc.md)
+- **Property** [CenterPoint](Circle.md#centerpoint) in [Circle](Circle.md)
+- **Property** [CenterPoint](CircularArc.md#centerpoint) in [CircularArc](CircularArc.md)
+- **Property** [CenterPoint](Ellipse.md#centerpoint) in [Ellipse](Ellipse.md)
+- **Property** [CenterPoint](EllipticalArc.md#centerpoint) in [EllipticalArc](EllipticalArc.md)
+- **Method** [Clone](Polyline.md#clone) in [Polyline](Polyline.md)
+- **Method** [Clone](Polyline3D.md#clone) in [Polyline3D](Polyline3D.md)
+- **Method** [Close](Assembly.md#close) in [Assembly](Assembly.md)
+- **Method** [Close](GlobalParameters.md#close) in [GlobalParameters](GlobalParameters.md)
+- **Method** [Close](Part.md#close) in [Part](Part.md)
+- **Method** [CloseForm](Windows.md#closeform) in [Windows](Windows.md)
+- **Property** [Comment](Assembly.md#comment) in [Assembly](Assembly.md)
+- **Property** [Comment](Parameter.md#comment) in [Parameter](Parameter.md)
+- **Property** [Comment](Part.md#comment) in [Part](Part.md)
+- **Method** [Compile](CSharp.md#compile) in [CSharp](CSharp.md)
+- **Method** [CompileAndRun](CSharp.md#compileandrun) in [CSharp](CSharp.md)
+- **Property** [Configurations](AssembledPart.md#configurations) in [AssembledPart](AssembledPart.md)
+- **Property** [Configurations](AssembledSubAssembly.md#configurations) in [AssembledSubAssembly](AssembledSubAssembly.md)
+- **Property** [Configurations](Assembly.md#configurations) in [Assembly](Assembly.md)
+- **Property** [Configurations](GlobalParameters.md#configurations) in [GlobalParameters](GlobalParameters.md)
+- **Property** [Configurations](Part.md#configurations) in [Part](Part.md)
+- **Property** [ControlPoints](Bspline.md#controlpoints) in [Bspline](Bspline.md)
+- **Property** [ControlPoints](Bspline3D.md#controlpoints) in [Bspline3D](Bspline3D.md)
+- **Method** [CopyFrom](Sketch.md#copyfrom) in [Sketch](Sketch.md)
+- **Property** [CostCenter](Assembly.md#costcenter) in [Assembly](Assembly.md)
+- **Property** [CostCenter](Part.md#costcenter) in [Part](Part.md)
+- **Property** [CreatedBy](Assembly.md#createdby) in [Assembly](Assembly.md)
+- **Property** [CreatedBy](Part.md#createdby) in [Part](Part.md)
+- **Property** [CreatedDate](Assembly.md#createddate) in [Assembly](Assembly.md)
+- **Property** [CreatedDate](Part.md#createddate) in [Part](Part.md)
+- **Method** [CreateUniqueName](Assembly.md#createuniquename) in [Assembly](Assembly.md)
+- **Property** [CreatingApplication](Assembly.md#creatingapplication) in [Assembly](Assembly.md)
+- **Property** [CreatingApplication](Part.md#creatingapplication) in [Part](Part.md)

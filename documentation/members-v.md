@@ -1,5 +1,3 @@
-[[Members-Index|Back to Members Index]] | [[Home|Documentation Home]] | [[Classes|All Classes]]
-
-- **Property** [[Parameter#value|Value]] in [[Parameter]]
-- **Property** [[Assembly#vendor|Vendor]] in [[Assembly]]
-- **Property** [[Part#vendor|Vendor]] in [[Part]]
+- **Property** [Value](Parameter.md#value) in [Parameter](Parameter.md)
+- **Property** [Vendor](Assembly.md#vendor) in [Assembly](Assembly.md)
+- **Property** [Vendor](Part.md#vendor) in [Part](Part.md)
