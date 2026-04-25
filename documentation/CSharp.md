@@ -99,6 +99,3 @@ Updated dictionary of variables
 
 """
 ```
-
----
-**[[CSharp#csharp|⬆ Back to Top]]**

@@ -4,6 +4,3 @@
 - **Property** [[Part#weblink|WebLink]] in [[Part]]
 - **Property** [[Bspline#weights|Weights]] in [[Bspline]]
 - **Property** [[Bspline3D#weights|Weights]] in [[Bspline3D]]
-
----
-**[[members-w#members-index-w|⬆ Back to Top]]**

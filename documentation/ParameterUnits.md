@@ -4,6 +4,3 @@
 - Kind: `Class`
 
 Units of parameters
-
----
-**[[ParameterUnits#parameterunits|⬆ Back to Top]]**

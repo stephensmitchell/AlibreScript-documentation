@@ -31,11 +31,5 @@ Interfaces in the AlibreScript API provide consistent contracts for geometric op
 
 **See Also:**
 - [[Classes|All Classes]] - Complete class reference
-- [[Classes#core-elements|🧩 Core Elements]] - Related geometric classes
+- [[Classes#core-elements|Core Elements]] - Related geometric classes
 - [[Classes#geometry|Geometry & Shapes]] - Geometric operations
-
----
-**Navigation:** [[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
-
-**[[Interfaces#interfaces|⬆ Back to Top]]**
-

@@ -310,6 +310,3 @@ Point [X, Y, Z] in the assembly coordinate system
 
 """
 ```
-
----
-**[[AssembledPart#assembledpart|⬆ Back to Top]]**

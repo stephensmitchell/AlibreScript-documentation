@@ -1,6 +1,5 @@
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-**Location:** [[Classes#assembly-and-parts|Assembly & Parts]] Part
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
@@ -2381,7 +2380,3 @@ feature (Feature): Feature to unsuppress
 
 """
 ```
-
----
-**[[Part#part|⬆ Back to Top]]**
-

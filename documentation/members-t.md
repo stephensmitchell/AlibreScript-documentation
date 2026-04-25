@@ -8,6 +8,3 @@
 - **Property** [[CircularArc#type|Type]] in [[CircularArc]]
 - **Property** [[CircularArc3D#type|Type]] in [[CircularArc3D]]
 - **Property** [[Parameter#type|Type]] in [[Parameter]]
-
----
-**[[members-t#members-index-t|⬆ Back to Top]]**

@@ -11,6 +11,3 @@
 - **Method** [[Sketch#pointtoglobal|PointtoGlobal]] in [[Sketch]]
 - **Property** [[Assembly#product|Product]] in [[Assembly]]
 - **Property** [[Part#product|Product]] in [[Part]]
-
----
-**[[members-p#members-index-p|⬆ Back to Top]]**

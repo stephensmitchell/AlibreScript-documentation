@@ -13,6 +13,3 @@
 - **Method** [[Sketch#loadxml|LoadXml]] in [[Sketch]]
 - **Method** [[Sketch3D#loadxml|LoadXml]] in [[Sketch3D]]
 - **Method** [[Configuration#lockall|LockAll]] in [[Configuration]]
-
----
-**[[members-l#members-index-l|⬆ Back to Top]]**

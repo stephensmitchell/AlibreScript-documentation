@@ -1,6 +1,5 @@
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-**Location:** [[Classes#core-elements|Core Elements]] Point
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
@@ -72,7 +71,3 @@ Shows the point
 ```python
 Object Show()
 ```
-
----
-**[[Point#point|⬆ Back to Top]]**
-

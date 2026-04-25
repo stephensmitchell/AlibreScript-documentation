@@ -4,6 +4,3 @@
 - Kind: `Class`
 
 Type of Windows input
-
----
-**[[WindowsInputTypes#windowsinputtypes|⬆ Back to Top]]**

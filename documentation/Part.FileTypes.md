@@ -4,6 +4,3 @@
 - Kind: `Class`
 
 Supported file types
-
----
-**[[Part.FileTypes#partfiletypes|⬆ Back to Top]]**

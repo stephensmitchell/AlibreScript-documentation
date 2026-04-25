@@ -1,6 +1,5 @@
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-**Location:** [[Classes#utilities|Utilities & System]] Windows
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
@@ -342,6 +341,3 @@ update_user_interface_callback (object): Function called after dialog is created
 
 """
 ```
-
----
-**[[Windows#windows|⬆ Back to Top]]**

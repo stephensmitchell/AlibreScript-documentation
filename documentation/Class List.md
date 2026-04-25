@@ -180,6 +180,3 @@ Namespace: `AlibreScript.API`
 Namespace: `AlibreScript.API`
 
 Type of Windows input
-
----
-**[[Class List#class-list|⬆ Back to Top]]**

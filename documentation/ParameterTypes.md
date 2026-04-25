@@ -4,6 +4,3 @@
 - Kind: `Class`
 
 Type of parameter
-
----
-**[[ParameterTypes#parametertypes|⬆ Back to Top]]**

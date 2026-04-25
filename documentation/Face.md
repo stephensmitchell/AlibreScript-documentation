@@ -48,6 +48,3 @@ true if the faces are parallel
 
 """
 ```
-
----
-**[[Face#face|⬆ Back to Top]]**

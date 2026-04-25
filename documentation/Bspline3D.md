@@ -183,6 +183,3 @@ List of points between segments and normals [X1, Y1, Z1, A1, B1, C1, X2, Y2, Z2,
 
 """
 ```
-
----
-**[[Bspline3D#bspline3d|⬆ Back to Top]]**

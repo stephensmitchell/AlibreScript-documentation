@@ -3,6 +3,3 @@
 - **Property** [[Parameter#value|Value]] in [[Parameter]]
 - **Property** [[Assembly#vendor|Vendor]] in [[Assembly]]
 - **Property** [[Part#vendor|Vendor]] in [[Part]]
-
----
-**[[members-v#members-index-v|⬆ Back to Top]]**

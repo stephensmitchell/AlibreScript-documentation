@@ -1,6 +1,5 @@
 **[[Home]] | [[Classes]] | [[Members-Index|Members]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-**Navigation:** [[members-q|Q]] | [[members-s|S]] | [[Members-Index|Members Index]]
 
 *All members starting with the letter "R" - 34 items*
 
@@ -18,7 +17,7 @@
 - [[Assembly#regenerate|Regenerate]] - Rebuild objects
 - [[Assembly#resumeupdating|ResumeUpdating]] - Resume update operations
 
-### 🗑️ Removal Methods
+### Removal Methods
 - [[Polyline#removeduplicates|RemoveDuplicates]] - Clean duplicate points
 - [[Part#removefeature|RemoveFeature]] - Delete features
 - [[Part#removeplane|RemovePlane]] - Remove planes
@@ -55,6 +54,3 @@
 - **Method** [[Polyline#rotatez|RotateZ]] in [[Polyline]]
 - **Method** [[PolylinePoint#rotatez|RotateZ]] in [[PolylinePoint]]
 - **Method** [[CSharp#run|Run]] in [[CSharp]]
-
----
-**[[members-r#members-index-r|⬆ Back to Top]]**

@@ -1,6 +1,5 @@
 [[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
 
-**Location:** [[Classes#assembly-and-parts|Assembly & Parts]] Assembly
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
@@ -2744,7 +2743,3 @@ bounds_type (Assembly.ConstraintBoundsType): Bounds type for constraint
 
 """
 ```
-
----
-**[[Assembly#assembly|⬆ Back to Top]]**
-

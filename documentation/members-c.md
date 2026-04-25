@@ -1,6 +1,5 @@
 [[Home]] | [[Classes]] | [[Members-Index|Members]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
 
-**Navigation:** [[members-a|A]] | [[members-d|D]] | [[Members-Index|Members Index]]
 
 *All members starting with the letter "C"*
 
@@ -10,7 +9,7 @@
 - [[Circle#center|Center]] - Center points of geometric shapes
 - [[Circle#centerpoint|CenterPoint]] - Center as sketch point objects
 
-### 💬 Documentation Properties
+### Documentation Properties
 - [[Assembly#comment|Comment]] - Object comments and descriptions
 
 ### Object Operations
@@ -57,6 +56,3 @@
 - **Method** [[Assembly#createuniquename|CreateUniqueName]] in [[Assembly]]
 - **Property** [[Assembly#creatingapplication|CreatingApplication]] in [[Assembly]]
 - **Property** [[Part#creatingapplication|CreatingApplication]] in [[Part]]
-
----
-[[members-c#members-index-c|⬆ Back to Top]]

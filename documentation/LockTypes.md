@@ -4,6 +4,3 @@
 - Kind: `Class`
 
 Type of configuration lock
-
----
-**[[LockTypes#locktypes|⬆ Back to Top]]**

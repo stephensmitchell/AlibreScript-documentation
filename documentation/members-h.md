@@ -6,6 +6,3 @@
 - **Method** [[Part#hidefeature|HideFeature]] in [[Part]]
 - **Method** [[Assembly#hidepart|HidePart]] in [[Assembly]]
 - **Method** [[Assembly#hidesubassembly|HideSubAssembly]] in [[Assembly]]
-
----
-**[[members-h#members-index-h|⬆ Back to Top]]**

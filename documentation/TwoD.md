@@ -62,6 +62,3 @@ Rotated point as [RX, RY]
 
 """
 ```
-
----
-**[[TwoD#twod|⬆ Back to Top]]**

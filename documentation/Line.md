@@ -1,6 +1,5 @@
 [[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]
 
-**Location:** [[Classes#geometry|Geometry & Shapes]] Line
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
@@ -62,6 +61,3 @@ is_reference (bool): True if a reference line
 
 """
 ```
-
----
-[[Line#line|⬆ Back to Top]]

@@ -55,6 +55,3 @@ Mapped occurrence or null if not found
 
 """
 ```
-
----
-**[[AssembledSubAssembly#assembledsubassembly|⬆ Back to Top]]**

@@ -71,6 +71,3 @@ is_reference (bool): True if a reference arc, false if a regular arc
 
 """
 ```
-
----
-**[[CircularArc3D#circulararc3d|⬆ Back to Top]]**

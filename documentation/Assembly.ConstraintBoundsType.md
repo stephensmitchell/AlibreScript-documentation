@@ -4,6 +4,3 @@
 - Kind: `Class`
 
 Assembly constraint bounds types
-
----
-**[[Assembly.ConstraintBoundsType#assemblyconstraintboundstype|⬆ Back to Top]]**

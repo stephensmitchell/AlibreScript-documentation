@@ -1,6 +1,5 @@
 **[[Home]] | [[Classes]] | [[Interfaces]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-**Location:** [[Interfaces]] IAxis
 
 **Namespace:** `AlibreScript.API` | **Kind:** Interface
 
@@ -24,6 +23,3 @@ Gets the part occurrence for this instance
 ```python
 Object GetOccurrence()
 ```
-
----
-**[[IAxis#iaxis|⬆ Back to Top]]**

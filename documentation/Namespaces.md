@@ -27,7 +27,7 @@
 - [[Polyline]] / [[Polyline3D]] — Multi-segment lines
 - [[Bspline]] / [[Bspline3D]] — B-spline curves
 
-### 🧩 Core Geometric Elements
+### Core Geometric Elements
 - [[Point]] — Point operations
 - [[Axis]] — Axis definitions
 - [[Plane]] — Plane operations
@@ -75,7 +75,6 @@
 - [[Sketch.Constraints]] — Sketch constraint management
 
 ---
-**Navigation:** [[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
 
 ## AlibreScript.API.Assembly
 
@@ -97,9 +96,3 @@
 
 ### AlibreScript.API.Sketch
 - [[Sketch.Constraints]] — Sketch constraint management
-
----
-**Navigation:** [[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
-
-**[[Namespaces#namespaces|⬆ Back to Top]]**
-

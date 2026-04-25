@@ -423,7 +423,3 @@
 - [[Assembly#unsuppresspart|UnsuppressPart]] — in [[Assembly]]
 - [[Assembly#unsuppresssubassembly|UnsuppressSubAssembly]] — in [[Assembly]]
 - [[Windows#utilitydialog|UtilityDialog]] — in [[Windows]]
-
----
-**[[Methods-Index#methods-index|⬆ Back to Top]]**
-

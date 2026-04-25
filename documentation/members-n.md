@@ -20,6 +20,3 @@
 - **Method** [[TwoD#normalizevector|NormalizeVector]] in [[TwoD]]
 - **Property** [[Assembly#number|Number]] in [[Assembly]]
 - **Property** [[Part#number|Number]] in [[Part]]
-
----
-**[[members-n#members-index-n|⬆ Back to Top]]**

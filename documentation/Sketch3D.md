@@ -1,6 +1,5 @@
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-**Location:** [[Classes#sketching|Sketching & Drawing]] Sketch3D
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
@@ -269,6 +268,3 @@ file_name (str): Path and name of file to save to
 
 """
 ```
-
----
-**[[Sketch3D#sketch3d|⬆ Back to Top]]**

@@ -68,6 +68,3 @@ is_reference (bool): True to create a reference arc, false to create a regular a
 
 """
 ```
-
----
-**[[EllipticalArc#ellipticalarc|⬆ Back to Top]]**

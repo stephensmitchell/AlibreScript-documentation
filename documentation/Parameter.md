@@ -1,6 +1,5 @@
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-**Location:** [[Classes#configuration|Configuration & Parameters]] Parameter
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
@@ -79,6 +78,3 @@ units (UnitTypes): Units used in the cell
 
 """
 ```
-
----
-**[[Parameter#parameter|⬆ Back to Top]]**

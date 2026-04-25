@@ -37,6 +37,3 @@
 - **Method** [[Sketch#exportsvg|ExportSVG]] in [[Sketch]]
 - **Property** [[Assembly#extendedmaterialinformation|ExtendedMaterialInformation]] in [[Assembly]]
 - **Property** [[Part#extendedmaterialinformation|ExtendedMaterialInformation]] in [[Part]]
-
----
-**[[members-e#members-index-e|⬆ Back to Top]]**

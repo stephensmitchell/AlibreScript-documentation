@@ -12,6 +12,3 @@
 - **Property** [[Assembly#origin|Origin]] in [[Assembly]]
 - **Property** [[Part#origin|Origin]] in [[Part]]
 - **Property** [[Sketch#origin|Origin]] in [[Sketch]]
-
----
-**[[members-o#members-index-o|⬆ Back to Top]]**

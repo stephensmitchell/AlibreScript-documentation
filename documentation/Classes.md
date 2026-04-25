@@ -38,7 +38,7 @@
 - [[Bspline]] - 2D B-spline curve operations
 - [[Bspline3D]] - 3D B-spline curve operations
 
-### 🧩 Core Elements
+### Core Elements
 - [[Point]] - Point operations and properties
 - [[Axis]] - Axis definitions and operations
 - [[Plane]] - Plane operations and properties
@@ -122,8 +122,3 @@
 - [[Vertex]] (Class)
 - [[Windows]] (Class)
 - [[WindowsInputTypes]] (Class)
-
----
-**Navigation:** [[Home]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]
-
-**[[Classes#classes|⬆ Back to Top]]**

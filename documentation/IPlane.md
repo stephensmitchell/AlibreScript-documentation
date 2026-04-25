@@ -1,6 +1,5 @@
 **[[Home]] | [[Classes]] | [[Interfaces]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-**Location:** [[Interfaces]] IPlane
 
 **Namespace:** `AlibreScript.API` | **Kind:** Interface
 
@@ -24,6 +23,3 @@ Gets the part occurrence for this instance
 ```python
 Object GetOccurrence()
 ```
-
----
-**[[IPlane#iplane|⬆ Back to Top]]**

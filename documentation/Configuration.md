@@ -1,6 +1,5 @@
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-**Location:** [[Classes#configuration|Configuration & Parameters]] Configuration
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
@@ -44,6 +43,3 @@ locks (LockTypes): Locks to set
 
 """
 ```
-
----
-**[[Configuration#configuration|⬆ Back to Top]]**

@@ -8,6 +8,3 @@
 - **Method** [[Polyline#findintersectionwithcircle|FindIntersectionWithCircle]] in [[Polyline]]
 - **Method** [[Sketch#fromxml|FromXml]] in [[Sketch]]
 - **Method** [[Sketch3D#fromxml|FromXml]] in [[Sketch3D]]
-
----
-**[[members-f#members-index-f|⬆ Back to Top]]**

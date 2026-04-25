@@ -22,6 +22,3 @@
 - **Property** [[Line3D#isreference|IsReference]] in [[Line3D]]
 - **Property** [[SketchPoint#isreference|IsReference]] in [[SketchPoint]]
 - **Property** [[SketchPoint3D#isreference|IsReference]] in [[SketchPoint3D]]
-
----
-**[[members-i#members-index-i|⬆ Back to Top]]**

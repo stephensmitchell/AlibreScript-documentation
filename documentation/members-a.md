@@ -1,6 +1,5 @@
 [[Home]] | [[Classes]] | [[Members-Index|Members]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
 
-**Navigation:** [[members-z|Z]] | [[members-c|C]] | [[Members-Index|Members Index]]
 
 *All members starting with the letter "A"*
 
@@ -121,6 +120,3 @@
 - **Property** [[CircularArc3D#angle|Angle]] in [[CircularArc3D]]
 - **Method** [[AssembledPart#assemblypointtopartpoint|AssemblyPointtoPartPoint]] in [[AssembledPart]]
 - **Method** [[Parameter#attachtoexcel|AttachToExcel]] in [[Parameter]]
-
----
-**[[members-a#members-index-a|⬆ Back to Top]]**

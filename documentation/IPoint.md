@@ -1,6 +1,5 @@
 **[[Home]] | [[Classes]] | [[Interfaces]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-**Location:** [[Interfaces]] IPoint
 
 **Namespace:** `AlibreScript.API` | **Kind:** Interface
 
@@ -31,6 +30,3 @@ Low level object that represents the point
 ```python
 Object PointObject()
 ```
-
----
-**[[IPoint#ipoint|⬆ Back to Top]]**

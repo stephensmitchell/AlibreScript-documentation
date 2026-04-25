@@ -1,6 +1,5 @@
 **[[Home]] | [[Classes]] | [[Members-Index|Members]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-**Navigation:** [[members-f|F]] | [[members-h|H]] | [[Members-Index|Members Index]]
 
 *All members starting with the letter "G" - 86 items*
 
@@ -112,6 +111,3 @@
 - **Method** [[Bspline3D#gety|GetY]] in [[Bspline3D]]
 - **Method** [[Bspline3D#getz|GetZ]] in [[Bspline3D]]
 - **Method** [[Sketch#globaltopoint|GlobaltoPoint]] in [[Sketch]]
-
----
-**[[members-g#members-index-g|⬆ Back to Top]]**

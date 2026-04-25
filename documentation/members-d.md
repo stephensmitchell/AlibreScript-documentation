@@ -1,6 +1,5 @@
 [[Home]] | [[Classes]] | [[Members-Index|Members]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
 
-**Navigation:** [[members-c|C]] | [[members-e|E]] | [[Members-Index|Members Index]]
 
 *All members starting with the letter "D"*
 
@@ -36,6 +35,3 @@
 - **Property** [[Part#documentnumber|DocumentNumber]] in [[Part]]
 - **Method** [[Assembly#duplicatepart|DuplicatePart]] in [[Assembly]]
 - **Method** [[Assembly#duplicatesubassembly|DuplicateSubAssembly]] in [[Assembly]]
-
----
-[[members-d#members-index-d|⬆ Back to Top]]

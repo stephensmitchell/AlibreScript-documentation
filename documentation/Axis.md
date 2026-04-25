@@ -39,6 +39,3 @@ Shows the axis
 ```python
 Object Show()
 ```
-
----
-**[[Axis#axis|⬆ Back to Top]]**

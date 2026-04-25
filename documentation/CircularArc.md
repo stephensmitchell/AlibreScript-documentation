@@ -1,6 +1,5 @@
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-**Location:** [[Classes#geometry|Geometry & Shapes]] CircularArc
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
@@ -97,6 +96,3 @@ is_reference (bool): True if a reference arc, false if a regular arc
 
 """
 ```
-
----
-**[[CircularArc#circulararc|⬆ Back to Top]]**

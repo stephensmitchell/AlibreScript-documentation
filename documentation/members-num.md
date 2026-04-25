@@ -19,6 +19,3 @@
  - [[SketchPoint#sketchpoint]] — in [[SketchPoint]]
  - [[SketchPoint3D#sketchpoint3d]] — in [[SketchPoint3D]]
  - [[Windows#windows]] — in [[Windows]]
-
----
-[[Members-Index|⬆ Back to Members Index]]

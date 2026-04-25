@@ -1,6 +1,5 @@
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-**Location:** [[Classes#sketching|Sketching & Drawing]] Sketch
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
@@ -901,7 +900,3 @@ point_above_axis (list): Point to be located above the X-axis
 
 """
 ```
-
----
-**[[Sketch#sketch|⬆ Back to Top]]**
-

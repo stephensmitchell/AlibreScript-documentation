@@ -8,6 +8,3 @@
 - **Property** [[Part#xaxis|XAxis]] in [[Part]]
 - **Property** [[Assembly#xyplane|XYPlane]] in [[Assembly]]
 - **Property** [[Part#xyplane|XYPlane]] in [[Part]]
-
----
-**[[members-x#members-index-x|⬆ Back to Top]]**

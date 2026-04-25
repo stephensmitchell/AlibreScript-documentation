@@ -46,6 +46,3 @@ Welcome to the AlibreScript API documentation for IronPython 2.7.10. This docume
 
 > [!TIP]
 > Use the category links above to explore related functionality, or browse the complete [[Classes]] list for all available API elements.
-
----
-[[Home#alibrescript-api-documentation|⬆ Back to Top]]

@@ -36,6 +36,3 @@ is_reference (bool): true to create a reference point, false to create a regular
 
 """
 ```
-
----
-**[[SketchPoint#sketchpoint|⬆ Back to Top]]**

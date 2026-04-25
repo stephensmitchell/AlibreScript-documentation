@@ -29,6 +29,3 @@ true if the planes are parallel
 
 """
 ```
-
----
-**[[Plane#plane|⬆ Back to Top]]**

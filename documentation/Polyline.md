@@ -286,6 +286,3 @@ List of polylines [A, B]
 
 """
 ```
-
----
-**[[Polyline#polyline|⬆ Back to Top]]**

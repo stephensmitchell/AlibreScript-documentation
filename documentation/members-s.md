@@ -1,12 +1,11 @@
 **[[Home]] | [[Classes]] | [[Members-Index|Members]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]**
 
-**Navigation:** [[members-r|R]] | [[members-t|T]] | [[Members-Index|Members Index]]
 
 *All members starting with the letter "S" - 71 items*
 
 ## Key Categories in "S"
 
-### 💾 Save & Export Methods
+### Save & Export Methods
 - [[Assembly#save|Save]] - Save files
 - [[Assembly#saveas|SaveAs]] - Save with new name
 - [[Assembly#saveall|SaveAll]] - Save all files
@@ -18,7 +17,7 @@
 - [[Part#scale|Scale]] - Scale objects and geometry
 - [[Part#select|Select]] - Object selection
 
-### 🪟 Dialog & UI Methods
+### Dialog & UI Methods
 - [[Windows#savefiledialog|SaveFileDialog]] - File save dialogs
 
 ## Complete List
@@ -85,6 +84,3 @@
 - **Method** [[Part#suppressfeature|SuppressFeature]] in [[Part]]
 - **Method** [[Assembly#suppresspart|SuppressPart]] in [[Assembly]]
 - **Method** [[Assembly#suppresssubassembly|SuppressSubAssembly]] in [[Assembly]]
-
----
-**[[members-s#members-index-s|⬆ Back to Top]]**

@@ -48,6 +48,3 @@ is_reference (bool): True if a reference line
 
 """
 ```
-
----
-**[[Line3D#line3d|⬆ Back to Top]]**

@@ -4,6 +4,3 @@
 - Kind: `Class`
 
 Supported units
-
----
-**[[UnitTypes#unittypes|⬆ Back to Top]]**

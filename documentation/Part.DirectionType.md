@@ -4,6 +4,3 @@
 - Kind: `Class`
 
 Extrusion directions - extrude along...
-
----
-**[[Part.DirectionType#partdirectiontype|⬆ Back to Top]]**

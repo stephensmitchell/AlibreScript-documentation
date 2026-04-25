@@ -44,6 +44,3 @@ Transformed point [X, Y, Z]
 
 """
 ```
-
----
-**[[ThreeD#threed|⬆ Back to Top]]**

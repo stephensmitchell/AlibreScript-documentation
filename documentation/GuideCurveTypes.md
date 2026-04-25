@@ -4,6 +4,3 @@
 - Kind: `Class`
 
 Type of guide curve
-
----
-**[[GuideCurveTypes#guidecurvetypes|⬆ Back to Top]]**

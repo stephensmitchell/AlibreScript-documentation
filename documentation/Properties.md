@@ -264,6 +264,3 @@
 - `Object` — [[Part#zaxis|ZAxis]] in [[Part]]
 - `Object` — [[Assembly#zxplane|ZXPlane]] in [[Assembly]]
 - `Object` — [[Part#zxplane|ZXPlane]] in [[Part]]
-
----
-**[[Properties#properties|⬆ Back to Top]]**

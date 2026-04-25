@@ -277,7 +277,3 @@
 - [[Part#zaxis|ZAxis]] — in [[Part]]
 - [[Assembly#zxplane|ZXPlane]] — in [[Assembly]]
 - [[Part#zxplane|ZXPlane]] — in [[Part]]
-
----
-**[[Properties-Index#properties-index|⬆ Back to Top]]**
-

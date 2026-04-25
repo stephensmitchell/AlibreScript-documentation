@@ -40,6 +40,3 @@ Gets a python list of the current vertices in the edge
 ```python
 Object GetVertices()
 ```
-
----
-**[[Edge#edge|⬆ Back to Top]]**

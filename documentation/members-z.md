@@ -7,6 +7,3 @@
 - **Property** [[Part#zaxis|ZAxis]] in [[Part]]
 - **Property** [[Assembly#zxplane|ZXPlane]] in [[Assembly]]
 - **Property** [[Part#zxplane|ZXPlane]] in [[Part]]
-
----
-**[[members-z#members-index-z|⬆ Back to Top]]**

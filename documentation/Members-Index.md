@@ -34,8 +34,3 @@
 - Click letter links above to jump to specific alphabetical sections
 - Each member page shows related classes and method categories
 - Use the category links at the top to find methods by functional area
-
----
-**Navigation:** [[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]]
-
-**[[Members-Index#members-index|⬆ Back to Top]]**

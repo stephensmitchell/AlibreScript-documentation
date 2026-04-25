@@ -4,6 +4,3 @@
 - Kind: `Class`
 
 Types of circular arcs
-
----
-**[[CircularArc3D.ArcType#circulararc3darctype|⬆ Back to Top]]**

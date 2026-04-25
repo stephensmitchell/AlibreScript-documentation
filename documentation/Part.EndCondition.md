@@ -4,6 +4,3 @@
 - Kind: `Class`
 
 Extrusion end conditions - extrude until...
-
----
-**[[Part.EndCondition#partendcondition|⬆ Back to Top]]**

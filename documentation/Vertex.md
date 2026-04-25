@@ -37,6 +37,3 @@ Only valid when a selection has been made
 ```python
 Object GetSelectionAssembly()
 ```
-
----
-**[[Vertex#vertex|⬆ Back to Top]]**

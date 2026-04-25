@@ -1,6 +1,5 @@
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-**Location:** [[Classes#configuration|Configuration & Parameters]] GlobalParameters
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
@@ -230,6 +229,3 @@ new_name (str): New name for global parameters set
 
 """
 ```
-
----
-**[[GlobalParameters#globalparameters|⬆ Back to Top]]**

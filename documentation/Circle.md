@@ -1,6 +1,5 @@
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-**Location:** [[Classes#geometry|Geometry & Shapes]] Circle
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
@@ -84,7 +83,3 @@ is_reference (bool): True to create a reference circle
 
 """
 ```
-
----
-**[[Circle#circle|⬆ Back to Top]]**
-

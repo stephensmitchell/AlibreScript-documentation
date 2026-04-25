@@ -65,6 +65,3 @@ New point with scaling applied
 
 """
 ```
-
----
-**[[PolylinePoint3D#polylinepoint3d|⬆ Back to Top]]**

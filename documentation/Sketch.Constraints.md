@@ -4,6 +4,3 @@
 - Kind: `Class`
 
 Supported sketch constraints
-
----
-**[[Sketch.Constraints#sketchconstraints|⬆ Back to Top]]**

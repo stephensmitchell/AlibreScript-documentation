@@ -168,6 +168,3 @@ List of polylines [A, B]
 
 """
 ```
-
----
-**[[Polyline3D#polyline3d|⬆ Back to Top]]**

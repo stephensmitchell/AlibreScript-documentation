@@ -1,6 +1,5 @@
 **[[Home]] | [[Classes]] | [[Methods-Index|Methods]] | [[Properties-Index|Properties]] | [[Members-Index|Members]]**
 
-**Location:** [[Classes#assembly-and-parts|Assembly & Parts]] Feature
 
 **Namespace:** `AlibreScript.API` | **Kind:** Class
 
@@ -41,6 +40,3 @@ blue (byte): Blue component 0 - 255
 
 """
 ```
-
----
-**[[Feature#feature|⬆ Back to Top]]**
